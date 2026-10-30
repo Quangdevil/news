@@ -1,0 +1,1221 @@
+{
+  "updated": "2026-10-30",
+  "hs": "081060",
+  "reporter": "China",
+  "flow": "Imports",
+  "sourceLabel": "ITC Trade Map qua bảng công khai của 小橘 · chưa đối chiếu đầy đủ nguồn gốc",
+  "notes": "Dữ liệu tháng 2023-01 đã so với mẫu UN Comtrade; các tháng khác chưa đối chiếu gốc. Không thay thế bằng số 0 khi thiếu. API Comtrade giới hạn truy cập trong lượt thu thập nên không nối hai nguồn thành một chuỗi.",
+  "verification": [
+    {
+      "month": "2023-01",
+      "origin": "World",
+      "comtradeNetKg": 31807800.0,
+      "secondaryNetKg": 31807795,
+      "match": false
+    },
+    {
+      "month": "2023-01",
+      "origin": "VN",
+      "comtradeNetKg": 8612900.0,
+      "secondaryNetKg": 8612902,
+      "match": false
+    },
+    {
+      "month": "2023-01",
+      "origin": "TH",
+      "comtradeNetKg": 23194900.0,
+      "secondaryNetKg": 23194893,
+      "match": false
+    }
+  ],
+  "rows": [
+    {
+      "month": "2023-01",
+      "origin": "World",
+      "netKg": 31807795,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-01",
+      "origin": "VN",
+      "netKg": 8612902,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-01",
+      "origin": "TH",
+      "netKg": 23194893,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-02",
+      "origin": "World",
+      "netKg": 21112162,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-02",
+      "origin": "VN",
+      "netKg": 4881466,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-02",
+      "origin": "TH",
+      "netKg": 16230696,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-03",
+      "origin": "World",
+      "netKg": 38537722,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-03",
+      "origin": "VN",
+      "netKg": 13897450,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-03",
+      "origin": "TH",
+      "netKg": 24640272,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-04",
+      "origin": "World",
+      "netKg": 220909276,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-04",
+      "origin": "VN",
+      "netKg": 14040585,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-04",
+      "origin": "TH",
+      "netKg": 206617441,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-05",
+      "origin": "World",
+      "netKg": 223569083,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-05",
+      "origin": "VN",
+      "netKg": 47763162,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-05",
+      "origin": "TH",
+      "netKg": 175581740,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-06",
+      "origin": "World",
+      "netKg": 252331518,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-06",
+      "origin": "VN",
+      "netKg": 97828537,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-06",
+      "origin": "TH",
+      "netKg": 154501011,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-07",
+      "origin": "World",
+      "netKg": 200621156,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-07",
+      "origin": "VN",
+      "netKg": 47532674,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-07",
+      "origin": "TH",
+      "netKg": 153060754,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-08",
+      "origin": "World",
+      "netKg": 107294680,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-08",
+      "origin": "VN",
+      "netKg": 36540781,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-08",
+      "origin": "TH",
+      "netKg": 70349019,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-09",
+      "origin": "World",
+      "netKg": 143825679,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-09",
+      "origin": "VN",
+      "netKg": 87713382,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-09",
+      "origin": "TH",
+      "netKg": 54754939,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-10",
+      "origin": "World",
+      "netKg": 120108490,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-10",
+      "origin": "VN",
+      "netKg": 93844279,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-10",
+      "origin": "TH",
+      "netKg": 25205879,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-11",
+      "origin": "World",
+      "netKg": 38842859,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-11",
+      "origin": "VN",
+      "netKg": 27113072,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-11",
+      "origin": "TH",
+      "netKg": 11316810,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-12",
+      "origin": "World",
+      "netKg": 26897945,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-12",
+      "origin": "VN",
+      "netKg": 13378896,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2023-12",
+      "origin": "TH",
+      "netKg": 13494560,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2023"
+    },
+    {
+      "month": "2024-01",
+      "origin": "World",
+      "netKg": 32778397,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-01",
+      "origin": "VN",
+      "netKg": 22397261,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-01",
+      "origin": "TH",
+      "netKg": 10143810,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-02",
+      "origin": "World",
+      "netKg": 20431215,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-02",
+      "origin": "VN",
+      "netKg": 10452500,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-02",
+      "origin": "TH",
+      "netKg": 9470279,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-03",
+      "origin": "World",
+      "netKg": 20608387,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-03",
+      "origin": "VN",
+      "netKg": 12197701,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-03",
+      "origin": "TH",
+      "netKg": 7650476,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-04",
+      "origin": "World",
+      "netKg": 128579247,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-04",
+      "origin": "VN",
+      "netKg": 34189177,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-04",
+      "origin": "TH",
+      "netKg": 94117919,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-05",
+      "origin": "World",
+      "netKg": 380243420,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-05",
+      "origin": "VN",
+      "netKg": 81099587,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-05",
+      "origin": "TH",
+      "netKg": 299118781,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-06",
+      "origin": "World",
+      "netKg": 251014695,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-06",
+      "origin": "VN",
+      "netKg": 113236288,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-06",
+      "origin": "TH",
+      "netKg": 137753647,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-07",
+      "origin": "World",
+      "netKg": 145400073,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-07",
+      "origin": "VN",
+      "netKg": 67183767,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-07",
+      "origin": "TH",
+      "netKg": 78149811,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-08",
+      "origin": "World",
+      "netKg": 172381882,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-08",
+      "origin": "VN",
+      "netKg": 110620643,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-08",
+      "origin": "TH",
+      "netKg": 60741789,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-09",
+      "origin": "World",
+      "netKg": 227882531,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-09",
+      "origin": "VN",
+      "netKg": 166649740,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-09",
+      "origin": "TH",
+      "netKg": 57671681,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-10",
+      "origin": "World",
+      "netKg": 117735798,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-10",
+      "origin": "VN",
+      "netKg": 83720809,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-10",
+      "origin": "TH",
+      "netKg": 29998965,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-11",
+      "origin": "World",
+      "netKg": 33456309,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-11",
+      "origin": "VN",
+      "netKg": 18939319,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-11",
+      "origin": "TH",
+      "netKg": 11465845,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-12",
+      "origin": "World",
+      "netKg": 29877231,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-12",
+      "origin": "VN",
+      "netKg": 16066528,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2024-12",
+      "origin": "TH",
+      "netKg": 13544366,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2024"
+    },
+    {
+      "month": "2025-01",
+      "origin": "World",
+      "netKg": 10273044,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-01",
+      "origin": "VN",
+      "netKg": 7263083,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-01",
+      "origin": "TH",
+      "netKg": 2886375,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-02",
+      "origin": "World",
+      "netKg": 12714689,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-02",
+      "origin": "VN",
+      "netKg": 1238276,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-02",
+      "origin": "TH",
+      "netKg": 11430064,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-03",
+      "origin": "World",
+      "netKg": 16474587,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-03",
+      "origin": "VN",
+      "netKg": 4422199,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-03",
+      "origin": "TH",
+      "netKg": 11844017,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-04",
+      "origin": "World",
+      "netKg": 61225094,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-04",
+      "origin": "VN",
+      "netKg": 8131346,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-04",
+      "origin": "TH",
+      "netKg": 52938344,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-05",
+      "origin": "World",
+      "netKg": 290185727,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-05",
+      "origin": "VN",
+      "netKg": 40334920,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-05",
+      "origin": "TH",
+      "netKg": 249793219,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-06",
+      "origin": "World",
+      "netKg": 317315307,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-06",
+      "origin": "VN",
+      "netKg": 96181706,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-06",
+      "origin": "TH",
+      "netKg": 221037029,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-07",
+      "origin": "World",
+      "netKg": 287067016,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-07",
+      "origin": "VN",
+      "netKg": 90867420,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-07",
+      "origin": "TH",
+      "netKg": 195976827,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-08",
+      "origin": "World",
+      "netKg": 243738857,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-08",
+      "origin": "VN",
+      "netKg": 124160339,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-08",
+      "origin": "TH",
+      "netKg": 119429086,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-09",
+      "origin": "World",
+      "netKg": 274183817,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-09",
+      "origin": "VN",
+      "netKg": 247260667,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-09",
+      "origin": "TH",
+      "netKg": 26383137,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-10",
+      "origin": "World",
+      "netKg": 187294496,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-10",
+      "origin": "VN",
+      "netKg": 178202692,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-10",
+      "origin": "TH",
+      "netKg": 7111512,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-11",
+      "origin": "World",
+      "netKg": 92378541,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-11",
+      "origin": "VN",
+      "netKg": 86431049,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-11",
+      "origin": "TH",
+      "netKg": 4632450,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-12",
+      "origin": "World",
+      "netKg": 75160830,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-12",
+      "origin": "VN",
+      "netKg": 56688938,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2025-12",
+      "origin": "TH",
+      "netKg": 17116305,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2025"
+    },
+    {
+      "month": "2026-01",
+      "origin": "World",
+      "netKg": 72384185,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-01",
+      "origin": "VN",
+      "netKg": 28101205,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-01",
+      "origin": "TH",
+      "netKg": 42743872,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-02",
+      "origin": "World",
+      "netKg": 51448693,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-02",
+      "origin": "VN",
+      "netKg": 8139856,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-02",
+      "origin": "TH",
+      "netKg": 41804681,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-03",
+      "origin": "World",
+      "netKg": 31749339,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-03",
+      "origin": "VN",
+      "netKg": 12577404,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-03",
+      "origin": "TH",
+      "netKg": 18332324,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-04",
+      "origin": "World",
+      "netKg": 200685525,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-04",
+      "origin": "VN",
+      "netKg": 14058750,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-04",
+      "origin": "TH",
+      "netKg": 185674794,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-05",
+      "origin": "World",
+      "netKg": 377195289,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-05",
+      "origin": "VN",
+      "netKg": 59525686,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-05",
+      "origin": "TH",
+      "netKg": 317238720,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-06",
+      "origin": "World",
+      "netKg": 339790621,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-06",
+      "origin": "VN",
+      "netKg": 115850965,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-06",
+      "origin": "TH",
+      "netKg": 220834939,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-07",
+      "origin": "World",
+      "netKg": 377316058,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-07",
+      "origin": "VN",
+      "netKg": 162861200,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-07",
+      "origin": "TH",
+      "netKg": 209642123,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-08",
+      "origin": "World",
+      "netKg": 336859952,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-08",
+      "origin": "VN",
+      "netKg": 202915388,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    },
+    {
+      "month": "2026-08",
+      "origin": "TH",
+      "netKg": 130643843,
+      "valueUsd": null,
+      "unitUsdKg": null,
+      "source": "xiaoju-trademap",
+      "sourceUrl": "https://www.xiaoju365.net/research-trade.php?year=2026"
+    }
+  ]
+}
