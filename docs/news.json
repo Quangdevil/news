@@ -1,46 +1,61 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T13:13:46+07:00",
+  "updatedAt": "2026-10-30T13:58:38+07:00",
   "stories": [
     {
       "id": "2026-10-30-afternoon",
       "date": "2026-10-30",
-      "publishedAt": "2026-10-30T13:13:46+07:00",
+      "publishedAt": "2026-10-30T13:58:38+07:00",
       "label": "Chiều",
-      "tag": "GIA HƯNG · 30/10",
-      "headline": "Gia Hưng tăng giá tham khảo, sức mua chờ tín hiệu",
-      "summary": "Ngày 30/10, giá tham khảo Monthong Việt tại Gia Hưng tăng lên 38,90 NDT/kg; hàng Thái đạt 62,40 NDT/kg. Chưa có giá thành giao mới để xác nhận đà tăng.",
-      "videoStatus": "Lần kiểm tra gần nhất sáng 30/10: đúng ID shuiguoliere41, chưa đọc được danh sách bài mới sau 28/10. Các giá bên dưới là nguồn độc lập, không gán cho Kim Đồng.",
+      "tag": "GIÁ THAM KHẢO PHÂN HÓA",
+      "headline": "Gia Hưng nhích lên, Vô Tích giảm giá tham khảo",
+      "summary": "Mẫu giá ngày 30/10 diễn biến trái chiều giữa hai chợ. Chưa có giá thành giao và sức bán mới để xác nhận đà tăng chung.",
+      "videoStatus": "Kiểm tra chiều 30/10/2026: hồ sơ Feigua khớp tên 水果猎人-----金童 và Douyin ID shuiguoliere41. Trang Douyin gốc không có nội dung đọc được qua công cụ; tìm kiếm chưa xác minh được video sau mốc 28/10/2026 14:13. Không đồng nghĩa không có bài mới. Nguồn 小宝哥/刘宝峰 tại Cao Bi Điếm chưa xác minh được tài khoản/video mới; kết quả 19/09 không dùng làm tin hôm nay.",
       "rows": [
         {
-          "market": "Gia Hưng · hàng Việt",
+          "market": "Gia Hưng · Monthong Việt",
           "asOf": "30/10/2026",
           "volume": "—",
-          "price": "38,90 NDT/kg · chưa phân hạng",
-          "sales": "Tăng 3,30 NDT/kg so với 29/10"
+          "price": "38,90 NDT/kg · chưa rõ hạng",
+          "sales": "+3,30 NDT/kg so với 29/10"
         },
         {
-          "market": "Gia Hưng · hàng Thái",
+          "market": "Gia Hưng · Monthong Thái",
           "asOf": "30/10/2026",
           "volume": "—",
-          "price": "62,40 NDT/kg · chưa phân hạng",
-          "sales": "Tăng 6,80 NDT/kg so với 29/10"
+          "price": "62,40 NDT/kg · chưa rõ hạng",
+          "sales": "+6,80 NDT/kg so với 29/10"
+        },
+        {
+          "market": "Vô Tích · sầu riêng",
+          "asOf": "30/10/2026",
+          "volume": "—",
+          "price": "27,75 NDT/kg · chưa rõ giống, xuất xứ, hạng",
+          "sales": "−1,65 NDT/kg so với 29/10"
         }
       ],
-      "takeaway": "Đà hồi sẽ rõ hơn khi giá giao dịch tăng cùng sức bán. Nếu hàng cũ còn nhiều, giá thu mua tại Việt Nam khó tăng bền.",
-      "limits": "Nguồn tổng hợp, giá tính tham khảo tại Gia Hưng; không đại diện toàn Trung Quốc. Chưa có báo cáo hàng về, tồn kho và thông quan mới sau bộ số liệu 27/10 được đối chiếu.",
+      "takeaway": "Giá còn phân hóa. Thu mua Việt Nam có thêm lực đỡ nếu giá giao dịch tăng và hàng cũ giảm; sức bán yếu có thể khiến nhịp hồi chững lại.",
+      "limits": "So với bản bổ sung lúc 13:13 ngày 30/10, hai mẫu Gia Hưng không đổi; bổ sung mẫu Vô Tích. Chưa có lượng hàng, tồn kho, tốc độ tiêu thụ hoặc thông quan mới sau bộ dữ liệu 27/10 trong nguồn đã kiểm tra. Giá tính tham khảo không phải giá chào hoặc giao dịch. Vô Tích không rõ giống/xuất xứ nên không so mức tuyệt đối với Monthong Gia Hưng. Ngày truy xuất/tìm kiếm 30/10 không thay thế ngày đăng video hay ngày số liệu. Chưa xác minh được thông báo kiểm dịch/logistics mới trong lượt này.",
       "sources": [
         {
-          "label": "Mẫu giá tham khảo Gia Hưng · ngày 30/10",
+          "label": "Mẫu tham khảo theo ngày 30/10 · Gia Hưng và Vô Tích",
           "url": "https://www.xiaoju365.net/"
         },
         {
-          "label": "Báo cáo lượng hàng · giữ ngày số liệu",
+          "label": "Báo cáo thị trường · dữ liệu mới nhất 27/10, công bố 28/10",
           "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Hồ sơ xác nhận tên và ID tài khoản",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Trang Douyin gốc · không đọc được danh sách bài",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
         }
       ],
       "priceHeading": "Giá tham khảo",
-      "editorNote": "Giá tham khảo, chưa xác nhận thành giao."
+      "editorNote": "Giá tính tham khảo, chưa xác nhận thành giao."
     },
     {
       "id": "2026-10-30-morning",
