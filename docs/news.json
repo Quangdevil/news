@@ -1,7 +1,69 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T13:58:38+07:00",
+  "updatedAt": "2026-10-30T20:03:23+07:00",
   "stories": [
+    {
+      "id": "2026-10-30-evening",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T20:03:23+07:00",
+      "label": "Tối",
+      "tag": "SỐ LIỆU CHỢ · 29/10",
+      "headline": "Cao Bi Điếm nặng hàng cũ, Quảng Châu chưa bứt giá",
+      "summary": "Ghi nhận ngày 29/10 cho thấy hàng cũ vẫn chiếm phần lớn tại Cao Bi Điếm và Vạn Bang. Quảng Châu chủ yếu giữ giá, chênh lệch giữa giá chào và thành giao còn rõ.",
+      "priceHeading": "Giá / giao dịch",
+      "videoStatus": "Kiểm tra tối 30/10/2026: hồ sơ Feigua khớp 水果猎人-----金童, ID shuiguoliere41. Trang Douyin gốc không có danh sách video đọc được; các tìm kiếm không xác minh được bài sau mốc 28/10/2026 14:13. Không kết luận không có video mới. Không sử dụng tài khoản 阿龙. Với 小宝哥/刘宝峰, kết quả mới nhất xác minh ngày đăng được vẫn là video nhắc tên ngày 19/09/2026 20:50; chưa xác minh đúng tài khoản và video hiện tại, không đưa làm tin mới.",
+      "rows": [
+        {
+          "market": "Quảng Châu",
+          "asOf": "29/10/2026",
+          "volume": "59–62 cont; một ghi nhận: 25 mới, 34 cũ",
+          "price": "Monthong Việt A3 tốt, thùng 10 kg: chào 370–400; thành giao 350–380 NDT/thùng",
+          "sales": "Khoảng 30% lúc ghi nhận; dự kiến cả ngày 50–60%"
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "29/10/2026",
+          "volume": "100–117 cont; 80–89 cont cũ",
+          "price": "Monthong Việt loại 1 tốt, 18 斤 (9 kg): tham khảo 320–330 NDT/thùng",
+          "sales": "Dự kiến cả ngày 30–40%"
+        },
+        {
+          "market": "Gia Hưng",
+          "asOf": "29/10/2026",
+          "volume": "98–102 cont; ghi nhận khác: 95 cont",
+          "price": "—",
+          "sales": "Một ghi nhận bán khoảng 30%, chưa rõ giờ chốt"
+        },
+        {
+          "market": "Vạn Bang",
+          "asOf": "29/10/2026",
+          "volume": "82–86 cont; 72–76 cont cũ",
+          "price": "—",
+          "sales": "Khách ít, hàng ra chậm"
+        }
+      ],
+      "takeaway": "Nhịp hồi chưa đều. Giá thu mua Việt Nam có thêm lực đỡ nếu giá giao dịch tăng và hàng cũ giảm; sức bán yếu có thể khiến giá chững lại.",
+      "editorNote": "Các tỷ lệ dự kiến chưa phải kết quả cuối ngày.",
+      "limits": "Báo cáo gốc mang ngày công bố và dữ liệu 29/10; kiểm tra bằng công cụ tối 30/10, không đổi ngày số liệu sang 30/10. Các khoảng cont là nhiều ghi nhận, không phải một phép tổng hoặc toàn bộ hàng mới về. Không tính phần trăm thay đổi so với 27/10 do khác ngày và phạm vi. Cao Bi Điếm A khoảng100/new20/old80, B117/new28/old89; không trộn các thành phần thành một snapshot khác. Gia Hưng 95 có new41/old54 ở nguồn riêng, không gộp với 98–102. Giá Cao Bi Điếm là tham khảo, không được xác nhận thành giao; 18 斤=9kg. Bản tổng hợp 小橘 có tiêu đề nhóm giá Thái/Việt bị đặt lệch; giá và xuất xứ ở đây lấy từ báo cáo gốc DIN. Nguồn ngành chưa kiểm chứng độc lập bằng dữ liệu chợ/hải quan chính thức. Chưa có thông báo kiểm dịch/logistics mới được xác minh để suy tác động. Giá Gia Hưng ngày30 trong mẫu tham khảo không thay đổi so với bản chiều, không lặp thành tin mới. Đây không phải phát biểu mới của chủ kênh.",
+      "sources": [
+        {
+          "label": "Báo cáo thị trường gốc · ngày29/10",
+          "url": "https://www.10100.com/article/156383021"
+        },
+        {
+          "label": "Giá thu mua vùng trồng gốc · ngày29/10",
+          "url": "https://www.10100.com/article/156383022"
+        },
+        {
+          "label": "Hồ sơ đối chiếu tên và ID",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Trang Douyin gốc không đọc được danh sách bài",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        }
+      ]
+    },
     {
       "id": "2026-10-30-afternoon",
       "date": "2026-10-30",
