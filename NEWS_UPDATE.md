@@ -14,3 +14,8 @@ Không cần đăng nhập trình duyệt để cập nhật; writer là GitHub 
 
 
 Trang công khai đã bật tại https://quangdevil.github.io/news/ . Biểu đồ nằm ở docs/charts.html, dùng docs/trade.json và docs/market-data.json. Bổ sung số liệu giá / lượng / sản lượng mới đủ rõ vào đúng tệp và schema nếu nghiên cứu có kết quả, giữ nguồn, ngày, đơn vị, phạm vi và trạng thái thực tế/dự kiến; không ghi đè chuỗi lịch sử hoặc tự nội suy. Dữ liệu Trade Map hiện qua nguồn tổng hợp; không gán thành dữ liệu video Kim Đồng.
+
+
+## Biên tập phần hiển thị công khai
+
+Quang Duren News là trang tin do Quang tổng hợp. Ghi chung “Tổng hợp từ Internet”. Không hiện tên kênh, ID Douyin, tài khoản, đường dẫn quảng bá, block videoStatus hay danh sách nguồn ở giao diện; nguồn chi tiết vẫn giữ trong dữ liệu để kiểm tra. Không trình bày các giải thích kỹ thuật về web, quy trình thu thập hay nội dung trò chuyện trong bản tin công khai. Tiêu đề ngắn, viết theo lối báo chí, nêu diễn biến chính; tránh câu hỏi câu khách hoặc nhận định quá dữ kiện. Summary tối đa 2 câu. Bảng ngắn, rõ ngày, đơn vị, quy cách và giá tham khảo / chào / thành giao. Trường editorNote chỉ dùng cho giới hạn ảnh hưởng trực tiếp cách hiểu số liệu, tối đa 1 câu; không lặp note chung. Nếu thiếu dữ liệu, ghi — hoặc Chưa cập nhật, không chế số. Trường priceHeading tùy chọn có thể là Giá tham khảo hoặc Giá bán. Giữ videoStatus và sources trong JSON phục vụ đối chiếu, không chèn chúng vào summary/headline/rows/takeaway. Điều này chỉ áp dụng giao diện công khai, việc nghiên cứu vẫn xác minh đúng nguồn và giữ trọn provenance.

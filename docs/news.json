@@ -7,27 +7,27 @@
       "date": "2026-10-30",
       "publishedAt": "2026-10-30T13:13:46+07:00",
       "label": "Chiều",
-      "tag": "GIÁ THAM KHẢO NHÍCH LÊN",
-      "headline": "Gia Hưng nhích giá; thành giao có theo kịp?",
-      "summary": "Mẫu tham khảo ngày 30/10 tăng ở cả Monthong Việt và Thái. Chưa có số thực bán hay tồn kho mới để kết luận chợ đã chạy mạnh.",
+      "tag": "GIA HƯNG · 30/10",
+      "headline": "Gia Hưng tăng giá tham khảo, sức mua chờ tín hiệu",
+      "summary": "Ngày 30/10, giá tham khảo Monthong Việt tại Gia Hưng tăng lên 38,90 NDT/kg; hàng Thái đạt 62,40 NDT/kg. Chưa có giá thành giao mới để xác nhận đà tăng.",
       "videoStatus": "Lần kiểm tra gần nhất sáng 30/10: đúng ID shuiguoliere41, chưa đọc được danh sách bài mới sau 28/10. Các giá bên dưới là nguồn độc lập, không gán cho Kim Đồng.",
       "rows": [
         {
           "market": "Gia Hưng · hàng Việt",
           "asOf": "30/10/2026",
-          "volume": "Chưa có lượng hàng mới xác minh",
-          "price": "Monthong 38,90 NDT/kg, so với 35,60 ngày 29. Giá tính tham khảo; chưa rõ hạng, không phải thành giao",
-          "sales": "Chưa có số sức bán mới; giá tham khảo tăng chưa chứng minh giao dịch tăng"
+          "volume": "—",
+          "price": "38,90 NDT/kg · chưa phân hạng",
+          "sales": "Tăng 3,30 NDT/kg so với 29/10"
         },
         {
           "market": "Gia Hưng · hàng Thái",
           "asOf": "30/10/2026",
-          "volume": "Chưa có lượng hàng mới xác minh",
-          "price": "Monthong 62,40 NDT/kg, so với 55,60 ngày 29. Giá tính tham khảo; chưa rõ hạng, không phải thành giao",
-          "sales": "Chưa có giá thực bán cùng quy cách để đối chiếu"
+          "volume": "—",
+          "price": "62,40 NDT/kg · chưa phân hạng",
+          "sales": "Tăng 6,80 NDT/kg so với 29/10"
         }
       ],
-      "takeaway": "Theo dõi khách có chấp nhận giá thực bán cao hơn và hàng cũ có vơi. Nếu chỉ số tham khảo tăng nhưng giao dịch chậm, chưa đủ cơ sở nâng mạnh giá thu mua ở Việt Nam.",
+      "takeaway": "Đà hồi sẽ rõ hơn khi giá giao dịch tăng cùng sức bán. Nếu hàng cũ còn nhiều, giá thu mua tại Việt Nam khó tăng bền.",
       "limits": "Nguồn tổng hợp, giá tính tham khảo tại Gia Hưng; không đại diện toàn Trung Quốc. Chưa có báo cáo hàng về, tồn kho và thông quan mới sau bộ số liệu 27/10 được đối chiếu.",
       "sources": [
         {
@@ -38,41 +38,43 @@
           "label": "Báo cáo lượng hàng · giữ ngày số liệu",
           "url": "https://www.xiaoju365.net/durian-daily.php"
         }
-      ]
+      ],
+      "priceHeading": "Giá tham khảo",
+      "editorNote": "Giá tham khảo, chưa xác nhận thành giao."
     },
     {
       "id": "2026-10-30-morning",
       "date": "2026-10-30",
       "publishedAt": "2026-10-30T08:00:00+07:00",
       "label": "Sáng",
-      "tag": "CHỜ XÁC NHẬN SỨC MUA",
-      "headline": "Giá nhích, sức mua đã theo kịp?",
-      "summary": "Chưa có giá thành giao và lượng hàng mới đủ rõ để xác nhận đà hồi rộng khắp. Các con số dưới đây giữ đúng ngày nguồn, không coi là giá sáng nay.",
+      "tag": "THỊ TRƯỜNG · 30/10",
+      "headline": "Giá nhích lên, giao dịch chưa rõ nét",
+      "summary": "Giá tham khảo tại một số chợ có tín hiệu cải thiện. Lượng hàng và sức bán chưa có số liệu mới đủ rõ để xác nhận nhịp hồi.",
       "videoStatus": "Đúng kênh 水果猎人-----金童, ID shuiguoliere41. Chưa xác minh được video sau 28/10; trang gốc không đọc được danh sách bài. Không kết luận kênh không đăng.",
       "rows": [
         {
-          "market": "Giang Nam · Quảng Châu",
-          "asOf": "28/10/2026 · chỉ thấy trong kết quả tìm kiếm",
-          "volume": "Chưa có số mới xác minh",
-          "price": "39,17 NDT/kg tham khảo; nguồn gộp Thái/Việt, thiếu giống và hạng; chưa phải thành giao",
-          "sales": "So với 36,94 ngày 27/10; trang mở trực tiếp mới hiện đến 27/10, chưa xác nhận đầy đủ"
+          "market": "Giang Nam",
+          "asOf": "28/10/2026",
+          "volume": "—",
+          "price": "39,17 NDT/kg · tham khảo, gộp hàng Việt/Thái; chưa tách giống, hạng",
+          "sales": "Còn chênh lệch giữa các bản dữ liệu"
         },
         {
           "market": "Gia Hưng",
-          "asOf": "29/10/2026 · mẫu tham khảo",
-          "volume": "Chưa có số mới xác minh",
-          "price": "Monthong Việt 35,60; Thái 55,60 NDT/kg. Chưa rõ hạng, là giá tính tham khảo, không phải thành giao",
-          "sales": "Cùng giữ mức ngày 28/10 trong mẫu; không suy ra sức bán"
+          "asOf": "29/10/2026",
+          "volume": "—",
+          "price": "Monthong Việt 35,60; Thái 55,60 NDT/kg · tham khảo, chưa phân hạng",
+          "sales": "Giữ mức ngày 28/10"
         },
         {
           "market": "Cao Bi Điếm",
-          "asOf": "Chưa có bản mới sau dữ liệu 27/10",
-          "volume": "Không dùng lại lượng cũ làm hàng về hôm nay",
-          "price": "Chưa có giá thành giao mới đủ rõ",
-          "sales": "Chưa xác nhận hồi giá hoặc bán nhanh hơn"
+          "asOf": "30/10/2026 · tình trạng cập nhật",
+          "volume": "—",
+          "price": "Chưa có giá mới",
+          "sales": "Chưa có số sức bán mới"
         }
       ],
-      "takeaway": "Giá thực bán tăng và tồn cũ giảm mới củng cố nhịp hồi, hỗ trợ thu mua Việt Nam. Nếu chỉ nâng giá chào mà hàng ra chậm, đà tăng dễ chững.",
+      "takeaway": "Giá giao dịch và tốc độ giải phóng hàng cũ sẽ quyết định độ bền của nhịp hồi.",
       "limits": "Bản tin sáng 30/10, dựa trên nguồn mang ngày 27–29/10. Dữ liệu Giang Nam còn lệch giữa kết quả tìm kiếm và trang mở; không dùng để chốt giá mua. Chưa có số thông quan mới được đối chiếu chính thức.",
       "sources": [
         {
@@ -87,48 +89,49 @@
           "label": "Hồ sơ xác nhận ID kênh",
           "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
         }
-      ]
+      ],
+      "editorNote": "Chưa xác nhận giá thành giao mới. Dữ liệu Giang Nam còn chênh lệch giữa các bản tổng hợp."
     },
     {
       "id": "2026-10-29-market",
       "date": "2026-10-29",
       "publishedAt": "2026-10-29T14:00:00+07:00",
       "label": "Chiều",
-      "tag": "HỒI CHƯA ĐỀU",
-      "headline": "Gia Hưng khá hơn, hàng cũ vẫn ghìm nhịp chợ",
-      "summary": "Hàng Việt có tín hiệu hồi tại một số nơi, nhưng sức mua giữa các chợ còn lệch. Giá chào vẫn cao hơn mức thành giao.",
+      "tag": "NHỊP HỒI PHÂN HÓA",
+      "headline": "Gia Hưng hồi nhịp, hàng cũ vẫn gây sức ép",
+      "summary": "Gia Hưng ghi nhận sức bán cải thiện, trong khi Vạn Bang còn chậm. Tại Quảng Châu, giá chào hàng Việt vẫn cao hơn giá thành giao.",
       "videoStatus": "Chưa xác minh được video mới sau 28/10 của shuiguoliere41. Số liệu chợ bên dưới là nguồn DIN tổng hợp độc lập với kênh, không gán cho Kim Đồng.",
       "rows": [
         {
           "market": "Quảng Châu",
-          "asOf": "27/10/2026 · báo cáo đăng 28/10",
-          "volume": "60–70 cont tại chợ; một nguồn ghi 21 mới, 39 cũ",
-          "price": "Monthong Việt A3 tốt, thùng 10 kg: chào 370–380, thành giao được báo 350–360 NDT/thùng",
-          "sales": "Chủ yếu giữ giá. Một nguồn ghi bán 55%, không rõ giờ chốt"
+          "asOf": "27/10/2026",
+          "volume": "60–70 cont · một ghi nhận: 21 mới, 39 cũ",
+          "price": "Monthong Việt A3 tốt, thùng 10 kg: chào 370–380; thành giao 350–360 NDT/thùng",
+          "sales": "Chủ yếu giữ giá; một ghi nhận bán khoảng 55%, chưa rõ giờ chốt"
         },
         {
           "market": "Gia Hưng",
-          "asOf": "27/10/2026 · báo cáo đăng 28/10",
+          "asOf": "27/10/2026",
           "volume": "74–82 cont, gồm 50 cont cũ",
-          "price": "Nguồn mô tả giá tăng, chưa có mẫu cùng quy cách để tính mức tăng",
-          "sales": "Nguồn ghi sức bán khá hơn, không có tỷ lệ bán"
+          "price": "Chưa có giá cùng quy cách để đối chiếu",
+          "sales": "Giá và sức bán cải thiện"
         },
         {
           "market": "Vạn Bang · Trịnh Châu",
-          "asOf": "27/10/2026 · báo cáo đăng 28/10",
+          "asOf": "27/10/2026",
           "volume": "90–93 cont; 71–75 cont cũ theo các ghi nhận",
-          "price": "Chưa có mẫu thành giao đủ rõ trong bản này",
+          "price": "Chưa có giá thành giao rõ ràng",
           "sales": "Khách ít, hàng ra chậm"
         },
         {
           "market": "Cao Bi Điếm",
-          "asOf": "27/10/2026 · báo cáo đăng 28/10",
+          "asOf": "27/10/2026",
           "volume": "20 mới + 43 cũ = 63 cont; tổng báo 67, lệch 4",
-          "price": "Chưa có giá thành giao hàng Việt đủ rõ",
-          "sales": "Chưa có tỷ lệ bán, chưa đủ xác nhận hồi"
+          "price": "Chưa có giá thành giao hàng Việt",
+          "sales": "Chưa có tỷ lệ bán"
         }
       ],
-      "takeaway": "Nhìn giá thực bán và lượng hàng cũ thoát ra. Giá chào tăng mà khách vẫn trả thấp thì nhịp hồi còn yếu.",
+      "takeaway": "Hàng cũ còn nhiều khiến nhịp hồi phân hóa. Giá chào tăng chỉ có ý nghĩa khi khách chấp nhận mua cao hơn.",
       "limits": "Các ghi nhận có nhiều nguồn và thời điểm khác nhau; không cộng thành lượng cả ngày hoặc toàn quốc. Lượng tại chợ không phải lượng hàng mới về. Báo cáo ngành chưa được kiểm chứng độc lập bằng thống kê hải quan.",
       "sources": [
         {
@@ -139,7 +142,8 @@
           "label": "Bản tổng hợp giữ các số lệch",
           "url": "https://www.xiaoju365.net/durian-daily.php"
         }
-      ]
+      ],
+      "editorNote": "Lượng tại chợ gồm hàng mới và hàng cũ. Cao Bi Điếm: tổng công bố lệch 4 cont so với chi tiết."
     }
   ]
 }
