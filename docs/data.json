@@ -1,0 +1,31 @@
+{
+  "updated":"2026-10-29",
+  "start":"2024-01-01",
+  "end":"2026-10-29",
+  "channel":"水果猎人-----金童",
+  "channelId":"shuiguoliere41",
+  "sources":[
+    {"id":"s01","date":"2024-05-29","title":"2024年5月29日《水果财经》榴莲行情","url":"https://www.bilibili.com/video/BV1x6KZeZEVX/","session":"Chợ / chưa phân loại","status":"Chưa trích","note":"Đã tìm thấy trang video và ngày đăng; chưa đọc số trong video."},
+    {"id":"s02","date":"2024-06-01","title":"240601江南市场行情一览","url":"https://www.bilibili.com/video/BV1PXTneCEpd/","session":"Chợ","status":"Chưa trích","note":"Đã tìm thấy trang video; chưa đọc số trong video."},
+    {"id":"s03","date":"2024-09-22","title":"榴莲行情 #水果财经#水果猎人金童","url":"https://www.douyin.com/video/7417394150015913225","session":"Phân tích","status":"Một phần","note":"Đã mở video gốc và đọc một đoạn phụ đề; chưa trích toàn bộ bảng chữ trên hình."},
+    {"id":"s04","date":"2024-10-22","title":"2024年10月22日《水果财经》榴莲行情","url":"https://www.bilibili.com/video/BV14TyHY9EYR/","session":"Chợ / chưa phân loại","status":"Chưa trích","note":"Đã tìm thấy trang video và ngày đăng; chưa đọc số trong video."},
+    {"id":"s05","date":"2025-02-08","title":"2025年2月8日《水果财经》榴莲车厘子行情","url":"https://www.bilibili.com/video/BV1HiNNepECy/","session":"Chợ","status":"Chưa trích","note":"Ngày trong tiêu đề 08/02; trang đăng 07/02/2025. Chưa trích phần sầu riêng; không dùng số container cherry."},
+    {"id":"s06","date":"2025-03-14","title":"2025年3月14日《水果财经》榴莲行情","url":"https://www.bilibili.com/video/BV1qEQ6YCEPX/","session":"Chợ / chưa phân loại","status":"Chưa trích","note":"Đã tìm thấy trang video và ngày đăng; chưa đọc số trong video."},
+    {"id":"s07","date":"2025-03-30","title":"2025年3月30日《水果财经》榴莲行情","url":"https://www.bilibili.com/video/BV16cZzYZEcH/","session":"Chợ / chưa phân loại","status":"Chưa trích","note":"Đã tìm thấy trang video và ngày đăng; chưa đọc số trong video."},
+    {"id":"s08","date":"2025-09-28","title":"江南350柜榴莲干停涨价","url":"https://www.bilibili.com/video/BV1gBnozjE8A/","session":"Chợ","status":"Một phần","note":"Chỉ trích được số 350 container từ tiêu đề. Chưa xác nhận là tồn, hàng mới hay tổng hàng đang bán."},
+    {"id":"s09","date":"2026-08-01","title":"2026年8月-10月榴莲品质和行情走势","url":"https://www.bilibili.com/video/BV1bZG36jE3v/","session":"Phân tích","status":"Chưa trích","note":"Đã tìm thấy trang video; chưa trích số liệu. Không xem tiêu đề dự báo là số thực tế tháng 8–10."},
+    {"id":"s10","date":"2026-10-28","title":"榴莲开始迎来第二波涨价，集体回血，加油抢货吧！","url":"https://www.douyin.com/video/7701613392468938035","session":"Phân tích","status":"Một phần","note":"Đã mở video gốc, ngày đăng 28/10/2026. Số liệu lấy từ mục chương do Douyin tạo bằng AI, chưa đối chiếu toàn bộ tiếng nói và chữ trên hình."}
+  ],
+  "observations":[
+    {"id":"k01","date":"2024-09-22","source":"s03","session":"Phân tích","region":"Chưa xác định","origin":"Chưa xác định","variety":"Chưa xác định","grade":"Hàng cuối / xử lý","metric":"Thay đổi giá","low":-20,"high":-10,"unit":"NDT / đơn vị chưa rõ","kind":"Báo cáo trong video","evidence":"Phụ đề đọc trực tiếp","quote":"尾货处理呢依然是……降10-20元","note":"Một đoạn phụ đề trên hình, chưa đủ để đại diện toàn thị trường hoặc quy đổi thành giá/kg."},
+    {"id":"k02","date":"2025-09-28","source":"s08","session":"Chợ","region":"Quảng Châu — Giang Nam","origin":"Chưa tách xuất xứ","variety":"Sầu riêng","grade":"Chưa xác định","metric":"Lượng tại chợ chưa phân loại","low":350,"high":350,"unit":"Container","kind":"Báo cáo trong tiêu đề","evidence":"Chỉ tiêu đề","quote":"江南350柜榴莲干停涨价","note":"Chưa xác định 350 là tổng hàng, hàng mới hay tồn kho. Không cộng với số thông quan và không coi là sản lượng thu hoạch."},
+    {"id":"k03","date":"2026-10-28","source":"s10","session":"Phân tích","region":"Cửa khẩu — chưa xác định tuyến","origin":"Chưa tách xuất xứ","variety":"Sầu riêng","grade":"Tất cả / chưa tách","metric":"Lượng thông quan","low":170,"high":170,"unit":"Container/ngày","kind":"Mức hiện tại được nêu","evidence":"Tóm tắt AI của Douyin","quote":"港口通关量每天170柜","note":"Mức Kim Đồng nêu, chưa kiểm tra bằng thống kê cửa khẩu độc lập; không phải riêng Quảng Châu."},
+    {"id":"k04","date":"2026-10-28","forecastPeriod":"2026-11","source":"s10","session":"Phân tích","region":"Cửa khẩu — chưa xác định tuyến","origin":"Chưa tách xuất xứ","variety":"Sầu riêng","grade":"Tất cả / chưa tách","metric":"Lượng thông quan","low":100,"high":100,"unit":"Container/ngày","kind":"Dự báo","evidence":"Tóm tắt AI của Douyin","quote":"预计11月会降至100柜左右","note":"Dự báo cho tháng 11, phát biểu ngày 28/10. Không phải kết quả thực tế tháng 11."},
+    {"id":"k05","date":"2026-10-28","source":"s10","session":"Phân tích","region":"Trung Quốc — Quảng Châu dẫn nhịp","origin":"Chưa xác định","variety":"Sầu riêng","grade":"A","metric":"Thay đổi giá","low":10,"high":20,"unit":"NDT / đơn vị chưa rõ","kind":"Mức tăng được nêu","evidence":"Tóm tắt AI của Douyin","quote":"A果涨价10-20元，较虚","note":"Mức tăng hàng A chưa vững; chưa có đơn vị thùng/kg trong phần tóm tắt nên không quy đổi."},
+    {"id":"k06","date":"2026-10-28","source":"s10","session":"Phân tích","region":"Trung Quốc — Quảng Châu dẫn nhịp","origin":"Chưa xác định","variety":"Sầu riêng","grade":"B/C","metric":"Thay đổi giá","low":10,"high":10,"unit":"NDT / đơn vị chưa rõ","kind":"Mức tăng được nêu","evidence":"Tóm tắt AI của Douyin","quote":"BC果涨价10元左右，是主力成交军","note":"Khoảng 10 NDT, nhóm giao dịch chủ lực; đơn vị tính chưa rõ."}
+  ],
+  "notes":[
+    {"date":"2026-10-28","source":"s10","text":"Kim Đồng nói đợt tăng giá thứ hai bắt đầu: Quảng Châu dẫn nhịp, hàng Việt tiêu thụ khá hơn, hàng Thái bán chậm; dự kiến trong tuần còn tăng nhẹ.","status":"Tóm tắt AI của Douyin"},
+    {"date":"2024-09-22","source":"s03","text":"Chữ tiêu đề trên hình nhắc kiểm soát chi phí tại vùng trồng, cảnh báo chi phí quá cao. Chưa đủ số để lập chuỗi giá vùng trồng.","status":"Đọc chữ trên video"}
+  ]
+}
