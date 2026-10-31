@@ -1,7 +1,63 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T20:03:23+07:00",
+  "updatedAt": "2026-10-31T07:59:40+07:00",
   "stories": [
+    {
+      "id": "2026-10-31-morning",
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T07:59:40+07:00",
+      "label": "Sáng",
+      "tag": "VÙNG TRỒNG · SỐ LIỆU 29/10",
+      "headline": "Giá vùng trồng phân hạng, nhịp hồi chờ sức bán",
+      "summary": "Bổ sung báo giá thu mua ngày 29/10: Monthong tại Phước An có chênh lệch giữa hàng tiêu chuẩn và VIP. Chưa có giá thành giao, lượng hàng mới/cũ hoặc sức bán mới hơn bộ số liệu chợ 29/10 để xác nhận nhịp hồi.",
+      "priceHeading": "Giá chào thu mua",
+      "videoStatus": "Kiểm tra sáng 31/10/2026: Feigua khớp 水果猎人-----金童, ID shuiguoliere41; không dùng 阿龙. Trang Douyin gốc không đọc được danh sách video; chưa xác minh bài sau mốc 28/10/2026 14:13, không kết luận không có bài mới. Mốc video https://www.douyin.com/video/7701613392468938035 chỉ đã kiểm tra tiêu đề/chương AI trước đây, không phát lại thành tin mới; múi giờ đăng chưa xác minh. 小宝哥/刘宝峰 chưa xác minh đúng tài khoản/video hiện tại; kết quả video ngày19/09/2026 20:50 chỉ nhắc tên, không gán dữ liệu.",
+      "rows": [
+        {
+          "market": "Phước An · Đắk Lắk",
+          "asOf": "29/10/2026",
+          "volume": "—",
+          "price": "Monthong, cơm tiêu chuẩn: A 90–96; B 70–76 nghìn đồng/kg",
+          "sales": "Giá chào thu mua; chưa xác nhận giao dịch"
+        },
+        {
+          "market": "Phước An · Đắk Lắk",
+          "asOf": "29/10/2026",
+          "volume": "—",
+          "price": "Monthong VIP: A 95–97; B 75–77 nghìn đồng/kg",
+          "sales": "Khác phẩm cấp; không so thành mức tăng theo ngày"
+        }
+      ],
+      "takeaway": "Hàng Việt cần giá thực bán tăng và tồn cũ giảm để củng cố lực đỡ thu mua. Nếu khách tiếp tục mua chậm, giá chào có thể chững; chưa đủ dữ liệu mới để kết luận hàng Thái cạnh tranh mạnh hơn.",
+      "editorNote": "Đây là báo giá vùng trồng ngày 29/10, chưa phải giá thành giao ngày 31/10.",
+      "limits": "Bổ sung chi tiết vùng trồng chưa đăng trong các bản tin trước, không coi là diễn biến mới ngày31/10. Nguồn tổng hợp dẫn báo cáo DIN ngày29/10; bản gốc 10100 không mở được sáng31/10, chưa kiểm chứng độc lập bằng giao dịch. Không dùng hai mục giá Thái/Việt đặt lệch trên bản tổng hợp. Chưa có lượng chợ, tồn kho, tiêu thụ mới hơn29/10. Mẫu giá tham khảo30/10 không đổi so với bản chiều30, không lặp thành tin mới. Homepage hiện165cont ngày28/10 nhưng trang arrivals vẫn178cont ngày27/10, chưa dùng để suy thay đổi cung. Chưa xác minh thông báo kiểm dịch/logistics mới. Ngày công cụ thu thập31/10 không phải ngày sự kiện hay ngày đăng video.",
+      "sources": [
+        {
+          "label": "Báo giá vùng trồng29/10 · bản tổng hợp",
+          "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Báo cáo gốc29/10 · không truy cập được lượt này",
+          "url": "https://www.10100.com/article/156383022"
+        },
+        {
+          "label": "Hồ sơ đối chiếu tên và ID",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Trang Douyin gốc · danh sách không đọc được",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Video mốc28/10 · đã đưa tin",
+          "url": "https://www.douyin.com/video/7701613392468938035"
+        },
+        {
+          "label": "Video nhắc 小宝哥/刘宝峰 ·19/09, không phải tin mới",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-10-30-evening",
       "date": "2026-10-30",
