@@ -1,7 +1,63 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T13:58:10+07:00",
+  "updatedAt": "2026-10-31T20:05:47+07:00",
   "stories": [
+    {
+      "id": "2026-10-31-evening",
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T20:05:47+07:00",
+      "label": "Tối",
+      "tag": "GIÁ THAM KHẢO · 31/10",
+      "headline": "Giá tham khảo chững, lượng đường bộ ghi nhận tăng",
+      "summary": "Giá tham khảo ngày 31/10 tại Gia Hưng và Vô Tích giữ mức 30/10, chưa có giá thành giao mới. Ghi nhận đường bộ ngày 29/10 đạt 197 cont, gồm Việt Nam 189 và Thái Lan 8, tăng 32 cont so với 28/10.",
+      "priceHeading": "Giá tham khảo",
+      "videoStatus": "Kiểm tra tối31/10/2026: Feigua khớp 水果猎人-----金童, ID shuiguoliere41; không dùng 阿龙. Trang Douyin gốc không đọc được danh sách, tìm kiếm chưa xác minh video sau mốc28/10/2026 14:13; không kết luận không có video mới. Feigua hiển thị số tác phẩm3553 nhưng thời gian thống kê0001/01/01, không suy số bài mới từ chênh số đếm. 小宝哥/刘宝峰 được nguồn thị trường xác nhận là thương nhân Cao Bi Điếm, nhưng chưa xác minh đúng tài khoản và video hiện tại. Kết quả video nhắc tên19/09/2026 20:50 không dùng làm tin mới.",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "31/10/2026",
+          "volume": "—",
+          "price": "Monthong Việt 38,90; Thái 62,40 NDT/kg; chưa rõ hạng",
+          "sales": "Giá tham khảo không đổi so với 30/10; chưa có sức bán mới"
+        },
+        {
+          "market": "Vô Tích",
+          "asOf": "31/10/2026",
+          "volume": "—",
+          "price": "Sầu riêng 27,75 NDT/kg; chưa rõ giống, xuất xứ, hạng",
+          "sales": "Giá tham khảo không đổi so với 30/10; chưa có sức bán mới"
+        }
+      ],
+      "takeaway": "Lượng qua đường bộ tăng có thể tạo thêm áp lực nếu tiêu thụ không theo kịp. Giá thu mua Việt Nam có thêm hỗ trợ khi giá thực bán tăng và tồn cũ giảm; hiện chưa đủ căn cứ xác nhận nhịp tăng rộng.",
+      "editorNote": "Số đường bộ là ghi nhận tham khảo chưa được hải quan đối chiếu độc lập, không phải lượng hàng về chợ.",
+      "limits": "Bổ sung ngày31/10 của mẫu giá, mức không đổi; không coi là tăng mới. Giá là giá tính tham khảo, không phải giá chào/thành giao, không suy mức chênh Việt/Thái thành lợi thế thương mại do chưa rõ phẩm cấp. Ghi nhận đường bộ29/10, không đổi thành31/10; homepage và arrivals nay cùng kỳ29/10, tổng197=189Việt+8Thái, nguồn dẫn DIN, chưa kiểm chứng bản gốc/hải quan. Không cộng cont đường bộ với hàng tại chợ; không suy tổng nhập khẩu toàn quốc. Số hàng mới/cũ, sức bán tại các chợ vẫn chỉ có bộ30/10 đã đưa bản chiều, không lặp số cũ thành mới; Cao Bi Điếm chưa có kết quả chốt mới. Chưa xác minh thay đổi kiểm dịch/logistics hay chất lượng mới. Ngày công cụ thu thập31/10 không thay thế ngày sự kiện hoặc giờ đăng video.",
+      "sources": [
+        {
+          "label": "Giá tham khảo31/10 và ghi nhận đường bộ29/10",
+          "url": "https://www.xiaoju365.net/"
+        },
+        {
+          "label": "Phạm vi ghi nhận đường bộ · cập nhật đến29/10",
+          "url": "https://www.xiaoju365.net/arrivals.php"
+        },
+        {
+          "label": "Báo cáo thị trường vẫn đến30/10",
+          "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Đối chiếu tên và ID",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Douyin gốc · không đọc được danh sách bài",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Video nhắc 小宝哥/刘宝峰 ngày19/09 · không phải tin mới",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-10-31-afternoon",
       "date": "2026-10-31",
