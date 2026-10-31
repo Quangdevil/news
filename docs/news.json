@@ -1,7 +1,65 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T07:59:40+07:00",
+  "updatedAt": "2026-10-31T13:58:10+07:00",
   "stories": [
+    {
+      "id": "2026-10-31-afternoon",
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T13:58:10+07:00",
+      "label": "Chiều",
+      "tag": "SỐ LIỆU CHỢ · 30/10",
+      "headline": "Hàng cũ còn nặng tại Gia Hưng, Cao Bi Điếm",
+      "summary": "Ghi nhận ngày 30/10 cho thấy Gia Hưng và Cao Bi Điếm vẫn còn nhiều hàng cũ. Quảng Châu dự kiến bán khoảng nửa lượng hàng trong ngày, chưa có kết quả chốt phiên.",
+      "priceHeading": "Giá bán",
+      "videoStatus": "Kiểm tra chiều31/10/2026: tên 水果猎人-----金童 và ID shuiguoliere41 khớp hồ sơ Feigua; không dùng 阿龙. Trang Douyin gốc không đọc được danh sách; chưa xác minh video sau28/10/2026 14:13, không kết luận không có video mới. Giữ mốc https://www.douyin.com/video/7701613392468938035 đã đưa tin; không phát lại nội dung cũ. Tìm kiếm 小宝哥/刘宝峰 chưa xác minh đúng tài khoản và video mới, không gán số liệu chợ cho người này.",
+      "rows": [
+        {
+          "market": "Quảng Châu",
+          "asOf": "30/10/2026",
+          "volume": "Khoảng 90 cont; ghi nhận riêng: 48 mới + 30 cũ, chỉ gồm Việt/Thái",
+          "price": "—",
+          "sales": "Khoảng 30% lúc ghi nhận; dự kiến cả ngày 50%"
+        },
+        {
+          "market": "Gia Hưng",
+          "asOf": "30/10/2026",
+          "volume": "126 cont: 53 mới + 73 cũ; ghi nhận khác khoảng 135",
+          "price": "—",
+          "sales": "Chưa có tỷ lệ bán thống nhất"
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "30/10/2026",
+          "volume": "114 cont: 25 mới + 89 cũ",
+          "price": "—",
+          "sales": "Ghi nhận riêng dự kiến cả ngày 30–40%"
+        },
+        {
+          "market": "Vạn Bang",
+          "asOf": "30/10/2026",
+          "volume": "72–79 cont: 19 mới + 53–60 cũ",
+          "price": "—",
+          "sales": "Khách ít, sức bán bình thường"
+        }
+      ],
+      "takeaway": "Chưa đủ cơ sở xác nhận giá tăng rộng. Thu mua Việt Nam có thêm lực đỡ nếu giá thực bán tăng và hàng cũ giảm; tiêu thụ chậm có thể ghìm nhịp hồi.",
+      "editorNote": "Các tỷ lệ cả ngày là dự kiến; giá mới chưa rõ đơn vị tính nên chưa đưa vào bảng.",
+      "limits": "Số liệu thị trường mang ngày30/10, kiểm tra31/10; thời điểm công bố chính xác chưa xác minh. Nguồn thứ cấp dẫn DIN, chưa đối chiếu bản gốc hoặc dữ liệu chợ chính thức. Không coi cont tại chợ là lượng mới về, không cộng các ghi nhận. Quảng Châu khoảng90 có chi tiết7Thái+80Việt+2Phil=89 do làm tròn; ghi nhận78 chỉ Việt/Thái. Gia Hưng126=53+73, nguồn khác135≈60+75. Cao Bi Điếm ghi nhận114=25+89 được dùng; nguồn khác báo90 nhưng20+80=100, chỉ giữ dự kiến30–40% riêng, không gắn với snapshot114. Giá30/10 thiếu đơn vị tính, không tự thêm NDT/thùng hoặc coi là thành giao. Không dùng mục vùng trồng/kiểm dịch cũ23/10 làm mới. Homepage có mẫu31/10 giữ giá30/10, không đưa làm tăng giá; thông quan29/10 chưa đối chiếu chính thức. Chưa có bằng chứng mới đủ rõ về cạnh tranh Thái hoặc logistics để suy giá Việt Nam.",
+      "sources": [
+        {
+          "label": "Số liệu chợ30/10 · bản tổng hợp dẫn DIN",
+          "url": "https://www.xiaoju365.net/durian-daily.php?view=market"
+        },
+        {
+          "label": "Hồ sơ xác nhận tên và ID",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Douyin gốc · danh sách không đọc được",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        }
+      ]
+    },
     {
       "id": "2026-10-31-morning",
       "date": "2026-10-31",
