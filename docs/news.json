@@ -1,7 +1,59 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T20:05:47+07:00",
+  "updatedAt": "2026-11-01T07:57:25+07:00",
   "stories": [
+    {
+      "id": "2026-11-01-morning",
+      "date": "2026-11-01",
+      "publishedAt": "2026-11-01T07:57:25+07:00",
+      "label": "Sáng",
+      "tag": "VÙNG TRỒNG, ĐƯỜNG BỘ · 30/10",
+      "headline": "Giá vùng trồng nhích cục bộ, lượng đường bộ giảm",
+      "summary": "Báo giá ngày 30/10 ghi nhận Monthong đóng gói tại Bảo Lộc tăng nhẹ, trong khi Ri6 Cai Lậy giữ giá. Hai ghi nhận đường bộ ngày 30/10 cho tổng 170–174 cont, gồm Việt Nam 163–167 và Thái Lan 7 cont.",
+      "priceHeading": "Giá chào thu mua",
+      "videoStatus": "Kiểm tra sáng01/11/2026: Feigua khớp 水果猎人-----金童, Douyin ID shuiguoliere41; không dùng 阿龙. Trang Douyin gốc không đọc được danh sách; tìm kiếm chưa xác minh bài sau mốc28/10/2026 14:13. Không kết luận không có video mới; không lặp video cũ thành mới. 小宝哥/刘宝峰 chưa xác minh đúng tài khoản và video hiện tại; kết quả nhắc tên19/09 là tin cũ, không gán số liệu mới cho tài khoản này.",
+      "rows": [
+        {
+          "market": "Bảo Lộc · Lâm Đồng",
+          "asOf": "30/10/2026",
+          "volume": "—",
+          "price": "Monthong, hàng cơm nhẹ đóng gói: A 83; B 68 nghìn đồng/kg",
+          "sales": "Mẫu báo giá so được: A và B cùng tăng 1 nghìn đồng/kg so với 29/10"
+        },
+        {
+          "market": "Cai Lậy · Tiền Giang",
+          "asOf": "30/10/2026",
+          "volume": "—",
+          "price": "Ri6: A 81; B 66 nghìn đồng/kg",
+          "sales": "Mẫu cùng nguồn giữ giá so với 29/10"
+        }
+      ],
+      "takeaway": "Giá chưa tăng đồng loạt. Lượng đường bộ giảm có thể bớt áp lực nếu kéo dài, nhưng hàng cũ và sức bán tại chợ mới quyết định lực đỡ thu mua Việt Nam; tiêu thụ chậm vẫn có thể ghìm giá.",
+      "editorNote": "Giá là báo mua chưa xác nhận thành giao; hai mức đường bộ là ghi nhận khác nhau, chưa được hải quan đối chiếu độc lập.",
+      "limits": "Giá và lượng đường bộ là ngày30/10, kiểm tra01/11, không đổi ngày sự kiện. Bảo Lộc hàng cơm nhẹ đóng gói A83/B68 khác hàng bình thường A83/B63; giữ điều kiện mua, không trộn B63 với B68. Báo cáo gốc DIN trên10100 ngày30/10, giờ đăng chưa xác minh, dữ liệu giá ngành không phải giao dịch độc lập đã kiểm chứng. Hai mức đường bộ170/174 và Việt163/167 không lấy trung bình, không coi là giới hạn chắc chắn hay cộng hai nguồn. Nguồn nay nêu29/10 có197–203, bản tối31 chỉ nêu197 của một ghi nhận; không sửa bản cũ và không dùng197 làm tổng duy nhất mới. Không dùng tổng bảng nghiệp vụ72/109 do lệch37, không coi là toàn quốc/hàng về chợ; không kéo trạng thái chờ0.5–1ngày29/10 sang30/10 hoặc01/11. Chưa có hàng chợ/tồn/sức bán mới hơn30/10; không lặp số cũ. Mẫu tham khảo31/10 không mới hơn bản tối. Vô Tích có kết quả tìm kiếm32.68 ngày31/10 nhưng trang gốc mở ra20/10 hoặc22/10 và bản99sj29/10, chưa đủ để xác nhận mức tăng. Chưa xác minh thông báo kiểm dịch/logistics mới. Không có nội dung mới của chủ kênh để đối chiếu.",
+      "sources": [
+        {
+          "label": "Giá vùng trồng gốc · dữ liệu30/10",
+          "url": "https://www.10100.com/article/156678797"
+        },
+        {
+          "label": "Ghi nhận đường bộ30/10 · công bố tổng hợp31/10",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-10-31&view=border"
+        },
+        {
+          "label": "Báo cáo chợ còn đến30/10",
+          "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Hồ sơ đối chiếu tên và ID",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Trang Douyin gốc không đọc được danh sách",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        }
+      ]
+    },
     {
       "id": "2026-10-31-evening",
       "date": "2026-10-31",
