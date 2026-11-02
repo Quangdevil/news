@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T08:33:30+07:00",
+  "updatedAt": "2026-11-02T10:29:32+07:00",
   "stories": [
     {
-      "id": "2026-11-02-morning",
+      "id": "2026-11-02-morning-gz",
       "date": "2026-11-02",
       "publishedAt": "2026-11-02T08:33:30+07:00",
       "label": "Sáng",
@@ -41,6 +41,68 @@
       "sources": [
         {
           "label": "Đối chiếu bộ chợ1/11; bản chữ GZ2/11 do người dùng cung cấp chưa có link gốc",
+          "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Hồ sơ đối chiếu tên và ID",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Douyin gốc · không đọc được danh sách bài",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Video nhắc 小宝哥/刘宝峰 ·19/09, không phải tin mới",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-morning",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T08:05:53+07:00",
+      "label": "Sáng",
+      "tag": "SỐ LIỆU CHỢ · 1/11",
+      "headline": "Gia Hưng nặng hàng cũ, Quảng Châu bán chậm",
+      "summary": "Ghi nhận ngày 1/11: Quảng Châu có 99–101 cont, còn Gia Hưng khoảng 155 cont, gồm 109 cont cũ. Các dự báo sức bán vẫn thấp, chưa đủ căn cứ xác nhận nhịp hồi giá.",
+      "priceHeading": "Giá tham khảo / chào",
+      "videoStatus": "Kiểm tra sáng02/11/2026: hồ sơ Feigua khớp 水果猎人-----金童, ID shuiguoliere41, không dùng 阿龙. Trang Douyin gốc không có danh sách đọc được; tìm kiếm chưa xác minh video sau mốc28/10/2026 14:13. Không kết luận không có bài mới. 小宝哥/刘宝峰 chưa xác minh đúng tài khoản/video hiện tại; kết quả nhắc tên19/09/2026 20:50 là tin cũ. Không gán báo cáo ngành1/11 cho chủ kênh.",
+      "rows": [
+        {
+          "market": "Quảng Châu",
+          "asOf": "01/11/2026",
+          "volume": "99–101 cont; một ghi nhận hàng Việt: 36 mới + 60 cũ",
+          "price": "Monthong Việt A tốt, kiện 10–11 kg: chào 350–380 NDT/kiện; chưa xác nhận thành giao cùng quy cách",
+          "sales": "Khoảng 20% lúc ghi nhận; dự kiến cả ngày 30–40%"
+        },
+        {
+          "market": "Gia Hưng",
+          "asOf": "01/11/2026",
+          "volume": "Khoảng 155 cont: 46 mới + 109 cũ",
+          "price": "Monthong Việt B, kiện 16 斤 (8 kg): tham khảo 230–240 NDT/kiện",
+          "sales": "Dự kiến hơn 20%, dưới 30%"
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "01/11/2026",
+          "volume": "Một ghi nhận: 97 cont, 19 mới + 78 cũ",
+          "price": "—",
+          "sales": "Chưa có tỷ lệ bán mới rõ ràng"
+        },
+        {
+          "market": "Vạn Bang",
+          "asOf": "01/11/2026",
+          "volume": "Hai ghi nhận: 74 cont (27 mới + 47 cũ); 67 cont (16 mới + 51 cũ)",
+          "price": "—",
+          "sales": "Khách ít, hàng tốt ra nhanh hơn"
+        }
+      ],
+      "takeaway": "Hàng cũ và sức bán yếu còn ghìm giá. Thu mua Việt Nam có thêm hỗ trợ nếu giá thực bán tăng cùng tồn cũ giảm; giá chào tăng riêng lẻ chưa đủ xác nhận thị trường hồi.",
+      "editorNote": "Tỷ lệ cả ngày là dự kiến; các ghi nhận lượng hàng khác thời điểm không cộng lại.",
+      "limits": "Nguồn thứ cấp tổng hợp DIN, ngày dữ liệu1/11; công cụ kiểm tra2/11, giờ công bố gốc chưa xác minh. Chưa đối chiếu độc lập bằng báo cáo chợ chính thức; không phải phát biểu mới của chủ kênh. Quảng Châu ghi nhậnA99=4Thái+94Việt+1Phil, C101=4Thái+96Việt+1Phil; C36mới60cũ chỉ Việt, không là tổng mới/cũ toàn chợ. Gia HưngA/B liên quan, không cộng155+155. Cao Bi ĐiếmA97=19+78; B96≈38+58 khácsnapshot, quốc gia88+6=94 thiếu2, không ghép. Vạn BangC84đơnvịxe, không trộncont và không coi34xe hôm trước là bán hôm nay. Giá Quảng Châu bảnA A3/10kg phản hồi330–360 chỉ có ngữ cảnh人民币 chưa rõ mẫu số; không tự gắnNDT/kiện hoặc lấy làm giá thành giao. Dùng bảnC ghi rõ chào350–380NDT/kiện10–11kg, bảnB GiaHưng B16斤230–240NDT/kiện thamkhảo. Không suy cùng phẩm cấp A/B giữa chợ. Nguồn có31/10đườngbộ179–180 nhưng chưa kiểm chứnghảiquan, không cộng với hàngchợ. Chưa xác minh thay đổi kiểmdịch/logistics hoặc chất lượng mới. Không suy dữ liệu giáThái thiếuquycách thành cạnhtranh mạnhhơn. Không đổi ngày giá31/10,30/10cũ.",
+      "sources": [
+        {
+          "label": "Báo cáo thị trường1/11 · bản tổng hợp dẫn DIN",
           "url": "https://www.xiaoju365.net/durian-daily.php"
         },
         {
