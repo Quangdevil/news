@@ -1,53 +1,46 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T08:05:53+07:00",
+  "updatedAt": "2026-11-02T08:33:30+07:00",
   "stories": [
     {
       "id": "2026-11-02-morning",
       "date": "2026-11-02",
-      "publishedAt": "2026-11-02T08:05:53+07:00",
+      "publishedAt": "2026-11-02T08:33:30+07:00",
       "label": "Sáng",
-      "tag": "SỐ LIỆU CHỢ · 1/11",
-      "headline": "Gia Hưng nặng hàng cũ, Quảng Châu bán chậm",
-      "summary": "Ghi nhận ngày 1/11: Quảng Châu có 99–101 cont, còn Gia Hưng khoảng 155 cont, gồm 109 cont cũ. Các dự báo sức bán vẫn thấp, chưa đủ căn cứ xác nhận nhịp hồi giá.",
-      "priceHeading": "Giá tham khảo / chào",
-      "videoStatus": "Kiểm tra sáng02/11/2026: hồ sơ Feigua khớp 水果猎人-----金童, ID shuiguoliere41, không dùng 阿龙. Trang Douyin gốc không có danh sách đọc được; tìm kiếm chưa xác minh video sau mốc28/10/2026 14:13. Không kết luận không có bài mới. 小宝哥/刘宝峰 chưa xác minh đúng tài khoản/video hiện tại; kết quả nhắc tên19/09/2026 20:50 là tin cũ. Không gán báo cáo ngành1/11 cho chủ kênh.",
+      "tag": "QUẢNG CHÂU · 2/11",
+      "headline": "Quảng Châu: 100 cont, hàng Việt hạ giá vẫn bán chậm",
+      "summary": "Quảng Châu ngày 2/11 có 100 cont: Việt Nam 95, Thái Lan 4, Philippines 1; cả hàng mới và cũ đều khó bán. Hàng Việt phần lớn hạ giá chào 10–20 mỗi kiện so với hôm trước, một số giữ giá.",
+      "priceHeading": "Giá chào / giá bán",
+      "videoStatus": "Kiểm tra sáng02/11/2026: hồ sơ Feigua khớp 水果猎人-----金童, ID shuiguoliere41, không dùng 阿龙. Trang Douyin gốc không có danh sách đọc được; tìm kiếm chưa xác minh video sau mốc28/10/2026 14:13. Không kết luận không có bài mới. 小宝哥/刘宝峰 chưa xác minh đúng tài khoản/video hiện tại; kết quả nhắc tên19/09/2026 20:50 là tin cũ. Không gán báo cáo ngành1/11 cho chủ kênh. Bổ sung bản chữ người dùng gửi mang ngày2026/11/2 GZ; chưa có đường dẫn gốc, tên tác giả hoặc giờ đăng nên không gán cho Kim Đồng và không nâng mốc xác minh video.",
       "rows": [
         {
-          "market": "Quảng Châu",
-          "asOf": "01/11/2026",
-          "volume": "99–101 cont; một ghi nhận hàng Việt: 36 mới + 60 cũ",
-          "price": "Monthong Việt A tốt, kiện 10–11 kg: chào 350–380 NDT/kiện; chưa xác nhận thành giao cùng quy cách",
-          "sales": "Khoảng 20% lúc ghi nhận; dự kiến cả ngày 30–40%"
+          "market": "Quảng Châu · Monthong Việt A",
+          "asOf": "02/11/2026",
+          "volume": "Toàn chợ 100 cont; Việt 95, Thái 4, Philippines 1; chưa tách mới/cũ",
+          "price": "A3 tốt 10 kg: chủ yếu chào 350–360, bán 330–350 NDT/kiện; rất ít chào khoảng 380",
+          "sales": "Toàn chợ bán khoảng 10–20% lúc ghi nhận; dự kiến cả ngày khoảng 30%"
         },
         {
-          "market": "Gia Hưng",
-          "asOf": "01/11/2026",
-          "volume": "Khoảng 155 cont: 46 mới + 109 cũ",
-          "price": "Monthong Việt B, kiện 16 斤 (8 kg): tham khảo 230–240 NDT/kiện",
-          "sales": "Dự kiến hơn 20%, dưới 30%"
+          "market": "Quảng Châu · Monthong Việt B",
+          "asOf": "02/11/2026",
+          "volume": "—",
+          "price": "9 kg: tốt bán 240–250; thường 210–230 NDT/kiện; loại 10 kg thường cao hơn khoảng 20",
+          "sales": "Có hàng rẻ dưới 200 NDT/kiện, chưa rõ quy cách"
         },
         {
-          "market": "Cao Bi Điếm",
-          "asOf": "01/11/2026",
-          "volume": "Một ghi nhận: 97 cont, 19 mới + 78 cũ",
-          "price": "—",
-          "sales": "Chưa có tỷ lệ bán mới rõ ràng"
-        },
-        {
-          "market": "Vạn Bang",
-          "asOf": "01/11/2026",
-          "volume": "Hai ghi nhận: 74 cont (27 mới + 47 cũ); 67 cont (16 mới + 51 cũ)",
-          "price": "—",
-          "sales": "Khách ít, hàng tốt ra nhanh hơn"
+          "market": "Quảng Châu · Monthong Thái",
+          "asOf": "02/11/2026",
+          "volume": "1 cont mới mở trong tổng 4 cont Thái",
+          "price": "A4/15 kg: chào 900; B4/14 kg: chào 680 NDT/kiện",
+          "sales": "Cont mới bán tương đối ổn; hàng cũ hạ dần giá"
         }
       ],
-      "takeaway": "Hàng cũ và sức bán yếu còn ghìm giá. Thu mua Việt Nam có thêm hỗ trợ nếu giá thực bán tăng cùng tồn cũ giảm; giá chào tăng riêng lẻ chưa đủ xác nhận thị trường hồi.",
-      "editorNote": "Tỷ lệ cả ngày là dự kiến; các ghi nhận lượng hàng khác thời điểm không cộng lại.",
-      "limits": "Nguồn thứ cấp tổng hợp DIN, ngày dữ liệu1/11; công cụ kiểm tra2/11, giờ công bố gốc chưa xác minh. Chưa đối chiếu độc lập bằng báo cáo chợ chính thức; không phải phát biểu mới của chủ kênh. Quảng Châu ghi nhậnA99=4Thái+94Việt+1Phil, C101=4Thái+96Việt+1Phil; C36mới60cũ chỉ Việt, không là tổng mới/cũ toàn chợ. Gia HưngA/B liên quan, không cộng155+155. Cao Bi ĐiếmA97=19+78; B96≈38+58 khácsnapshot, quốc gia88+6=94 thiếu2, không ghép. Vạn BangC84đơnvịxe, không trộncont và không coi34xe hôm trước là bán hôm nay. Giá Quảng Châu bảnA A3/10kg phản hồi330–360 chỉ có ngữ cảnh人民币 chưa rõ mẫu số; không tự gắnNDT/kiện hoặc lấy làm giá thành giao. Dùng bảnC ghi rõ chào350–380NDT/kiện10–11kg, bảnB GiaHưng B16斤230–240NDT/kiện thamkhảo. Không suy cùng phẩm cấp A/B giữa chợ. Nguồn có31/10đườngbộ179–180 nhưng chưa kiểm chứnghảiquan, không cộng với hàngchợ. Chưa xác minh thay đổi kiểmdịch/logistics hoặc chất lượng mới. Không suy dữ liệu giáThái thiếuquycách thành cạnhtranh mạnhhơn. Không đổi ngày giá31/10,30/10cũ.",
+      "takeaway": "Nhịp hồi đang chịu sức ép: giá giảm mà hàng vẫn khó bán. Nếu sức bán không cải thiện, giá thu mua Việt Nam có thể chịu thêm áp lực; hàng tốt cần bán nhanh hơn và tồn cũ giảm mới hỗ trợ giá.",
+      "editorNote": "Giá bán là phản hồi tại thời điểm ghi nhận; mức tiêu thụ 30% cả ngày vẫn là dự kiến.",
+      "limits": "Nguồn mới: bản chữ do người dùng cung cấp, ghi2026/11/2 GZ; chưa có link/giờ đăng hoặc kiểm chứng độc lập. Đơn vị giá được hiểu NDT/kiện theo ngữ cảnh thị trường Quảng Châu và quy cách kiện; bản chữ không viết trực tiếp tiền tệ/mẫu số. Tổng100=95Việt+4Thái+1Phil, là hàng tại chợ chứ không phải100cont mới. 1contThái mới mở không có nghĩa toànchợ chỉ1cont mới. A3/10kg tốt chào350–360bán330–350; mốc380rấtít chỉgiáchào. Cơm chất lượng中上10kgchào330–350bán300–330; thườngchào300bán270–280hoặcthấphơn, không tự thêmquycách màbảnchữkhôngnhắc lại. Loại9kg nói giảm20so10kg là nhận xét chung không áp cho mọi lô. B9kgtốt240–250thường210–230, B10kgthường+20, dướ200khôngrõquycáchkhôngnângthànhgiáchuẩn. Giá chàoThái900A4/15kgvà680B4/14kgkhôngphảithànhgiao. 10–20%làlúcghinhận,30%làdựkiếnkhôngphảichốtngày. Liênkếtnguồnchợdướilàđốichiếubộ1/11đãđưa,khôngxácminhbảnchữ2/11. Khôngghépsốliệuchợ1/11thành2/11.",
       "sources": [
         {
-          "label": "Báo cáo thị trường1/11 · bản tổng hợp dẫn DIN",
+          "label": "Đối chiếu bộ chợ1/11; bản chữ GZ2/11 do người dùng cung cấp chưa có link gốc",
           "url": "https://www.xiaoju365.net/durian-daily.php"
         },
         {
