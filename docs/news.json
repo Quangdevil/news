@@ -1,7 +1,44 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T10:29:32+07:00",
+  "updatedAt": "2026-11-03T07:57:31+07:00",
   "stories": [
+    {
+      "id": "2026-11-03-morning",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T07:57:31+07:00",
+      "label": "Sáng",
+      "tag": "GIÁ THAM KHẢO · 2/11",
+      "headline": "Giá tham khảo Gia Hưng giữ nhịp, chưa rõ lực hồi",
+      "summary": "Mẫu giá tham khảo ngày 2/11 tại Gia Hưng ghi nhận Monthong Việt 41,10 và Thái 63,30 NDT/kg, chưa rõ phân hạng. Chưa có thêm giá thành giao và sức bán mới hơn bản Quảng Châu ngày 2/11.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "02/11/2026",
+          "volume": "—",
+          "price": "Monthong Việt 41,10; Thái 63,30 NDT/kg; chưa rõ hạng",
+          "sales": "Chưa có số tiêu thụ mới được xác minh"
+        }
+      ],
+      "takeaway": "Giá tham khảo chưa chứng minh giá bán hồi. Nếu hàng cũ giảm và khách chấp nhận giá cao hơn, thu mua Việt Nam mới có thêm lực đỡ; tiêu thụ chậm vẫn gây sức ép.",
+      "editorNote": "Giá tính tham khảo, không phải giá chào hoặc thành giao.",
+      "videoStatus": "Kiểm tra3/11: chưa xác minh video sau28/10 của 水果猎人-----金童, ID shuiguoliere41; trang gốc không đọc được danh sách, không kết luận không đăng. Không dùng 阿龙. 小宝哥/刘宝峰 chưa xác minh tài khoản/video hiện tại; kết quả19/09 không dùng làm mới.",
+      "limits": "Ngày số liệu2/11, truy xuất3/11; không đổi ngày nguồn. Nguồn tổng hợp, chưa kiểm chứng bằng giao dịch chính thức. Không lặp số Quảng Châu do người dùng gửi2/11 thành tin3/11. Bản DIN vẫn1/11. Chưa xác minh thông báo kiểm dịch/logistics mới hoặc lợi thế cạnh tranh Thái theo cùng phẩm cấp. Không có phát biểu mới chủ kênh để đối chiếu.",
+      "sources": [
+        {
+          "label": "Mẫu tham khảo2/11",
+          "url": "https://www.xiaoju365.net/"
+        },
+        {
+          "label": "Báo cáo chợ vẫn1/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Douyin gốc không đọc được danh sách",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        }
+      ]
+    },
     {
       "id": "2026-11-02-morning-gz",
       "date": "2026-11-02",
