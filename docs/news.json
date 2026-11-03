@@ -1,7 +1,54 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T07:57:31+07:00",
+  "updatedAt": "2026-11-03T13:57:14+07:00",
   "stories": [
+    {
+      "id": "2026-11-03-afternoon",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T13:57:14+07:00",
+      "label": "Chiều",
+      "tag": "QUẢNG CHÂU · 3/11",
+      "headline": "Quảng Châu còn 85 cont, giá bán hàng Việt chịu sức ép",
+      "summary": "Quảng Châu ngày 3/11 ghi nhận 85 cont, gồm Việt Nam 82 và Thái Lan 3, giảm 15 cont so với bản ngày 2/11. Hàng vẫn bán chậm; một phần hàng Việt mới dễ bán hơn, giá chào chủ yếu giữ nhưng giá bán có thể giảm thêm 10 NDT/kiện.",
+      "priceHeading": "Giá chào / giá bán",
+      "rows": [
+        {
+          "market": "Quảng Châu · Monthong Việt A",
+          "asOf": "03/11/2026",
+          "volume": "Toàn chợ 85 cont: Việt 82, Thái 3; chưa tách mới/cũ",
+          "price": "A3 tốt 10 kg: chào chủ yếu 350–360, bán 330–340 NDT/kiện; rất ít chào khoảng 380",
+          "sales": "Bán khoảng 10–20% lúc ghi nhận; dự kiến cả ngày khoảng 30%"
+        },
+        {
+          "market": "Quảng Châu · Monthong Việt B",
+          "asOf": "03/11/2026",
+          "volume": "—",
+          "price": "9 kg: tốt bán 240–250; thường 210–230 NDT/kiện",
+          "sales": "Mặt bằng khoảng giá ít đổi; hàng mới có phần dễ bán hơn"
+        },
+        {
+          "market": "Quảng Châu · Monthong Thái",
+          "asOf": "03/11/2026",
+          "volume": "1 cont mới mở trong tổng 3 cont Thái",
+          "price": "A6/19 kg: chào 850; B6/18 kg: chào 650 NDT/kiện",
+          "sales": "Cont mới bán bình thường; hàng Thái nhìn chung khó bán"
+        }
+      ],
+      "takeaway": "Hàng tại chợ giảm chưa kéo sức mua lên. Nếu giá thực bán tiếp tục mềm, thu mua Việt Nam có thể chịu thêm áp lực; tồn cũ giảm cùng sức bán cải thiện mới củng cố nhịp hồi.",
+      "editorNote": "Mức bán 30% cả ngày là dự kiến; giá bán phản ánh thời điểm ghi nhận.",
+      "videoStatus": "Bản chữ GZ3/11 do người dùng gửi, chưa có link gốc/giờ đăng/tác giả nên không gán cho 水果猎人-----金童, ID shuiguoliere41. Kiểm tra Douyin chưa đọc được danh sách, chưa xác minh video sau28/10; không kết luận không có bài mới. Không dùng 阿龙. 小宝哥/刘宝峰 chưa xác minh video hiện tại.",
+      "limits": "Nguồn chính của bài này là văn bản người dùng cung cấp ngày3/11; chưa kiểm chứng độc lập, chưa có URL nguồn gốc. NDT/kiện hiểu theo ngữ cảnh Quảng Châu và quy cách kiện, nguyên văn không ghi trực tiếp tiền tệ. 85 là tổng hàng tại chợ, không phải85cont mới; giảm15 so bản2/11 không đồng nghĩa bán15cont. Câu giá bán có thể giảm10 là nhận định của bản chữ, không phải mức giảm đã xác nhận. A trung khá chào330–350bán300–320 và hàng thường chào300bán260–280hoặcthấphơn không lặp trọng lượng khi chưa rõ. Không soThái A4/15kg2/11 vớiA6/19kg3/11 thành mức giảmgiá. Nguồn công khai DIN đang có tiêu đề2/11 nhưng phần thị trường vẫnghi1/11, không dùng xác minh bản3/11. Chưa có thông báo kiểm dịch/logistics mới xác minh. Không có video mới đủ rõ để đốichiếu.",
+      "sources": [
+        {
+          "label": "Đối chiếu nguồn công khai; không xác minh bản chữ GZ3/11 do người dùng cung cấp",
+          "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Douyin gốc không đọc được danh sách",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        }
+      ]
+    },
     {
       "id": "2026-11-03-morning",
       "date": "2026-11-03",
