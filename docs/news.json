@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T13:57:14+07:00",
+  "updatedAt": "2026-11-03T20:04:24+07:00",
   "stories": [
+    {
+      "id": "2026-11-03-evening",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T20:04:24+07:00",
+      "label": "Tối",
+      "tag": "GIÁ THAM KHẢO · 3/11",
+      "headline": "Giá tham khảo phân hóa, chưa xác nhận sức bán hồi",
+      "summary": "Mẫu giá ngày 3/11 tại Gia Hưng ghi nhận Monthong Thái tăng 1,10 NDT/kg, còn hàng Việt giữ mức 41,10 NDT/kg. Vô Tích cũng tăng trong mẫu tham khảo, nhưng chưa có giá thành giao hoặc sức bán chốt ngày mới.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "03/11/2026",
+          "volume": "—",
+          "price": "Monthong Thái 64,40; Việt 41,10 NDT/kg; chưa rõ hạng",
+          "sales": "So với 2/11: Thái +1,10; Việt không đổi; chưa có sức bán mới"
+        },
+        {
+          "market": "Vô Tích",
+          "asOf": "03/11/2026",
+          "volume": "—",
+          "price": "Sầu riêng 32,68 NDT/kg; chưa rõ giống, xuất xứ, hạng",
+          "sales": "+3,28 NDT/kg so với mẫu 2/11; chưa có sức bán mới"
+        }
+      ],
+      "takeaway": "Giá tham khảo tăng chưa đủ xác nhận nhịp hồi giao dịch. Hàng về nhiều mà tiêu thụ chậm có thể tiếp tục ép thu mua Việt Nam; giá thực bán tăng và tồn cũ giảm mới củng cố lực đỡ.",
+      "editorNote": "Giá tính tham khảo, không phải giá chào hoặc thành giao.",
+      "videoStatus": "Kiểm tra tối3/11: trang Douyin gốc không đọc được danh sách, chưa xác minh video mới sau28/10 của 水果猎人-----金童, ID shuiguoliere41; không dùng 阿龙, không kết luận không có bài mới. 小宝哥/刘宝峰 chưa xác minh video hiện tại, kết quả19/09 không dùng làm mới.",
+      "limits": "Nguồn mẫu tham khảo3/11 kiểm tra3/11, không phải giá giao dịch; phẩm cấp thiếu nên không so chênh Việt/Thái thành lợi thế cạnh tranh. Không lặp bản chữ GZ3/11 của người dùng làm tin mới, tỷ lệ30% vẫn dự kiến chưa có chốt. Báo cáo công khai tiêu đề2/11 nhưng phần chợ còn1/11. Ghi nhận đường bộ2/11 tổng194=190Việt+4Thái, chưa kiểm chứnghải quan, không phải hàng về chợ, không dùng suy tồn kho hoặc chuỗi giảm. Chưa xác minh tin mới về kiểmdịch/logistics. Không có phát biểu video mới để đối chiếu.",
+      "sources": [
+        {
+          "label": "Mẫu tham khảo3/11",
+          "url": "https://www.xiaoju365.net/"
+        },
+        {
+          "label": "Báo cáo công khai · kiểm tra ngày từng phần",
+          "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Douyin gốc không đọc được danh sách",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        }
+      ]
+    },
     {
       "id": "2026-11-03-afternoon",
       "date": "2026-11-03",
