@@ -1,7 +1,44 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T07:58:23+07:00",
+  "updatedAt": "2026-11-04T14:04:48+07:00",
   "stories": [
+    {
+      "id": "2026-11-04-afternoon",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T14:04:48+07:00",
+      "label": "Chiều",
+      "tag": "GIÁ THAM KHẢO · 4/11",
+      "headline": "Giá tham khảo Gia Hưng giữ mức, giao dịch chưa rõ nhịp hồi",
+      "summary": "Mẫu giá ngày 4/11 tại Gia Hưng giữ Monthong Việt ở 41,10 và Thái ở 64,40 NDT/kg, chưa rõ phân hạng. Chưa có giá thành giao, lượng hàng mới/cũ hoặc sức bán mới hơn bộ số liệu chợ ngày 3/11.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "04/11/2026",
+          "volume": "—",
+          "price": "Monthong Việt 41,10; Thái 64,40 NDT/kg; chưa rõ hạng",
+          "sales": "Mức tham khảo không đổi so với 3/11; chưa có sức bán mới"
+        }
+      ],
+      "takeaway": "Giá tham khảo đứng mức chưa đủ chứng minh giá bán ổn định. Thu mua Việt Nam có thêm lực đỡ nếu khách chấp nhận giá cao hơn và tồn cũ giảm; bán chậm có thể tiếp tục ghìm nhịp hồi.",
+      "editorNote": "Giá tính tham khảo, chưa xác nhận giá chào hoặc thành giao.",
+      "videoStatus": "Kiểm tra chiều4/11: chưa xác minh video sau28/10 của 水果猎人-----金童, ID shuiguoliere41; trang Douyin không đọc được danh sách, không kết luận không có bài mới; không dùng 阿龙. 小宝哥/刘宝峰 chưa xác minh video hiện tại, không gán dữ liệu Cao Bi Điếm cho tài khoản này.",
+      "limits": "Ngày số liệu giá4/11, truy xuất4/11; không đổi ngày số chợ3/11. Không lặp tồn kho đã đưa bản sáng. Không suy chênh giá Việt/Thái thành lợi thế cạnh tranh vì thiếu phẩm cấp. Báo cáo chợ vẫn3/11, chưa có tỷ lệ chốtngàyGZ;30%vẫndựkiến. Không xác minh thông báo kiểm dịch/logistics mới. Nguồn thứ cấp không phải kiểm chứng giao dịch chính thức, không có phát biểu mới chủ kênh để đối chiếu.",
+      "sources": [
+        {
+          "label": "Mẫu tham khảo Gia Hưng4/11",
+          "url": "https://www.xiaoju365.net/"
+        },
+        {
+          "label": "Báo cáo chợ vẫn3/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Douyin gốc không đọc được danh sách",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        }
+      ]
+    },
     {
       "id": "2026-11-04-morning",
       "date": "2026-11-04",
