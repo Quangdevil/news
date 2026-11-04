@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T20:04:24+07:00",
+  "updatedAt": "2026-11-04T07:58:23+07:00",
   "stories": [
+    {
+      "id": "2026-11-04-morning",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T07:58:23+07:00",
+      "label": "Sáng",
+      "tag": "SỐ LIỆU CHỢ · 3/11",
+      "headline": "Gia Hưng còn 103 cont cũ, Cao Bi Điếm chưa rõ sức bán",
+      "summary": "Ghi nhận ngày 3/11: Gia Hưng báo 127 cont, trong đó 103 cont cũ; Cao Bi Điếm có hai ghi nhận 85 và 90 cont. Chưa có tỷ lệ bán mới đủ rõ để xác nhận hàng giảm nhờ tiêu thụ cải thiện.",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "03/11/2026",
+          "volume": "Báo 127 cont: 24 mới + 103 cũ; phân theo xuất xứ lại ra 128",
+          "price": "—",
+          "sales": "Chưa có tỷ lệ bán ngày 3/11"
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "03/11/2026",
+          "volume": "90 cont: 26 mới + 64 cũ; ghi nhận khác 85: 25 mới + 60 cũ",
+          "price": "—",
+          "sales": "Chưa có tỷ lệ bán mới"
+        },
+        {
+          "market": "Vạn Bang",
+          "asOf": "03/11/2026",
+          "volume": "Hai ghi nhận: 74 cont (14 mới + 60 cũ); 65 cont (17 mới + 48 cũ)",
+          "price": "—",
+          "sales": "Khách ít, hàng ra chậm; hàng tốt tương đối nhanh"
+        }
+      ],
+      "takeaway": "Tồn cũ còn lớn, chưa đủ căn cứ nói giá hồi rộng. Thu mua Việt Nam có thêm lực đỡ nếu giá thực bán tăng cùng hàng cũ giảm; sức bán yếu vẫn gây áp lực dù lượng tại chợ giảm.",
+      "editorNote": "Các ghi nhận khác nhau không cộng lại; Gia Hưng lệch 1 cont giữa tổng và phân loại xuất xứ.",
+      "videoStatus": "Kiểm tra4/11: chưa xác minh video sau28/10 của 水果猎人-----金童, ID shuiguoliere41; trang Douyin không đọc được danh sách, không kết luận không đăng. Không dùng 阿龙. 小宝哥/刘宝峰 chưa xác minh tài khoản/video hiện tại, không gán dữ liệu chợ cho người này.",
+      "limits": "Số liệu ngày3/11 kiểm tra4/11; ngày giờ công bố gốc chưa xác minh, nguồn tổng hợp ghi tệp xuất không có thời gian đăng. Chưa kiểm chứng độc lập qua chợ chính thức. GiaHưng127=24+103 nhưng xuấtxứ128, không điều chỉnh. CaoBiDiem90 và85 khácsnapshot không tính trungbình/cộng. VanBang bản65 có17mới nhưng xuấtxứmới chỉ12 lệch5; giữ17theotổng và khôngphânbổquốcgia. Giá thiếuđơnvị khôngtựthêmNDT/kiện. KhônglặpbảnGZ3/11đãđưa thànhtinmới. Chưa có chốtngàyGZ,30%vẫndựkiến. Chưa xác minh thôngbáokiểmdịch/logisticsmới hoặc cạnhtranhThái theo cùng phẩm cấp.",
+      "sources": [
+        {
+          "label": "Dữ liệu chợ3/11 · nguồn tổng hợp dẫn DIN",
+          "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Douyin gốc không đọc được danh sách",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        }
+      ]
+    },
     {
       "id": "2026-11-03-evening",
       "date": "2026-11-03",
