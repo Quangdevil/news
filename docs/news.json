@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T14:04:48+07:00",
+  "updatedAt": "2026-11-04T19:58:15+07:00",
   "stories": [
+    {
+      "id": "2026-11-04-evening",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T19:58:15+07:00",
+      "label": "Tối",
+      "tag": "GIÁ THAM KHẢO · 4/11",
+      "headline": "Giang Nam giảm giá tham khảo, lượng đường bộ tăng",
+      "summary": "Mẫu giá ngày 4/11 tại Giang Nam giảm 0,55 NDT/kg, trong khi Vô Tích tăng 1,53 NDT/kg. Ghi nhận đường bộ ngày 3/11 đạt 205 cont, gồm Việt Nam 202 và Thái Lan 3, tăng 11 cont so với 2/11.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Giang Nam · Quảng Châu",
+          "asOf": "04/11/2026",
+          "volume": "—",
+          "price": "Sầu riêng nhập Việt/Thái gộp: 37,78 NDT/kg; chưa tách giống, hạng",
+          "sales": "−0,55 NDT/kg so với mẫu 3/11; chưa có sức bán mới"
+        },
+        {
+          "market": "Vô Tích",
+          "asOf": "04/11/2026",
+          "volume": "—",
+          "price": "Sầu riêng 34,21 NDT/kg; chưa rõ giống, xuất xứ, hạng",
+          "sales": "+1,53 NDT/kg so với mẫu 3/11; chưa có sức bán mới"
+        }
+      ],
+      "takeaway": "Giá còn phân hóa. Lượng đường bộ tăng có thể thêm áp lực nếu khách mua chậm; thu mua Việt Nam có thêm hỗ trợ khi giá thực bán tăng và hàng cũ giảm.",
+      "editorNote": "Giá tính tham khảo; số đường bộ chưa được hải quan đối chiếu độc lập và không phải hàng về chợ.",
+      "videoStatus": "Kiểm tra tối4/11: chưa xác minh video sau28/10 của 水果猎人-----金童, ID shuiguoliere41; trang gốc không đọc được danh sách, không kết luận không có bài mới. Không dùng 阿龙. 小宝哥/刘宝峰 chưa xác minh video hiện tại; kết quả tìm kiếm chỉ tin cũ, không gán dữ liệu mới.",
+      "limits": "Giá ngày4/11, đường bộngày3/11, truyxuất4/11; không đổi ngàynguồn. Giá xửlýthamkhảo khôngphảichào/thànhgiao, khácmẫuvàphẩm cấp không so mức tuyệtđối. Nguồnđườngbộ205=202+3, cùngchuỗighi194ngày2/11; chưađốichiếuhải quan chínhthức, không là tổngnhập cả nước. Không lặp GiaHưng đãđưabảnchiều, tồnchợ3/11đãđưabảnsáng. Chưa có kếtquảchốtngàyGZ hoặc thông báo kiểm dịch/logistics mới. Không có phát biểu video mới để đối chiếu.",
+      "sources": [
+        {
+          "label": "Mẫu giá4/11 và đường bộ3/11",
+          "url": "https://www.xiaoju365.net/"
+        },
+        {
+          "label": "Báo cáo chợ vẫn3/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Douyin gốc không đọc được danh sách",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        }
+      ]
+    },
     {
       "id": "2026-11-04-afternoon",
       "date": "2026-11-04",
