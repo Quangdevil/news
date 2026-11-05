@@ -1,7 +1,44 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T08:06:48+07:00",
+  "updatedAt": "2026-11-05T14:04:27+07:00",
   "stories": [
+    {
+      "id": "2026-11-05-afternoon",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T14:04:27+07:00",
+      "label": "Chiều",
+      "tag": "GIÁ THAM KHẢO · 5/11",
+      "headline": "Gia Hưng giữ giá tham khảo, sức bán chưa có số mới",
+      "summary": "Mẫu giá ngày 5/11 tại Gia Hưng giữ Monthong Việt ở 41,10 và Thái ở 64,40 NDT/kg, chưa rõ phân hạng. Chưa có giá thành giao, lượng hàng mới/cũ hoặc kết quả tiêu thụ mới được xác minh sau bản sáng.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "05/11/2026",
+          "volume": "—",
+          "price": "Monthong Việt 41,10; Thái 64,40 NDT/kg; chưa rõ hạng",
+          "sales": "Giá tham khảo không đổi so với 4/11; chưa có sức bán mới"
+        }
+      ],
+      "takeaway": "Giá tham khảo giữ mức chưa đủ xác nhận nhịp hồi. Nếu khách chấp nhận giá thực bán cao hơn và tồn cũ giảm, thu mua Việt Nam có thêm lực đỡ; bán chậm vẫn gây sức ép.",
+      "editorNote": "Giá tính tham khảo, chưa xác nhận giá chào hoặc thành giao.",
+      "videoStatus": "Kiểm tra chiều5/11: chưa xác minh video sau28/10 của 水果猎人-----金童, ID shuiguoliere41; danh sách Douyin gốc không đọc được, không kết luận không có video mới; không dùng 阿龙. 小宝哥/刘宝峰 chưa xác minh đúng tài khoản/video hiện tại, không gán dữ liệu chợ.",
+      "limits": "Giá mang ngày5/11, kiểm tra5/11. Không lặp VôTích đãđưabảnsáng. Báo cáo có tiêuđề4/11 nhưng phần chợ ghi3/11, không đổi ngày sốliệucũ. Chưa xácminh số chốtngàyGZ, tỷlệ30%3/11 vẫn dựkiến. Không suy chênh giáViệt/Thái thành lợi thếcạnhtranh do thiếuphẩm cấp. Chưa xácminhthôngbáokiểmdịch/logisticsmới. Nguồnthứ cấp khôngphảigiao dịchđãkiểmchứng; không có phátbiểu video mới đểđốichiếu.",
+      "sources": [
+        {
+          "label": "Mẫu tham khảo Gia Hưng5/11",
+          "url": "https://www.xiaoju365.net/"
+        },
+        {
+          "label": "Nhật báo · đối chiếu ngày từng phần",
+          "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Douyin gốc không đọc được danh sách",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        }
+      ]
+    },
     {
       "id": "2026-11-05-morning",
       "date": "2026-11-05",
