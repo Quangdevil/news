@@ -1,7 +1,44 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T19:58:15+07:00",
+  "updatedAt": "2026-11-05T08:06:48+07:00",
   "stories": [
+    {
+      "id": "2026-11-05-morning",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T08:06:48+07:00",
+      "label": "Sáng",
+      "tag": "GIÁ THAM KHẢO · 5/11",
+      "headline": "Vô Tích tăng giá tham khảo, sức bán chưa có số mới",
+      "summary": "Mẫu giá ngày 5/11 tại Vô Tích ghi nhận sầu riêng 36,78 NDT/kg, cao hơn mức tham khảo 34,21 NDT/kg ngày 4/11. Chưa có thông tin giống, xuất xứ, phân hạng và giá thành giao để xác nhận đà tăng thực bán.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Vô Tích · Tích Trừng",
+          "asOf": "05/11/2026",
+          "volume": "—",
+          "price": "Sầu riêng 36,78 NDT/kg; chưa rõ giống, xuất xứ, hạng",
+          "sales": "+2,57 NDT/kg so với mẫu 4/11; chưa có sức bán mới"
+        }
+      ],
+      "takeaway": "Giá tham khảo tăng chưa đủ kết luận thị trường hồi. Thu mua Việt Nam có thêm hỗ trợ nếu giá thực bán tăng và hàng cũ giảm; khách mua chậm vẫn có thể ghìm giá.",
+      "editorNote": "Giá tính tham khảo, chưa xác nhận giá chào hoặc thành giao.",
+      "videoStatus": "Kiểm tra sáng5/11: chưa xác minh video sau28/10 của 水果猎人-----金童, ID shuiguoliere41; trang Douyin gốc không đọc được danh sách. Không dùng 阿龙, không kết luận không có bài mới. 小宝哥/刘宝峰 chưa xác minh tài khoản/video hiện tại, không gán số liệu Cao Bi Điếm cho người này.",
+      "limits": "Giá mẫu5/11 truyxuất5/11, so mức34.21ngày4/11đãđưa; không quy đổi tiền. Trang nhật báo tiêu đề4/11 nhưng phần thị trường và so sánh còn3/11, không nâng ngày số127/90/85contcũ thành4/11. Chưa có giá thànhgiao, lượngmới/cũ, sức bán/chốtngày mới hơnbộ3/11đãđưa. Nguồnthứ cấp khôngphảixácminhgiao dịchchínhthức. Chưa xácminhthôngbáokiểmdịch/logisticsmới hoặc cạnhtranhThái theo cùng phẩm cấp.",
+      "sources": [
+        {
+          "label": "Mẫu tham khảo Vô Tích5/11",
+          "url": "https://www.xiaoju365.net/"
+        },
+        {
+          "label": "Báo cáo chợ · kiểm tra ngày trong từng phần",
+          "url": "https://www.xiaoju365.net/durian-daily.php"
+        },
+        {
+          "label": "Douyin gốc không đọc được danh sách",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        }
+      ]
+    },
     {
       "id": "2026-11-04-evening",
       "date": "2026-11-04",
