@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T14:04:27+07:00",
+  "updatedAt": "2026-11-09T14:07:14+07:00",
   "stories": [
+    {
+      "id": "2026-11-09-afternoon",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T14:07:14+07:00",
+      "label": "Chiều",
+      "tag": "THỊ TRƯỜNG · 9/11",
+      "headline": "Monthong Việt tại Gia Hưng giảm giá tham khảo",
+      "summary": "Mẫu bán buôn Monthong Việt tại Gia Hưng ngày 9/11 ở 38,90 NDT/kg, thấp hơn 2,20 NDT/kg so với mẫu 5/11. Tại Đồng bằng sông Cửu Long ngày 8/11, giá chào thu mua Monthong A là 80.000–98.000 đồng/kg, B là 60.000–78.000 đồng/kg.",
+      "priceHeading": "Giá và loại báo giá",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "09/11/2026",
+          "volume": "—",
+          "price": "Monthong Việt 38,90 NDT/kg, tham khảo, chưa rõ hạng",
+          "sales": "Chưa có số mới"
+        },
+        {
+          "market": "Quảng Châu",
+          "asOf": "05/11/2026",
+          "volume": "Một mẫu 70 cont: 37 mới, 33 cũ",
+          "price": "Monthong Việt A3/10 kg mới: chào 340–350, báo bán 320–330 NDT/kiện",
+          "sales": "Ghi nhận 20–30%, dự kiến cả ngày 40–50%"
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "05/11/2026",
+          "volume": "96 cont (32 mới, 64 cũ); cộng chi tiết ra 94",
+          "price": "—",
+          "sales": "Chưa rõ"
+        }
+      ],
+      "takeaway": "Giá thu mua có thể chịu sức ép nếu giá thực bán tiếp tục yếu. Một nhịp hồi cần giá bán cùng hạng tăng và hàng cũ giảm.",
+      "editorNote": "Chưa có số chốt ngày tại Quảng Châu hoặc số hàng mới/cũ ngày 9/11.",
+      "videoStatus": "Kiểm tra 9/11: Feigua xác nhận tên 水果猎人-----金童 và ID shuiguoliere41. Trang Douyin công khai không đọc được danh sách; chưa xác minh clip sau mốc 28/10, không dùng 阿龙. Đơn vị vận hành chợ xác nhận 刘宝峰 phụ trách cửa hàng 小宝哥, chưa xác minh tài khoản Douyin hoặc video mới của người này.",
+      "limits": "Nhật báo mang ngày 9/11 nhưng mục chợ là 5/11, chưa rõ giờ đăng gốc. Quảng Châu mẫu 70 cont khác mẫu 72 cont (67 Việt, 5 Thái); không cộng hai mẫu. Giá A3 theo ngữ cảnh NDT/kiện và phản hồi nguồn ngành, chưa kiểm chứng giao dịch độc lập. Đường bộ 7/11 nguồn ngành ghi 197–205 cont Việt và 2 Thái, chưa đối chiếu hải quan, không phải hàng về chợ. Chưa xác minh thay đổi kiểm dịch mới.",
+      "sources": [
+        {
+          "label": "Mẫu Gia Hưng 9/11",
+          "url": "https://www.xiaoju365.net/"
+        },
+        {
+          "label": "Nhật báo, phần chợ ngày 5/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-09"
+        },
+        {
+          "label": "Giá vùng trồng 8/11 và đường bộ 7/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-08"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-05-afternoon",
       "date": "2026-11-05",
