@@ -1,7 +1,63 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T14:07:14+07:00",
+  "updatedAt": "2026-11-09T20:03:13+07:00",
   "stories": [
+    {
+      "id": "2026-11-09-evening",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T20:03:13+07:00",
+      "label": "Tối",
+      "tag": "THỊ TRƯỜNG · 9/11",
+      "headline": "Giang Nam nhích giá tham khảo, kho miền Tây giữ giá",
+      "summary": "Mẫu bán buôn sầu riêng nhập tại Giang Nam ngày 8/11 nhích 0,55 NDT/kg so với 7/11. Khảo sát kho Tây Nam Bộ ngày 9/11 ghi nhận giá thu mua nhìn chung đi ngang, Ri6 loại A 68.000–78.000 và loại B 53.000–63.000 đồng/kg.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Giang Nam · Quảng Châu",
+          "asOf": "08/11/2026",
+          "volume": "Chưa cập nhật",
+          "price": "38,33 NDT/kg, sầu riêng nhập Việt/Thái gộp, chưa tách giống và hạng",
+          "sales": "Chưa có giá chào, thành giao hoặc số chốt bán"
+        },
+        {
+          "market": "Gia Hưng",
+          "asOf": "08/11/2026",
+          "volume": "Chưa cập nhật",
+          "price": "Monthong Thái 66,70 NDT/kg, chưa rõ hạng",
+          "sales": "Mẫu ngang 7/11, chưa có số tiêu thụ"
+        }
+      ],
+      "takeaway": "Giá tham khảo nhích lên chưa đủ xác nhận nhịp hồi. Nếu tồn cũ giảm và giá thực bán cùng hạng tăng, giá kho Việt Nam có thêm lực đỡ. Nếu hàng bán chậm, áp lực trả giá có thể kéo dài.",
+      "editorNote": "Số liệu kho là mức khảo sát thu mua, chưa xác nhận giá chốt từng lô.",
+      "videoStatus": "Kiểm tra tối 9/11: trang Douyin gốc của 水果猎人-----金童, ID shuiguoliere41, được thu thập ngày 9/11 nhưng không đọc được danh sách; chưa xác minh bài mới sau mốc 28/10. Không lấy 阿龙. Chưa xác minh tài khoản hoặc video mới của 小宝哥/刘宝峰, không gán số chợ.",
+      "limits": "Bản điểm ngày 9/11 hiển thị chuỗi giá chợ đến 8/11; nhật báo ngày 9/11 vẫn dùng bảng lượng chợ ngày 5/11 đã đưa bản chiều. Chưa có số mới về tồn cũ, chất lượng, sức bán hay thay đổi kiểm dịch. Giá tham khảo theo từng chuỗi, không so chênh Việt–Thái như giá cùng phẩm cấp.",
+      "sources": [
+        {
+          "label": "Mẫu bán buôn ngày 8/11",
+          "url": "https://www.xiaoju365.net/daily/index.html"
+        },
+        {
+          "label": "Khảo sát giá kho ngày 9/11",
+          "url": "https://doanhnghiephoinhap.vn/gia-sau-rieng-hom-nay-911-thi-truong-khong-co-nhieu-bien-dong-moi-153772.html"
+        },
+        {
+          "label": "Nhật báo, phần chợ ngày 5/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-09"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-09-afternoon",
       "date": "2026-11-09",
