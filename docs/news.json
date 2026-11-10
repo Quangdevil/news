@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T20:03:13+07:00",
+  "updatedAt": "2026-11-10T08:00:00+07:00",
   "stories": [
+    {
+      "id": "2026-11-10-morning",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T08:00:00+07:00",
+      "label": "Sáng",
+      "tag": "THỊ TRƯỜNG · 10/11",
+      "headline": "Monthong loại A miền Tây chạm 100.000 đồng/kg",
+      "summary": "Giá thu mua tham khảo tại kho ĐBSCL ngày 10/11 ghi nhận Monthong loại A 90.000–100.000, loại B 70.000–80.000 đồng/kg. Cùng khu vực, Ri6 loại A ở 69.000–70.000, loại B 54.000–55.000 đồng/kg.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "09/11/2026",
+          "volume": "Chưa cập nhật",
+          "price": "Sầu riêng nhập Việt–Thái gộp 38,89 NDT/kg, chưa tách giống và hạng",
+          "sales": "Tăng 0,56 NDT/kg so với 8/11; chưa có giá chào hoặc thành giao"
+        },
+        {
+          "market": "Vô Tích",
+          "asOf": "10/11/2026",
+          "volume": "Chưa cập nhật",
+          "price": "34,21 NDT/kg, chưa rõ giống, hạng và xuất xứ",
+          "sales": "Ngang mẫu 9/11; chưa có số tiêu thụ"
+        },
+        {
+          "market": "Gia Hưng",
+          "asOf": "09/11/2026",
+          "volume": "Chưa cập nhật",
+          "price": "Monthong Thái 66,70 NDT/kg, chưa rõ hạng",
+          "sales": "Ngang mẫu 8/11; chưa có số tiêu thụ"
+        }
+      ],
+      "takeaway": "Hàng đẹp có thể giữ giá nếu nguồn cuối vụ tiếp tục co lại. Cần theo dõi giá thực bán cùng hạng và tồn cũ ở Giang Nam để xác nhận nhịp hồi.",
+      "editorNote": "Giá kho và giá bán buôn là mức tham khảo, chưa có số chốt từng lô.",
+      "videoStatus": "Sáng 10/11: tên 水果猎人-----金童 khớp ID shuiguoliere41 trên Feigua, không lấy 阿龙. Hồ sơ gốc thu thập 10/11 không hiện danh sách đọc được; chưa xác minh bài sau 28/10. Chưa xác minh Douyin hoặc clip mới của 小宝哥/刘宝峰.",
+      "limits": "Chưa xác minh số hàng mới/cũ, chất lượng lô, sức bán hoặc kiểm dịch mới. Trích đoạn chỉ mục cửa khẩu 8/11 không khớp bản mở đọc nên chưa dùng. Số liệu Gia Hưng không ghép các phẩm cấp.",
+      "sources": [
+        {
+          "label": "Giá kho ĐBSCL 10/11",
+          "url": "https://thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-10-11-thi-truong-tang-a341311.html"
+        },
+        {
+          "label": "Mẫu giá chợ 9/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-10.html"
+        },
+        {
+          "label": "Mẫu Vô Tích 10/11",
+          "url": "https://www.xiaoju365.net/"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-09-evening",
       "date": "2026-11-09",
