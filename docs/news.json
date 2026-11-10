@@ -1,7 +1,65 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T14:05:33+07:00",
+  "updatedAt": "2026-11-10T19:55:12+07:00",
   "stories": [
+    {
+      "id": "2026-11-10-evening",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T19:55:12+07:00",
+      "label": "Tối",
+      "tag": "CHỢ ĐẦU MỐI · 9/11",
+      "headline": "Giang Nam bán dưới giá chào, Cao Bi Điếm còn nhiều hàng cũ",
+      "summary": "Ngày 9/11, Monthong Việt A3 đẹp tại Giang Nam báo bán 300–320 NDT/kiện 10 kg, ngang ngày 8/11. Tại Cao Bi Điếm, hàng cũ chiếm 88 trong mẫu 112 cont.",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "09/11/2026",
+          "volume": "71 cont: Việt 66, Thái 4, Philippines 1; chưa tách mới/cũ",
+          "price": "Monthong Việt A3 đẹp/10 kg: chào 330–340, báo bán 300–320 NDT/kiện",
+          "sales": "Dự kiến bán 30–40% cả ngày; chưa có số chốt"
+        },
+        {
+          "market": "Gia Hưng",
+          "asOf": "09/11/2026",
+          "volume": "119 cont: 35 mới, 84 cũ",
+          "price": "Monthong Thái loại A/19 kg: tham khảo 780–800 NDT/kiện",
+          "sales": "Bản tối ghi bán khoảng 28%; hàng trung bình và Ri6 chậm"
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "09/11/2026",
+          "volume": "106–112 cont; mẫu 112 gồm 24 mới, 88 cũ",
+          "price": "—",
+          "sales": "Chưa có tỷ lệ bán toàn chợ"
+        }
+      ],
+      "takeaway": "Nếu hàng cũ còn nhiều và sức bán chậm, giá thu mua Việt Nam có thể chịu sức ép. Giá thực bán cùng hạng tăng và tồn cũ giảm sẽ là dấu hiệu hồi rõ hơn.",
+      "editorNote": "Số chợ là ghi nhận ngày 9/11, chưa xác nhận bằng số đối soát giao dịch.",
+      "videoStatus": "Tối 10/11: hồ sơ gốc của 水果猎人-----金童, ID shuiguoliere41, được thu thập ngày 10/11 nhưng không hiện danh sách đọc được. Chưa xác minh clip sau 28/10, không dùng 阿龙. Chưa xác minh tài khoản hoặc bài mới của 小宝哥/刘宝峰.",
+      "limits": "Bản tổng hợp ngày 10/11, quan sát chợ 9/11, chưa xác minh giờ đăng gốc. Dữ liệu đọc qua trích đoạn chỉ mục. Mẫu 71 cont theo bảng ảnh. Không cộng mẫu khác nhau. Chưa xác minh diễn biến kiểm dịch hoặc logistics mới.",
+      "sources": [
+        {
+          "label": "Bản tổng hợp chợ ngày 9/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?view=all"
+        },
+        {
+          "label": "Bảng ngày 9/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-10"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-10-afternoon",
       "date": "2026-11-10",
