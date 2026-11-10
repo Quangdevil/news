@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T08:00:00+07:00",
+  "updatedAt": "2026-11-10T14:05:33+07:00",
   "stories": [
+    {
+      "id": "2026-11-10-afternoon",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T14:05:33+07:00",
+      "label": "Chiều",
+      "tag": "NGUỒN CUNG · 10/11",
+      "headline": "Lượng sầu riêng Việt qua đường bộ tăng trong mẫu ngày 8/11",
+      "summary": "Hai ghi nhận đường bộ ngày 8/11 nêu 230 và 239 cont sầu riêng Việt Nam. Trong mẫu có tách hai xuất xứ, lượng hàng Việt tăng từ 205 lên 230 cont so với 7/11, hàng Thái từ 2 lên 3 cont.",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "05/11/2026",
+          "volume": "117 cont trong một mẫu, gồm 47 mới và 70 cũ",
+          "price": "—",
+          "sales": "Chưa xác định tỷ lệ bán"
+        }
+      ],
+      "takeaway": "Nếu hàng qua cửa khẩu tăng và dồn về chợ trong lúc tiêu thụ chậm, giá thực bán có thể chịu sức ép. Giá thu mua Việt Nam có thêm lực đỡ nếu hàng cũ giảm và giá thực bán cùng hạng giữ được.",
+      "editorNote": "Số đường bộ là ghi nhận ngành sơ bộ, chưa được hải quan xác nhận và chưa phản ánh lượng về chợ.",
+      "videoStatus": "Chiều 10/11: hồ sơ gốc của 水果猎人-----金童, ID shuiguoliere41, được thu thập ngày 10/11 nhưng không hiện danh sách đọc được. Chưa xác minh video mới sau 28/10. Không dùng 阿龙. Chưa xác minh tài khoản hoặc bài mới của 小宝哥/刘宝峰.",
+      "limits": "Số đường bộ 8/11 chỉ hiện trong bản công cụ tìm kiếm thu thập 10/11, bản mở không hiện cùng số; chỉ dùng như tín hiệu sơ bộ. Hai ghi nhận Việt Nam không cộng lại. Không suy thành thị phần nhập khẩu hay tốc độ thông quan. Mẫu Gia Hưng là quan sát 5/11; số chi tiết hàng mới chưa khớp tổng, giữ nguyên tổng bảng. Chưa có cập nhật chốt bán, chất lượng hoặc kiểm dịch ở Giang Nam và Cao Bi Điếm.",
+      "sources": [
+        {
+          "label": "Trích đoạn báo cáo đường bộ ngày 8/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?view=all"
+        },
+        {
+          "label": "Mẫu Gia Hưng ngày 5/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-06"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-10-morning",
       "date": "2026-11-10",
