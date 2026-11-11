@@ -1,7 +1,48 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T19:55:12+07:00",
+  "updatedAt": "2026-11-11T08:00:00+07:00",
   "stories": [
+    {
+      "id": "2026-11-11-morning",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T08:00:00+07:00",
+      "label": "Sáng",
+      "tag": "GIÁ THAM KHẢO · 10/11",
+      "headline": "Monthong Việt và Thái cùng tăng giá tham khảo tại Gia Hưng",
+      "summary": "Mẫu bán buôn ngày 10/11 tại Gia Hưng ghi Monthong Việt 41,10 và Thái 70,00 NDT/kg. So với 9/11, hai mẫu tăng lần lượt 2,20 và 3,30 NDT/kg, chưa rõ phân hạng.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "10/11/2026",
+          "volume": "Chưa có số mới/cũ mới hơn 9/11",
+          "price": "Monthong Việt 41,10; Thái 70,00 NDT/kg, chưa rõ hạng",
+          "sales": "Chưa xác minh giá chào, thành giao hoặc tỷ lệ bán ngày 10/11"
+        }
+      ],
+      "takeaway": "Giá tham khảo tăng tạo tín hiệu tích cực, còn nhịp hồi cần được xác nhận bằng giá thực bán cùng hạng và tồn cũ giảm. Nếu sức bán chậm, giá thu mua Việt Nam vẫn có thể chịu sức ép.",
+      "editorNote": "Hai mẫu giá chưa rõ phẩm cấp nên chưa dùng chênh lệch để so lợi thế cạnh tranh.",
+      "videoStatus": "Sáng 11/11: hồ sơ gốc 水果猎人-----金童, ID shuiguoliere41, được thu thập 11/11 nhưng không hiện danh sách đọc được. Chưa xác minh video mới sau 28/10, không dùng 阿龙. 小宝哥/刘宝峰 chưa xác minh tài khoản và clip hiện tại.",
+      "limits": "Ngày bản tổng hợp và thu thập 11/11, ngày giá 10/11; không đổi ngày quan sát. Chưa có lượng mới/cũ hoặc chốt bán mới hơn bản tối đã đưa. Chưa xác minh thông báo kiểm dịch hoặc chất lượng mới. Mẫu tham khảo chưa xác nhận giao dịch thực tế.",
+      "sources": [
+        {
+          "label": "Bản ngày 11/11, giá quan sát 10/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-11.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-10-evening",
       "date": "2026-11-10",
