@@ -1,7 +1,56 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T08:00:00+07:00",
+  "updatedAt": "2026-11-11T13:57:00+07:00",
   "stories": [
+    {
+      "id": "2026-11-11-afternoon",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T13:57:00+07:00",
+      "label": "Chiều",
+      "tag": "ĐƯỜNG BỘ · 9/11",
+      "headline": "Lượng sầu riêng Việt qua đường bộ giảm 9 cont",
+      "summary": "Ghi nhận ngành ngày 9/11 có 224 cont qua đường bộ, gồm 221 cont Việt Nam và 3 cont Thái Lan. So với 8/11 trong cùng chuỗi, hàng Việt giảm 9 cont, hàng Thái giữ nguyên.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "10/11/2026",
+          "volume": "Chưa có số hàng mới/cũ",
+          "price": "Sầu riêng nhập Việt–Thái gộp 38,89 NDT/kg, chưa tách giống và hạng",
+          "sales": "Ngang mẫu 9/11; chưa có giá chào, thành giao hay số chốt bán"
+        }
+      ],
+      "takeaway": "Lượng qua cửa khẩu giảm một ngày chưa đủ để dự báo giá thu mua. Nếu tồn cũ ở chợ giảm cùng giá thực bán tăng, kho Việt Nam có thể giữ giá tốt hơn; nếu sức bán chậm, áp lực trả giá còn kéo dài.",
+      "editorNote": "Lượng qua đường bộ là ghi nhận ngành, chưa được đối chiếu với hải quan và chưa phản ánh số cont về chợ.",
+      "videoStatus": "Chiều 11/11: hồ sơ gốc 水果猎人-----金童, ID shuiguoliere41, được thu thập 11/11 nhưng không có danh sách đọc được. Chưa xác minh clip sau 28/10. Không dùng 阿龙. Chưa xác minh đúng Douyin hoặc clip mới của 小宝哥/刘宝峰.",
+      "limits": "Số đường bộ ngày 9/11 và đối chiếu 8/11 cùng bảng DIN, đã đọc trong bản tổng hợp ngày 11/11. Không cộng ghi nhận 239 cont Việt ngày 8/11 từ nguồn khác. Số chợ 9/11 đã đưa bản tối 10/11. Khảo sát kho 11/11 cho hướng biến động khác nhau, chưa đồng nhất mẫu. Chưa xác minh thông báo kiểm dịch mới.",
+      "sources": [
+        {
+          "label": "Bản ngày 11/11, giá quan sát 10/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-11.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        },
+        {
+          "label": "Khảo sát kho 11/11, ghi nhận đi ngang",
+          "url": "https://vietnambiz.vn/gia-sau-rieng-hom-nay-1111-thi-truong-chua-co-bien-dong-moi-nang-cao-nang-luc-khuyen-nong-vien-trong-huong-dan-canh-tac-sau-rieng-ben-vung-202611119223906.htm"
+        },
+        {
+          "label": "Khảo sát kho 11/11, ghi nhận giảm tại ĐBSCL",
+          "url": "https://thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-11-11-thi-truong-bien-dong-a341439.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-11-morning",
       "date": "2026-11-11",
