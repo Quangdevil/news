@@ -1,7 +1,65 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T13:57:00+07:00",
+  "updatedAt": "2026-11-11T19:55:47+07:00",
   "stories": [
+    {
+      "id": "2026-11-11-evening",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T19:55:47+07:00",
+      "label": "Tối",
+      "tag": "CHỢ ĐẦU MỐI · 10/11",
+      "headline": "Monthong Việt nhích giá bán ở Gia Hưng, Giang Nam giữ mức",
+      "summary": "Ngày 10/11 tại Gia Hưng, Monthong Việt loại A đẹp, kiện 9 kg, được báo thành giao 340–350 NDT/kiện, cao hơn mức báo bán 320–330 NDT/kiện ngày 9/11. Tại Giang Nam, Monthong Việt A3 đẹp, kiện 10 kg, vẫn được báo bán 300–320 NDT/kiện.",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "10/11/2026",
+          "volume": "Mẫu tổng hợp 144 cont, gồm 44 mới và 100 cũ",
+          "price": "Monthong Việt loại A đẹp, kiện 9 kg, báo thành giao 340–350 NDT/kiện",
+          "sales": "Chưa có tỷ lệ bán"
+        },
+        {
+          "market": "Giang Nam",
+          "asOf": "10/11/2026",
+          "volume": "Hai ghi nhận chênh 71–137 cont, chưa chốt lượng",
+          "price": "Monthong Việt A3 đẹp, kiện 10 kg, chào 330–340, báo bán 300–320 NDT/kiện",
+          "sales": "Giá báo bán ngang 9/11, chưa có tỷ lệ bán"
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "10/11/2026",
+          "volume": "107–108 cont, gồm 25–26 mới và 82 cũ",
+          "price": "Monthong Việt hạng 1 đẹp, kiện 9 kg, tham khảo khoảng 330 NDT/kiện",
+          "sales": "Chưa có tỷ lệ bán"
+        }
+      ],
+      "takeaway": "Hàng đẹp có thể giữ giá thu mua nếu mức bán ở Gia Hưng lặp lại và tồn cũ giảm. Nếu Giang Nam vẫn bán dưới giá chào và hàng cũ còn nhiều, nhịp hồi có thể chỉ tập trung ở một số lô.",
+      "editorNote": "Lượng hàng Giang Nam còn chênh giữa các ghi nhận, chưa đủ cơ sở xác định tổng tại chợ.",
+      "videoStatus": "Tối 11/11: hồ sơ gốc của 水果猎人-----金童, ID shuiguoliere41, được thu thập ngày 11/11 nhưng không hiện danh sách đọc được. Chưa xác minh video sau 28/10, không lấy 阿龙. Chưa xác minh tài khoản hoặc video mới của 小宝哥/刘宝峰.",
+      "limits": "Báo cáo chợ ngày 10/11 được chỉ mục ngày 11/11, đọc qua trích đoạn, chưa xác minh giờ đăng gốc. 18斤 quy đổi 9 kg. Giá mỗi kiện theo ngữ cảnh bảng, chưa đối chiếu hóa đơn. Mẫu Gia Hưng 132 cont riêng không cộng với mẫu 144. Chưa xác minh số kiểm dịch hay thông quan mới hơn bản chiều.",
+      "sources": [
+        {
+          "label": "Báo cáo chợ 10/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-11"
+        },
+        {
+          "label": "Bảng chợ và ngày nghiệp vụ",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-11&view=all"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-11-afternoon",
       "date": "2026-11-11",
