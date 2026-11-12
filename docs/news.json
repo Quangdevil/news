@@ -1,7 +1,59 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T08:03:59+07:00",
+  "updatedAt": "2026-11-12T14:03:09+07:00",
   "stories": [
+    {
+      "id": "2026-11-12-afternoon",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T14:03:09+07:00",
+      "label": "Chiều",
+      "tag": "THU MUA · 12/11",
+      "headline": "Giá kho miền Tây giảm ở Monthong và Ri6 loại B",
+      "summary": "Khảo sát kho ĐBSCL ngày 12/11 ghi nhận Monthong trồng tại Việt Nam loại A 90.000–97.000 và loại B 72.000–77.000 đồng/kg, cùng giảm 1.000 đồng/kg ở đầu trên so với 11/11. Ri6 loại B còn 45.000–50.000 đồng/kg, giảm 4.000–5.000 đồng/kg theo cùng khảo sát.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Kho ĐBSCL",
+          "asOf": "12/11/2026",
+          "volume": "—",
+          "price": "Ri6 loại A 60.000–65.000 đồng/kg, tham khảo thu mua",
+          "sales": "Chưa có số chốt từng lô"
+        },
+        {
+          "market": "Gia Hưng",
+          "asOf": "11/11/2026",
+          "volume": "Chưa có số mới/cũ",
+          "price": "Monthong Việt 41,10 và Thái 70,00 NDT/kg, tham khảo bán buôn, chưa rõ hạng",
+          "sales": "Ngang 10/11, chưa có tỷ lệ bán"
+        }
+      ],
+      "takeaway": "Nếu giá thực bán tại Trung Quốc chưa cải thiện, Ri6 loại B có thể tiếp tục chịu sức ép. Hàng đẹp có thể giữ giá tốt hơn nếu nguồn cuối vụ giảm và tồn cũ tại chợ được giải phóng.",
+      "editorNote": "Các mức giá kho là khảo sát tham khảo, chưa có số đối soát theo lô.",
+      "videoStatus": "Chiều 12/11: hồ sơ gốc 水果猎人-----金童, ID shuiguoliere41, được thu thập 12/11 nhưng không có danh sách đọc được. Chưa xác minh clip sau 28/10, không dùng 阿龙. Chưa xác minh Douyin hoặc clip mới của 小宝哥/刘宝峰.",
+      "limits": "Khảo sát kho đăng 06:12 ngày 12/11. Mẫu Gia Hưng quan sát 11/11, công bố 12/11. Chưa có số mới về lượng hàng, chất lượng, kiểm dịch và tiêu thụ ở Cao Bi Điếm hoặc Giang Nam.",
+      "sources": [
+        {
+          "label": "Khảo sát kho ĐBSCL 12/11",
+          "url": "https://thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-12-11-giam-o-khu-vuc-dong-bang-song-cuu-long-a341570.html"
+        },
+        {
+          "label": "Bản 12/11, bảng giá và đường bộ",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-12.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-12-morning",
       "date": "2026-11-12",
