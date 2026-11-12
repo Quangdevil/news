@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T19:55:47+07:00",
+  "updatedAt": "2026-11-12T08:03:59+07:00",
   "stories": [
+    {
+      "id": "2026-11-12-morning",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T08:03:59+07:00",
+      "label": "Sáng",
+      "tag": "THỊ TRƯỜNG · 12/11",
+      "headline": "Giá tham khảo Vô Tích giảm, hàng Việt qua đường bộ ít hơn",
+      "summary": "Mẫu bán buôn ngày 11/11 tại Vô Tích giảm 4,02 NDT/kg, trong khi Giang Nam nhích 0,28 NDT/kg. Ghi nhận đường bộ ngày 10/11 có 206 cont, gồm 203 cont Việt Nam và 3 cont Thái Lan, giảm 18 cont so với 9/11, toàn bộ ở hàng Việt.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Vô Tích",
+          "asOf": "11/11/2026",
+          "volume": "Chưa cập nhật mới/cũ",
+          "price": "30,19 NDT/kg, chưa rõ giống, hạng và xuất xứ",
+          "sales": "Chưa có giá chào, thành giao hoặc tỷ lệ bán"
+        },
+        {
+          "market": "Giang Nam",
+          "asOf": "11/11/2026",
+          "volume": "Chưa cập nhật mới/cũ",
+          "price": "39,17 NDT/kg, sầu riêng Việt–Thái gộp, chưa tách giống và hạng",
+          "sales": "Chưa có giá chào, thành giao hoặc tỷ lệ bán"
+        }
+      ],
+      "takeaway": "Các mẫu giá đi khác hướng nên chưa đủ cơ sở dự báo giá thu mua Việt Nam. Nếu lượng qua cửa khẩu giảm kéo theo tồn cũ giảm và sức bán cải thiện, giá thu mua có thể được hỗ trợ.",
+      "editorNote": "Số đường bộ là ghi nhận ngành, chưa đối chiếu hải quan và chưa phản ánh lượng về chợ.",
+      "videoStatus": "Sáng 12/11: hồ sơ gốc 水果猎人-----金童, ID shuiguoliere41, được thu thập ngày 12/11 nhưng không có danh sách đọc được. Chưa xác minh video sau 28/10, không dùng 阿龙. Chưa xác minh tài khoản hoặc video mới của 小宝哥/刘宝峰.",
+      "limits": "Bản tổng hợp thu thập 12/11, giá ngày 11/11 và lượng đường bộ ngày 10/11. Chưa có số chốt bán, tồn kho, chất lượng hoặc kiểm dịch mới ở các chợ theo dõi.",
+      "sources": [
+        {
+          "label": "Bản 12/11, bảng giá và đường bộ",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-12.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-11-evening",
       "date": "2026-11-11",
