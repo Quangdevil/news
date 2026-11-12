@@ -1,7 +1,63 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T14:03:09+07:00",
+  "updatedAt": "2026-11-12T19:56:00+07:00",
   "stories": [
+    {
+      "id": "2026-11-12-evening",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T19:56:00+07:00",
+      "label": "Tối",
+      "tag": "THỊ TRƯỜNG · 12/11",
+      "headline": "Giá tham khảo Vô Tích giảm tiếp, Gia Hưng giữ mức",
+      "summary": "Mẫu bán buôn ngày 12/11 tại Vô Tích giảm thêm 0,88 NDT/kg, xuống 29,31 NDT/kg. Tại Gia Hưng, Monthong Việt và Thái giữ mức tham khảo ngày 11/11.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Vô Tích",
+          "asOf": "12/11/2026",
+          "volume": "Chưa có số mới/cũ",
+          "price": "29,31 NDT/kg, chưa rõ giống, hạng và xuất xứ",
+          "sales": "Chưa có giá chào, thành giao hoặc sức bán"
+        },
+        {
+          "market": "Gia Hưng",
+          "asOf": "12/11/2026",
+          "volume": "Chưa có số mới/cũ",
+          "price": "Monthong Việt 41,10 và Thái 70,00 NDT/kg, chưa rõ hạng",
+          "sales": "Ngang 11/11, chưa có tỷ lệ bán"
+        }
+      ],
+      "takeaway": "Nếu giá bán thực tế cùng hạng giảm cùng chiều với mẫu Vô Tích, giá thu mua Việt Nam có thể chịu thêm sức ép. Tín hiệu giữ giá cần thấy ở lượng tồn cũ giảm và sức bán cải thiện.",
+      "editorNote": "Giá là trung vị của mẫu bán buôn, chưa có số chốt giao dịch.",
+      "videoStatus": "Tối 12/11: hồ sơ gốc 水果猎人-----金童, ID shuiguoliere41, được thu thập 12/11 nhưng danh sách không đọc được. Chưa xác minh video sau 28/10, không dùng 阿龙. Video ngày 19/9 gắn tên 小宝哥/刘宝峰 không xác nhận chủ tài khoản, chưa xác minh bài mới.",
+      "limits": "Mẫu giá 12/11 được thu thập cùng ngày. Chưa có giá thực bán hoặc tồn mới tại Giang Nam và Cao Bi Điếm. Bổ sung hậu kiểm logistics: báo cáo ngành ngày 11/11 ghi ngày nghiệp vụ 9/11 tại Hữu Nghị Quan chờ 0,5–1 ngày, 29 cont chờ kiểm và 4 hồ sơ chưa có kết quả kiểm côn trùng. Chưa có thông báo kiểm dịch mới hoặc đối chiếu hải quan.",
+      "sources": [
+        {
+          "label": "Mẫu giá bán buôn ngày 12/11",
+          "url": "https://www.xiaoju365.net/topics/durian.html"
+        },
+        {
+          "label": "Ghi nhận cửa khẩu ngày 9/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-11"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        },
+        {
+          "label": "Video 19/9 gắn tên, chưa xác nhận tác giả",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-12-afternoon",
       "date": "2026-11-12",
