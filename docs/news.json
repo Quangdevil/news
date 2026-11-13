@@ -1,7 +1,54 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T19:56:00+07:00",
+  "updatedAt": "2026-11-13T08:04:25+07:00",
   "stories": [
+    {
+      "id": "2026-11-13-morning",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T08:04:25+07:00",
+      "label": "Sáng",
+      "tag": "CHỢ ĐẦU MỐI · 11/11",
+      "headline": "Giang Nam giữ giá bán Monthong Việt, Cao Bi Điếm còn nhiều hàng cũ",
+      "summary": "Ngày 11/11, Monthong Việt hàng đẹp kiện 10 kg tại Giang Nam báo bán 300–320 NDT/kiện, ngang 10/11. Cao Bi Điếm ghi nhận 106–111 cont, trong đó mẫu 111 cont có 85 cont cũ.",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "11/11/2026",
+          "volume": "Khoảng 80 cont tại chợ, chưa tách mới/cũ",
+          "price": "Monthong Việt A3/10 kg theo nhãn: chào 310–380 NDT/kiện; hàng đẹp 10 kg báo bán 300–320 NDT/kiện",
+          "sales": "Chưa có số chốt bán"
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "11/11/2026",
+          "volume": "Mẫu 111 cont: 26 mới, 85 cũ; gồm 95 cont Monthong Việt và 5 cont Monthong Thái",
+          "price": "Monthong Việt hạng 1 đẹp/9 kg: tham khảo khoảng 330 NDT/kiện",
+          "sales": "Chưa có tỷ lệ bán"
+        }
+      ],
+      "takeaway": "Tồn cũ còn nhiều có thể ghìm giá thu mua Việt Nam nếu bán chậm. Tín hiệu hồi rõ hơn khi giá báo bán cùng hạng tăng và lượng tồn cũ giảm.",
+      "editorNote": "Dải giá chào theo nhãn và dải báo bán tại Giang Nam chưa được ghép theo từng lô.",
+      "videoStatus": "Sáng 13/11: hồ sơ gốc 水果猎人-----金童, ID shuiguoliere41, được thu thập 13/11 nhưng không có danh sách đọc được. Chưa xác minh video sau 28/10, không dùng 阿龙. Chưa xác minh tài khoản hoặc bài mới của 小宝哥/刘宝峰.",
+      "limits": "Dữ liệu chợ ngày 11/11 từ trích đoạn báo cáo công bố 12/11, thu thập 13/11; chưa mở được toàn văn hoặc xác minh giờ đăng gốc. Hai mẫu Cao Bi Điếm không cộng. 18斤 = 9 kg. Chưa xác minh số kiểm dịch, logistics hoặc chất lượng mới.",
+      "sources": [
+        {
+          "label": "Nhật báo 12/11, quan sát chợ 11/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-12"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-12-evening",
       "date": "2026-11-12",
