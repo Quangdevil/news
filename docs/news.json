@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T14:05:56+07:00",
+  "updatedAt": "2026-11-13T19:55:36+07:00",
   "stories": [
+    {
+      "id": "2026-11-13-evening",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T19:55:36+07:00",
+      "label": "Tối",
+      "tag": "SỨC BÁN · GIANG NAM",
+      "headline": "Giang Nam ghi nhận bán khoảng 20% tại thời điểm quan sát",
+      "summary": "Bổ sung số liệu ngày 11/11 tại Giang Nam: khách thưa, cải thiện sau 8h30 và lượng bán khoảng 20% tại thời điểm ghi nhận. Mức 30–40% là dự kiến cả ngày, chưa có số chốt.",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "11/11/2026",
+          "volume": "Khoảng 80 cont tại chợ, chưa tách mới/cũ",
+          "price": "Monthong Thái A3/9,5 kg chào 730 NDT/kiện; chưa có giá bán cùng quy cách",
+          "sales": "Khoảng 20% lúc ghi nhận; dự kiến cả ngày 30–40%"
+        }
+      ],
+      "takeaway": "Nếu tỷ lệ bán chốt thấp hơn dự kiến và tồn cũ chưa giảm, giá thu mua Việt Nam có thể tiếp tục chịu sức ép. Nhịp hồi cần thêm giao dịch thực tế cùng quy cách ở các phiên sau.",
+      "editorNote": "Giá chào hàng Thái thuộc một nhãn, chưa có giá bán đối chiếu.",
+      "videoStatus": "Tối 13/11: hồ sơ gốc 水果猎人-----金童, ID shuiguoliere41, được thu thập 13/11 nhưng không có danh sách đọc được. Chưa xác minh bài sau 28/10, không dùng 阿龙. Chưa xác minh tài khoản hoặc bài mới của 小宝哥/刘宝峰.",
+      "limits": "Trích đoạn bản tổng hợp ngày 12/11, quan sát chợ 11/11, kiểm tra 13/11; chưa rõ giờ đăng gốc. Cao Bi Điếm chưa có số mới sau bản sáng. Chưa xác minh cập nhật kiểm dịch hoặc cửa khẩu mới.",
+      "sources": [
+        {
+          "label": "Sức bán và báo giá Giang Nam ngày 11/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-12"
+        },
+        {
+          "label": "Bảng giá chào theo quy cách",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-12&view=all"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-13-afternoon",
       "date": "2026-11-13",
