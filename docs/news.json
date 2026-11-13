@@ -1,7 +1,59 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T08:04:25+07:00",
+  "updatedAt": "2026-11-13T14:05:56+07:00",
   "stories": [
+    {
+      "id": "2026-11-13-afternoon",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T14:05:56+07:00",
+      "label": "Chiều",
+      "tag": "THU MUA · 13/11",
+      "headline": "Monthong miền Tây nhích giá, Ri6 giảm tiếp",
+      "summary": "Khảo sát thu mua ngày 13/11 tại ĐBSCL ghi nhận Monthong loại A tăng 1.000–2.000 đồng/kg so với 12/11, còn mức cao nhất của Ri6 loại A và B cùng giảm 4.000 đồng/kg. Tại Lâm Đồng, Monthong loại A giảm 8.000 đồng/kg.",
+      "priceHeading": "Giá thu mua tham khảo",
+      "rows": [
+        {
+          "market": "Kho ĐBSCL",
+          "asOf": "13/11/2026",
+          "volume": "—",
+          "price": "Monthong Việt A 92.000–98.000, B 73.000–78.000 đồng/kg. Ri6 A 58.000–61.000, B 43.000–46.000 đồng/kg.",
+          "sales": "Chưa có giá chốt từng lô"
+        },
+        {
+          "market": "Lâm Đồng",
+          "asOf": "13/11/2026",
+          "volume": "—",
+          "price": "Monthong Việt A 78.000, B 58.000 đồng/kg",
+          "sales": "Chưa có giá chốt từng lô"
+        }
+      ],
+      "takeaway": "Giá kho có thể tiếp tục phân hóa theo giống và vùng. Nếu sức bán Ri6 ở chợ Trung Quốc không cải thiện, giá thu mua Ri6 vẫn có thể chịu sức ép.",
+      "editorNote": "Chưa có số mới về hàng mới/cũ hoặc tỷ lệ bán tại Giang Nam và Cao Bi Điếm.",
+      "videoStatus": "Chiều 13/11: hồ sơ gốc 水果猎人-----金童, ID shuiguoliere41, được thu thập 13/11 nhưng không đọc được danh sách. Chưa xác minh video sau 28/10, không lấy 阿龙. Chưa xác minh Douyin hoặc video mới của 小宝哥/刘宝峰.",
+      "limits": "Khảo sát đăng 05:55 ngày 13/11. Trích đoạn ngành báo lượng đường bộ ngày 11/11 khác phiên bản mở đọc, chưa dùng làm số chốt. Chưa đối chiếu chính thức ghi nhận kiểm dịch.",
+      "sources": [
+        {
+          "label": "Khảo sát thu mua 13/11",
+          "url": "https://thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-13-11-thi-truong-bien-dong-a341695.html"
+        },
+        {
+          "label": "Báo cáo ngành, đối chiếu phiên bản",
+          "url": "https://www.xiaoju365.net/durian-daily.php?view=all"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-13-morning",
       "date": "2026-11-13",
