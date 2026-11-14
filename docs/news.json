@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T14:04:11+07:00",
+  "updatedAt": "2026-11-14T20:05:03+07:00",
   "stories": [
+    {
+      "id": "2026-11-14-evening",
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T20:05:03+07:00",
+      "label": "Tối",
+      "tag": "GIÁ THAM KHẢO · 14/11",
+      "headline": "Giá tham khảo Vô Tích nhích lên sau hai ngày giữ mức",
+      "summary": "Ngày 14/11, giá bán buôn tham khảo sầu riêng tại Vô Tích tăng 0,74 NDT/kg so với 13/11, lên 30,05 NDT/kg. Mẫu Monthong Việt ở Gia Hưng giữ 42,20 NDT/kg.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Vô Tích",
+          "asOf": "14/11/2026",
+          "volume": "Chưa có số mới/cũ",
+          "price": "30,05 NDT/kg, chưa rõ giống, xuất xứ và hạng",
+          "sales": "Chưa có số bán hoặc giá thành giao"
+        },
+        {
+          "market": "Gia Hưng",
+          "asOf": "14/11/2026",
+          "volume": "Chưa có số mới/cũ",
+          "price": "Monthong Việt 42,20 và Thái 70,00 NDT/kg, chưa rõ hạng",
+          "sales": "Mẫu tham khảo giữ mức, chưa có tỷ lệ bán"
+        }
+      ],
+      "takeaway": "Nếu giá thực bán cùng hạng tăng và tồn cũ giảm, giá thu mua ở Việt Nam có thể được hỗ trợ. Với dữ liệu hiện có, nhịp tăng ở Vô Tích mới ghi nhận trong mẫu giá tham khảo.",
+      "editorNote": "Mức tham khảo là trung vị của mẫu trong cửa sổ bảy ngày.",
+      "videoStatus": "Tối 14/11: đối chiếu đúng 水果猎人-----金童, ID shuiguoliere41, không dùng 阿龙. Hồ sơ được thu thập 14/11 nhưng không đọc được danh sách. Chưa xác minh clip sau 28/10. Nguồn chính quyền Bắc Kinh xác nhận 刘宝峰 là chủ tịch doanh nghiệp 小宝哥, chưa xác minh tài khoản Douyin hoặc video mới.",
+      "limits": "Giá quan sát 14/11, thu thập cùng ngày. Chưa có số mới về tồn, sức bán, kiểm dịch hoặc thông quan sau bản chiều. Không gán dữ liệu Cao Bi Điếm cho tài khoản chưa xác minh.",
+      "sources": [
+        {
+          "label": "Chuỗi giá ngày 14/11",
+          "url": "https://www.xiaoju365.net/topics/durian.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-14-afternoon",
       "date": "2026-11-14",
