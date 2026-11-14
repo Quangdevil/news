@@ -1,7 +1,65 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T19:55:36+07:00",
+  "updatedAt": "2026-11-14T08:01:51+07:00",
   "stories": [
+    {
+      "id": "2026-11-14-morning",
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T08:01:51+07:00",
+      "label": "Sáng",
+      "tag": "CHỢ ĐẦU MỐI · 13/11",
+      "headline": "Giang Nam báo bán Monthong Việt từ 280 NDT một kiện",
+      "summary": "Ngày 13/11 tại Giang Nam, Monthong Việt kiện 10 kg được báo bán 300–320 NDT với hàng trung khá và 280–300 NDT với hàng thường. Gia Hưng ghi nhận 100 cont cũ trong tổng 133 cont.",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "13/11/2026",
+          "volume": "Hai mẫu 88 và 92 cont, chưa tách mới/cũ",
+          "price": "Monthong Việt kiện 10 kg: báo bán 300–320 NDT/kiện hàng trung khá, 280–300 hàng thường",
+          "sales": "Chưa có tỷ lệ bán chốt"
+        },
+        {
+          "market": "Gia Hưng",
+          "asOf": "13/11/2026",
+          "volume": "133 cont, gồm 100 cũ và 33 mới tính theo chênh lệch",
+          "price": "Monthong Việt 42,20 và Thái 70,00 NDT/kg, giá bán buôn tham khảo, chưa rõ hạng",
+          "sales": "Giá tham khảo Việt tăng 1,10 NDT/kg so với 12/11, Thái đi ngang"
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "13/11/2026",
+          "volume": "Hai mẫu 103 và khoảng 110 cont, chưa tách mới/cũ",
+          "price": "—",
+          "sales": "Chưa có số chốt bán"
+        }
+      ],
+      "takeaway": "Giá tham khảo Gia Hưng nhích lên trong khi hàng cũ vẫn chiếm phần lớn. Giá thu mua Việt Nam có thể giữ tốt hơn nếu tỷ lệ bán tăng và tồn cũ giảm.",
+      "editorNote": "Các mẫu lượng hàng tại cùng chợ được ghi riêng vì phạm vi có thể khác nhau.",
+      "videoStatus": "Sáng 14/11: hồ sơ gốc 水果猎人-----金童, ID shuiguoliere41, được thu thập 14/11 nhưng danh sách không đọc được. Chưa xác minh video sau 28/10, không lấy 阿龙. Bảng có nhãn sạp 小宝哥 nhưng thuộc danh sách báo giá ngày 11/11 và không xác nhận tác giả Douyin hoặc clip mới.",
+      "limits": "Ghi nhận chợ 13/11 đọc qua trích đoạn thu thập 14/11, chưa rõ giờ đăng gốc. Bản tiếng Thái ghi dữ liệu tới 11/11, khác ngày bản tiếng Trung nên không ghép. Giá tham khảo Gia Hưng lấy từ bảng 14/11. Chưa xác minh thay đổi kiểm dịch mới.",
+      "sources": [
+        {
+          "label": "Báo cáo chợ ngày 13/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-13&view=all"
+        },
+        {
+          "label": "Mẫu giá Gia Hưng ngày 13/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-14.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-13-evening",
       "date": "2026-11-13",
