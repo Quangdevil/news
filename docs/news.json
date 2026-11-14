@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T08:01:51+07:00",
+  "updatedAt": "2026-11-14T14:04:11+07:00",
   "stories": [
+    {
+      "id": "2026-11-14-afternoon",
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T14:04:11+07:00",
+      "label": "Chiều",
+      "tag": "THU MUA · 14/11",
+      "headline": "Ri6 loại A và B nhích giá ở miền Tây",
+      "summary": "Khảo sát kho ĐBSCL ngày 14/11 ghi nhận Ri6 loại A và B tăng 3.000–4.000 đồng/kg so với 13/11, còn loại C giảm 5.000 đồng/kg. Mẫu đường bộ ngày 11/11 ghi 195 cont, gồm 191 Việt Nam và 4 Thái Lan, giảm 11 cont so với 10/11.",
+      "priceHeading": "Giá thu mua tham khảo",
+      "rows": [
+        {
+          "market": "Kho ĐBSCL",
+          "asOf": "14/11/2026",
+          "volume": "—",
+          "price": "Ri6 A 61.000–65.000, B 46.000–50.000, C 30.000 đồng/kg. Monthong Việt A 93.000–98.000, B 73.000–78.000 đồng/kg.",
+          "sales": "Chưa có giá chốt từng lô"
+        }
+      ],
+      "takeaway": "Nhịp tăng của Ri6 mới tập trung ở loại A và B. Nếu sức bán và giá thực bán cùng hạng tại Trung Quốc cải thiện, giá kho có thể giữ được đà này.",
+      "editorNote": "Lượng qua đường bộ là ghi nhận ngành chưa đối chiếu hải quan và chưa cho biết lượng về chợ.",
+      "videoStatus": "Chiều 14/11: hồ sơ gốc 水果猎人-----金童, ID shuiguoliere41, được thu thập 14/11 nhưng không đọc được danh sách. Chưa xác minh video sau 28/10, không lấy 阿龙. Chưa xác minh tài khoản hoặc clip mới của 小宝哥/刘宝峰.",
+      "limits": "Khảo sát kho đăng 05:53 ngày 14/11. Bảng đường bộ công bố 14/11, số ngày 11/11 đã đọc trực tiếp, lấy cùng chuỗi khi so ngày 10/11. Chưa có số hàng mới/cũ, chất lượng, kiểm dịch hoặc sức bán mới hơn bản sáng.",
+      "sources": [
+        {
+          "label": "Khảo sát kho ĐBSCL 14/11",
+          "url": "https://thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-14-11-sau-rieng-ri6-tang-o-dong-bang-song-cuu-long-a341818.html"
+        },
+        {
+          "label": "Mẫu giá Gia Hưng ngày 13/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-14.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Đơn vị vận hành chợ xác nhận danh tính chủ cửa hàng",
+          "url": "https://www.sunhola.cn/newsd-108745.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-14-morning",
       "date": "2026-11-14",
