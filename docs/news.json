@@ -1,7 +1,58 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T20:05:03+07:00",
+  "updatedAt": "2026-11-15T08:04:50+07:00",
   "stories": [
+    {
+      "id": "2026-11-15-morning",
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T08:04:50+07:00",
+      "label": "Sáng",
+      "tag": "CHỢ ĐẦU MỐI · 14/11",
+      "headline": "Giá bán Monthong Việt trung khá hạ nhẹ tại Giang Nam",
+      "summary": "Ngày 14/11, Monthong Việt trung khá kiện 10 kg tại Giang Nam báo bán 300–310 NDT/kiện, thấp hơn 10 NDT ở đầu trên so với 13/11. Gia Hưng còn khoảng 103 cont, giảm khoảng 30 cont so với ngày trước theo cùng báo cáo.",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "14/11/2026",
+          "volume": "Mẫu 87 cont gồm 29 mới, 58 cũ. Mẫu khác 94 cont.",
+          "price": "Monthong Việt trung khá 10 kg: chào 320–340, báo bán 300–310 NDT/kiện. Hàng thường 10 kg báo bán 280–300 NDT/kiện.",
+          "sales": "Chưa xác minh tỷ lệ bán chốt"
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "14/11/2026",
+          "volume": "Mẫu 96 cont gồm 29 mới, 67 cũ. Mẫu khác báo 100 cont.",
+          "price": "—",
+          "sales": "Chưa xác minh tỷ lệ bán chốt"
+        }
+      ],
+      "takeaway": "Giá bán trung khá hạ nhẹ và hàng cũ còn nhiều có thể ghìm giá thu mua Việt Nam. Nhịp hồi cần giá thực bán cùng hạng tăng và hàng cũ giảm qua vài phiên.",
+      "editorNote": "Mẫu 100 cont tại Cao Bi Điếm có bảng phân theo xuất xứ cộng ra 99 cont.",
+      "videoStatus": "Sáng 15/11: hồ sơ gốc 水果猎人-----金童, ID shuiguoliere41, thu thập ngày 15/11 nhưng không có danh sách đọc được. Chưa xác minh bài sau 28/10. Không lấy 阿龙. Chưa xác minh Douyin hoặc video mới của 小宝哥/刘宝峰.",
+      "limits": "Trích đoạn báo cáo ngành ngày nghiệp vụ 14/11 được thu thập 15/11, chưa xác minh giờ đăng gốc. Không cộng các mẫu cùng chợ. Tuổi và chất lượng từng lô chưa rõ. Báo cáo ngành ghi 165 cont đường bộ ngày 12/11 gồm 163 Việt và 2 Thái, nhưng bản ngày 15/11 mới hiển thị đến 11/11; chưa đối chiếu hải quan.",
+      "sources": [
+        {
+          "label": "Lượng hàng và giá bán ngày 14/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-14"
+        },
+        {
+          "label": "Bảng giá chào và báo bán ngày 14/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-14&view=all"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-14-evening",
       "date": "2026-11-14",
