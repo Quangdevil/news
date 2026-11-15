@@ -1,7 +1,56 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T08:04:50+07:00",
+  "updatedAt": "2026-11-15T14:00:08+07:00",
   "stories": [
+    {
+      "id": "2026-11-15-afternoon",
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T14:00:08+07:00",
+      "label": "Chiều",
+      "tag": "THỊ TRƯỜNG · 15/11",
+      "headline": "Giá tham khảo Monthong Việt và Thái đi ngang tại Gia Hưng",
+      "summary": "Ngày 15/11, giá bán buôn tham khảo Monthong Việt Nam và Thái Lan tại Gia Hưng giữ nguyên so với 14/11. Tại Đồng bằng sông Cửu Long, Ri6 loại A có giá thu mua tham khảo 58.000–68.000 đồng/kg, với đánh giá khác nhau về nhịp tăng.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "15/11/2026",
+          "volume": "Chưa có số hàng mới và cũ trong ngày",
+          "price": "Monthong Việt Nam 42,20 NDT/kg, Thái Lan 70,00 NDT/kg. Chưa rõ phân hạng.",
+          "sales": "Chưa có giá thực bán và tỷ lệ tiêu thụ"
+        }
+      ],
+      "takeaway": "Nếu hàng cũ tiêu thụ chậm, giá thu mua trong nước có thể chịu sức ép. Nhịp hồi cần được kiểm tra qua giá thực bán cùng hạng và lượng hàng cũ qua vài phiên.",
+      "editorNote": "Mẫu Gia Hưng thiếu phân hạng nên chênh lệch giá chưa cho biết mức chênh giữa hai xuất xứ ở cùng phẩm cấp.",
+      "videoStatus": "Chiều 15/11: đối chiếu tên 水果猎人-----金童 và ID shuiguoliere41 qua hồ sơ chỉ mục, không dùng tài khoản 阿龙. Douyin được công cụ thu thập ngày 15/11 nhưng không trả danh sách video đọc được, chưa xác minh video sau mốc 28/10. Chưa xác minh tài khoản đăng video mới của 小宝哥/刘宝峰 tại Cao Bi Điếm.",
+      "limits": "Mẫu Gia Hưng quan sát 15/11, ấn bản công bố ngày 15/11 ghi thời điểm thu thập 12:17 giờ Trung Quốc. Thiếu cập nhật trong ngày về hàng mới/cũ, chất lượng từng lô và giá bán Giang Nam, Cao Bi Điếm. Hai bản tin Ri6 miền Tây khác nhau về xu hướng, thiếu dữ liệu cùng kho để đối chiếu.",
+      "sources": [
+        {
+          "label": "Mẫu giá bán buôn Gia Hưng 15/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-15.html"
+        },
+        {
+          "label": "Giá tham khảo tại Việt Nam 15/11",
+          "url": "https://doanhnghiephoinhap.vn/gia-sau-rieng-hom-nay-1511-thi-truong-bien-dong-tang-nhe-154271.html"
+        },
+        {
+          "label": "Đối chiếu diễn biến Ri6",
+          "url": "https://index.vn/tin-tuc/gia-sau-rieng-ngay-hom-nay-15-11-2026-ri6-mien-tay-tang-cao-nhat-98-000-dong-kg"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-15-morning",
       "date": "2026-11-15",
