@@ -1,7 +1,56 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T14:00:08+07:00",
+  "updatedAt": "2026-11-15T19:55:22+07:00",
   "stories": [
+    {
+      "id": "2026-11-15-evening",
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T19:55:22+07:00",
+      "label": "Tối",
+      "tag": "THỊ TRƯỜNG · 15/11",
+      "headline": "Giá tham khảo sầu riêng hạ nhẹ tại Giang Nam",
+      "summary": "Chỉ số giá bán buôn sầu riêng nhập khẩu tại Giang Nam ngày 14/11 giảm 0,28 NDT/kg so với 13/11. Tại Đắk Lắk ngày 15/11, giá thu mua tham khảo Monthong Việt Nam ở mức 95.000 đồng/kg loại A và 76.000 đồng/kg loại B.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Giang Nam, Quảng Châu",
+          "asOf": "14/11/2026",
+          "volume": "Chưa có số hàng mới và cũ bổ sung",
+          "price": "38,89 NDT/kg, mẫu gộp hàng Việt Nam và Thái Lan, chưa rõ giống và hạng.",
+          "sales": "Chưa có giá chào, giá thực bán và sức bán bổ sung"
+        }
+      ],
+      "takeaway": "Giá thu mua có thể chịu áp lực nếu giá thực bán cùng hạng ở đầu mối giảm thêm. Nếu hàng cũ vơi nhanh và giá thực bán tăng qua vài phiên, khả năng giữ giá sẽ tốt hơn.",
+      "editorNote": "Giá Giang Nam là trung vị mẫu bảy ngày, nên mức giảm chưa phản ánh mức giảm của từng giao dịch.",
+      "videoStatus": "Tối 15/11 chưa xác minh được video mới sau mốc 28/10 của 水果猎人-----金童, shuiguoliere41. Hồ sơ Douyin được thu thập 15/11, danh sách không đọc được. Kết quả của 阿龙 bị loại. Kết quả 7687227809186413481 ghi @小宝哥/刘宝峰 trong tiêu đề; trang gốc không đọc được tác giả, chưa xác minh tài khoản hoặc giờ đăng.",
+      "limits": "Chưa có số bổ sung về tồn kho, chất lượng từng lô, tốc độ tiêu thụ và thông quan trong ngày tại các đầu mối theo dõi. Chưa có giá cùng hạng cho Việt Nam và Thái Lan để so trực tiếp.",
+      "sources": [
+        {
+          "label": "Chuỗi giá bán buôn tham khảo Giang Nam",
+          "url": "https://www.xiaoju365.net/topics/durian.html"
+        },
+        {
+          "label": "Giá thu mua Đắk Lắk ngày 15/11",
+          "url": "https://thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-15-11-sau-rieng-musang-king-tang-a341945.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin có nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-15-afternoon",
       "date": "2026-11-15",
