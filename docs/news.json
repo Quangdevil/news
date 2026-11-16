@@ -1,7 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T07:56:18+07:00",
+  "updatedAt": "2026-11-16T20:16:14+07:00",
   "stories": [
+    {
+      "id": "2026-11-16-evening",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T20:16:14+07:00",
+      "label": "Tối",
+      "tag": "CHỢ ĐẦU MỐI · 15/11",
+      "headline": "Monthong Việt hàng đẹp bán nhanh hơn tại Quảng Châu",
+      "summary": "Ngày 15/11, Monthong Việt loại A đẹp kiện 10 kg tại Quảng Châu báo bán 330–350 NDT/kiện. Hàng cũ vẫn chiếm khoảng ba phần tư lượng đang bán tại Cao Bi Điếm và Gia Hưng.",
+      "rows": [
+        {
+          "market": "Quảng Châu",
+          "asOf": "15/11/2026",
+          "volume": "Hai mẫu ghi 78 và 70 cont, chưa tách mới/cũ.",
+          "price": "Monthong Việt A đẹp 10 kg chào 350–370, báo bán 330–350 NDT/kiện.",
+          "sales": "Hàng đẹp bán nhanh hơn."
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "15/11/2026",
+          "volume": "90 cont, 23 mới và 67 cũ.",
+          "price": "Monthong Việt A đẹp 9 kg tham khảo 310–320 NDT/kiện.",
+          "sales": "Chưa rõ tỷ lệ bán."
+        },
+        {
+          "market": "Gia Hưng",
+          "asOf": "15/11/2026",
+          "volume": "113 cont, 26 mới và 87 cũ.",
+          "price": "—",
+          "sales": "Chưa rõ tỷ lệ bán."
+        }
+      ],
+      "takeaway": "Giá thu mua có thể giữ tốt hơn với hàng đẹp nếu giá thực bán duy trì, nhưng nhịp hồi rộng còn phụ thuộc vào tốc độ giải phóng hàng cũ.",
+      "videoStatus": "Tối 16/11: hồ sơ chỉ mục khớp tên 水果猎人-----金童 và ID shuiguoliere41, chưa xác minh được video mới sau mốc 28/10 hay tài khoản Douyin 小宝哥/刘宝峰. Không dùng 阿龙.",
+      "limits": "Báo cáo ngày nghiệp vụ 15/11 được công cụ thu thập ngày 16/11; chưa rõ giờ ghi nhận gốc. Hai mẫu Quảng Châu không cộng. Chưa có đối chiếu giao dịch từng lô hoặc thông quan mới hơn bản sáng.",
+      "sources": [
+        {
+          "label": "Báo cáo thị trường ngày 15/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-15"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-16-morning",
       "date": "2026-11-16",
