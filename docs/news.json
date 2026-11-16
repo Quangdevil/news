@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T19:55:22+07:00",
+  "updatedAt": "2026-11-16T07:56:18+07:00",
   "stories": [
+    {
+      "id": "2026-11-16-morning",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T07:56:18+07:00",
+      "label": "Sáng",
+      "tag": "THỊ TRƯỜNG · 16/11",
+      "headline": "Lượng sầu riêng qua cửa khẩu đường bộ nhích lên",
+      "summary": "Ngày 14/11, lượng sầu riêng qua cửa khẩu đường bộ trong mẫu theo dõi tăng từ 131 lên 136 container, gồm 133 container hàng Việt Nam và 3 container hàng Thái Lan. Tại Giang Nam, giá bán buôn tham khảo ngày 15/11 đi ngang so với 14/11.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Giang Nam, Quảng Châu",
+          "asOf": "15/11/2026",
+          "volume": "Chưa có số hàng mới và hàng cũ",
+          "price": "38,89 NDT/kg, trung vị mẫu 7 ngày gộp hàng Việt Nam và Thái Lan, chưa rõ giống và hạng.",
+          "sales": "Chưa có giá chào, giá thực bán và tỷ lệ tiêu thụ"
+        }
+      ],
+      "takeaway": "Lượng qua cửa khẩu tăng nhẹ trong một ngày chưa cho thấy sức mua hồi phục. Nếu hàng tới chợ nhanh hơn tốc độ bán, giá thu mua có thể chịu sức ép, còn khả năng giữ giá sẽ tốt hơn nếu hàng cũ giảm và giá thực bán cùng hạng ổn định.",
+      "editorNote": "Số container đường bộ thuộc mẫu theo dõi cửa khẩu và chưa cho biết lượng hàng đã tới chợ.",
+      "videoStatus": "Sáng 16/11 đối chiếu Feigua khớp tên 水果猎人-----金童 và ID shuiguoliere41. Chưa xác minh được video sau mốc 28/10 hay tài khoản Douyin 小宝哥/刘宝峰. Không gán kết quả của 阿龙.",
+      "limits": "Ấn bản 16/11 báo số quan sát đường bộ ngày 14/11 và giá chợ ngày 15/11. Chưa có đối chiếu hải quan, thời gian kiểm dịch hoặc hàng đến Cao Bi Điếm.",
+      "sources": [
+        {
+          "label": "Ấn bản 16/11, mẫu cửa khẩu và giá chợ",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-16.html"
+        },
+        {
+          "label": "Chuỗi giá bán buôn tham khảo Giang Nam",
+          "url": "https://www.xiaoju365.net/topics/durian.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-15-evening",
       "date": "2026-11-15",
