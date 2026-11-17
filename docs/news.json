@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T14:05:16+07:00",
+  "updatedAt": "2026-11-17T20:02:26+07:00",
   "stories": [
+    {
+      "id": "2026-11-17-evening",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T20:02:26+07:00",
+      "label": "Tối",
+      "tag": "CHỢ ĐẦU MỐI · 15/11",
+      "headline": "Hàng cũ chiếm phần lớn mẫu Ri6 tại Cao Bi Điếm",
+      "summary": "Trong mẫu ngày 15/11, 15 trong 17 container Ri6 Việt đang bán tại Cao Bi Điếm là hàng cũ. Cùng ngày tại Giang Nam, Monthong Thái không có container mới trong mẫu và hàng cũ bán chậm.",
+      "rows": [
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "15/11/2026",
+          "volume": "Ri6 Việt: 2 cont mới, 15 cont cũ.",
+          "price": "—",
+          "sales": "Chưa rõ tỷ lệ bán Ri6."
+        },
+        {
+          "market": "Giang Nam",
+          "asOf": "15/11/2026",
+          "volume": "Monthong Thái: 0 cont mới trong mẫu.",
+          "price": "Ri6 Việt hàng mới 8,5–9 kg: chào A 220–230, B 180–200 NDT/kiện.",
+          "sales": "Monthong Thái hàng cũ bán chậm, chưa rõ giá thực bán Ri6."
+        }
+      ],
+      "takeaway": "Nếu hàng cũ tiếp tục bán chậm, kho thu mua tại Việt Nam có thể thận trọng hơn với lô chất lượng trung bình. Nhịp hồi cần được kiểm chứng qua lượng hàng cũ giảm và giá thực bán cùng hạng giữ qua vài phiên.",
+      "limits": "Báo cáo mang ngày 16/11, dữ liệu chợ ngày 15/11, được tìm thấy ngày 17/11. Chưa có số mới về kiểm dịch và thời gian thông quan.",
+      "videoStatus": "Tối 17/11 chưa xác minh video mới sau 28/10 của 水果猎人-----金童, ID shuiguoliere41, hoặc tài khoản chính chủ 小宝哥/刘宝峰. Không gán dữ liệu cho 阿龙 hay các tài khoản liên quan.",
+      "sources": [
+        {
+          "label": "Báo cáo chợ, dữ liệu ngày 15/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-16"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-17-afternoon",
       "date": "2026-11-17",
