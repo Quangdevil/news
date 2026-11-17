@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T20:16:14+07:00",
+  "updatedAt": "2026-11-17T08:04:22+07:00",
   "stories": [
+    {
+      "id": "2026-11-17-morning",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T08:04:22+07:00",
+      "label": "Sáng",
+      "tag": "THU MUA · 17/11",
+      "headline": "Giá thu mua Monthong giảm tại Đắk Lắk",
+      "summary": "Ngày 17/11, giá thu mua tham khảo Monthong Việt tại kho ở Đắk Lắk giảm còn 86.000 đồng/kg loại A và 66.000 đồng/kg loại B. Tại Đồng bằng sông Cửu Long, Monthong loại A được ghi nhận ở 95.000–98.000 đồng/kg, còn Ri6 loại A ở 63.000–65.000 đồng/kg.",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "17/11/2026",
+          "volume": "Chưa có số mới/cũ bổ sung",
+          "price": "—",
+          "sales": "Chưa có giá thực bán bổ sung"
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "17/11/2026",
+          "volume": "Chưa có số mới/cũ bổ sung",
+          "price": "—",
+          "sales": "Chưa có tỷ lệ bán bổ sung"
+        }
+      ],
+      "takeaway": "Mức giảm tại Đắk Lắk cần được theo dõi qua vài phiên. Nếu giá thực bán cùng hạng tại đầu mối Trung Quốc yếu đi và hàng cũ còn nhiều, giá thu mua có thể chịu thêm sức ép.",
+      "limits": "Không có cập nhật đủ rõ về giá đối chứng hàng Thái cùng hạng, thời gian kiểm dịch hay thông quan. Các mức thu mua tại Việt Nam là tham khảo.",
+      "videoStatus": "Chưa xác minh video mới của 水果猎人-----金童, shuiguoliere41, sau mốc 28/10. Chưa xác minh tài khoản Douyin của 小宝哥/刘宝峰; không gán dữ liệu cho họ hoặc dùng tài khoản 阿龙.",
+      "sources": [
+        {
+          "label": "Giá thu mua 17/11",
+          "url": "https://hangthat.thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-17-11-giam-o-dak-lak-a295402.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-16-evening",
       "date": "2026-11-16",
