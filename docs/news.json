@@ -1,7 +1,59 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T08:04:22+07:00",
+  "updatedAt": "2026-11-17T14:05:16+07:00",
   "stories": [
+    {
+      "id": "2026-11-17-afternoon",
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T14:05:16+07:00",
+      "label": "Chiều",
+      "tag": "CHỢ ĐẦU MỐI · 17/11",
+      "headline": "Monthong Thái giảm giá tham khảo tại Gia Hưng",
+      "summary": "Ngày 17/11, giá bán buôn tham khảo Monthong Thái tại Gia Hưng giữ ở mức 66,70 NDT/kg sau khi giảm 3,30 NDT/kg ngày 16/11, còn Monthong Việt đi ngang. Mẫu theo dõi đường bộ ngày 15/11 ghi 133 container, gồm 130 hàng Việt và 3 hàng Thái.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "17/11/2026",
+          "volume": "Chưa có số hàng mới/cũ",
+          "price": "Monthong Việt 42,20 NDT/kg, Monthong Thái 66,70 NDT/kg, chưa rõ hạng.",
+          "sales": "Chưa có giá thực bán hoặc tỷ lệ bán."
+        },
+        {
+          "market": "Giang Nam",
+          "asOf": "16/11/2026",
+          "volume": "Chưa có số hàng mới/cũ bổ sung",
+          "price": "38,61 NDT/kg, giảm 0,28 NDT/kg. Mẫu gộp hàng Việt và Thái, chưa rõ giống và hạng.",
+          "sales": "Chưa có giá chào và giá thực bán bổ sung."
+        }
+      ],
+      "takeaway": "Nếu giá thực bán hàng Thái cùng hạng giảm theo, Monthong Việt có thể chịu thêm áp lực. Mức giá thu mua sẽ có cơ sở ổn định hơn nếu hàng cũ vơi và giá thực bán giữ qua vài phiên.",
+      "editorNote": "Mẫu đường bộ ghi lượng qua cửa khẩu, chưa cho biết lượng đã tới chợ.",
+      "videoStatus": "Chiều 17/11, trang Douyin được công cụ thu thập nhưng không trả danh sách đọc được. Feigua khớp ID shuiguoliere41 và tên 水果猎人-----金童; chưa xác minh video mới sau 28/10. Kết quả 7687227809186413481 ghi đăng 19/09/2026 20:50 và nhắc 小宝哥/刘宝峰 trong tiêu đề, chưa xác minh tác giả. Không lấy 阿龙.",
+      "limits": "Ấn bản 17/11 cập nhật lúc 14:17 giờ Trung Quốc. Chưa có số liệu bổ sung về hàng cũ, sức bán, kiểm dịch và thời gian thông quan tại các đầu mối theo dõi.",
+      "sources": [
+        {
+          "label": "Giá chợ và cửa khẩu",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-17.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-17-morning",
       "date": "2026-11-17",
