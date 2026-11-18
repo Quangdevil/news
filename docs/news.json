@@ -1,7 +1,56 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T20:02:26+07:00",
+  "updatedAt": "2026-11-18T07:56:43+07:00",
   "stories": [
+    {
+      "id": "2026-11-18-morning",
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T07:56:43+07:00",
+      "label": "Sáng",
+      "tag": "THU MUA · 18/11",
+      "headline": "Monthong miền Tây tăng giá thu mua",
+      "summary": "Ngày 18/11, Monthong Việt tại các kho miền Tây được thu mua tham khảo 95.000–104.000 đồng/kg loại A và 75.000–84.000 đồng/kg loại B. Khảo sát ghi nhận một số kho tăng 4.000–6.000 đồng/kg so với hôm trước.",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "17/11/2026",
+          "volume": "Chưa có số hàng mới/cũ bổ sung.",
+          "price": "38,61 NDT/kg tham khảo, mẫu gộp hàng Việt và Thái, chưa rõ giống/hạng.",
+          "sales": "Chưa có giá chào, thực bán hoặc tỷ lệ bán mới."
+        }
+      ],
+      "priceHeading": "Giá tham khảo",
+      "takeaway": "Giá thu mua miền Tây tăng trong khi mẫu bán buôn Giang Nam đi ngang cho thấy cần theo dõi biên giá xuất khẩu. Nếu giá thực bán cùng hạng tăng và hàng cũ vơi, nhịp tăng có cơ sở duy trì, còn tiêu thụ chậm có thể ghìm giá mua.",
+      "editorNote": "Giá kho miền Tây và mẫu gộp tại Giang Nam khác phạm vi, chưa đủ để tính lợi nhuận từng lô.",
+      "videoStatus": "Sáng 18/11 chưa xác minh video mới sau 28/10 của 水果猎人-----金童, ID shuiguoliere41. Hồ sơ chỉ mục khớp tên và ID nhưng thu thập ba tuần trước. Chưa xác minh tài khoản chính chủ 小宝哥/刘宝峰. Không lấy 阿龙.",
+      "limits": "Bài giá Việt Nam đăng 07:30 ngày 18/11; số liệu Giang Nam ngày 17/11, ấn bản ngày 18/11. Chưa có dữ liệu mới đủ rõ về kiểm dịch, thời gian thông quan, chất lượng từng lô và hàng đến Cao Bi Điếm.",
+      "sources": [
+        {
+          "label": "Khảo sát giá kho miền Tây 18/11",
+          "url": "https://doanhnghiephoinhap.vn/gia-sau-rieng-hom-nay-1811-sau-rieng-thai-mien-tay-tang-gia-manh-154517.html"
+        },
+        {
+          "label": "Mẫu thị trường ngày 17/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-18.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-17-evening",
       "date": "2026-11-17",
