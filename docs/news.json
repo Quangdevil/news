@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T14:04:22+07:00",
+  "updatedAt": "2026-11-18T20:05:00+07:00",
   "stories": [
+    {
+      "id": "2026-11-18-evening",
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T20:05:00+07:00",
+      "label": "Tối",
+      "tag": "CHỢ ĐẦU MỐI · 18/11",
+      "headline": "Giá tham khảo Monthong Việt giảm tại Gia Hưng",
+      "summary": "Ngày 18/11, giá bán buôn tham khảo Monthong Việt tại Gia Hưng giảm 1 NDT/kg xuống 41,20 NDT/kg. Monthong Thái giữ 66,70 NDT/kg, trong khi mẫu sầu riêng đông lạnh Thái tăng lên 80 NDT/kg.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "18/11/2026",
+          "volume": "Chưa có số hàng mới/cũ.",
+          "price": "Monthong Việt 41,20, Thái 66,70 NDT/kg. Sầu riêng đông lạnh Thái 80 NDT/kg, chưa rõ giống; các mẫu chưa rõ hạng.",
+          "sales": "Chưa có giá chào, thực bán hoặc tỷ lệ tiêu thụ."
+        }
+      ],
+      "takeaway": "Mẫu Monthong Việt giảm trong khi giá thu mua miền Tây tăng khiến biên xuất khẩu cần được theo dõi sát. Nếu giá thực bán cùng hạng giảm theo, sức mua ở kho có thể chững lại; hàng cũ vơi và giá giao dịch ổn định sẽ hỗ trợ khả năng giữ giá.",
+      "editorNote": "Mẫu đông lạnh có đặc tính và phạm vi khác với Monthong tươi, cần theo dõi riêng.",
+      "videoStatus": "Tối 18/11, Douyin không trả danh sách video đọc được. Feigua khớp 水果猎人-----金童 và shuiguoliere41, bản chỉ mục ba tuần trước. Chưa xác minh video sau mốc 28/10 hoặc tài khoản chính chủ 小宝哥/刘宝峰. Không dùng 阿龙.",
+      "limits": "Quan sát giá ngày 18/11, ấn bản ngày 18/11 được đọc tối cùng ngày. Thiếu phân hạng, giá thành giao, số mới/cũ, chất lượng từng lô và cập nhật kiểm dịch. Chưa có số bổ sung cho Cao Bi Điếm và Giang Nam.",
+      "sources": [
+        {
+          "label": "Mẫu giá Gia Hưng 18/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-18.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-18-afternoon",
       "date": "2026-11-18",
