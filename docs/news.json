@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T07:56:43+07:00",
+  "updatedAt": "2026-11-18T14:04:22+07:00",
   "stories": [
+    {
+      "id": "2026-11-18-afternoon",
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T14:04:22+07:00",
+      "label": "Chiều",
+      "tag": "LUỒNG HÀNG · 16/11",
+      "headline": "Lượng sầu riêng qua cửa khẩu đường bộ tăng nhẹ",
+      "summary": "Mẫu theo dõi ngày 16/11 ghi 136 container sầu riêng qua cửa khẩu đường bộ, tăng 3 container so với 15/11. Trong đó, hàng Việt Nam chiếm 132 container, hàng Thái Lan 4 container.",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "17/11/2026",
+          "volume": "Chưa có số hàng mới/cũ bổ sung.",
+          "price": "Monthong Việt 42,20 NDT/kg, Thái 66,70 NDT/kg tham khảo, chưa rõ hạng.",
+          "sales": "Giá tham khảo đi ngang; chưa có giá thực bán và sức bán."
+        }
+      ],
+      "priceHeading": "Giá tham khảo",
+      "takeaway": "Lượng qua cửa khẩu nhích lên có thể tăng áp lực cung nếu hàng tới chợ nhanh hơn tốc độ bán. Giá thu mua sẽ có cơ sở giữ tốt hơn khi hàng cũ giảm và giá thực bán cùng hạng ổn định qua vài phiên.",
+      "editorNote": "Số cửa khẩu thuộc mẫu đường bộ, chưa cho biết lượng hàng đã tới chợ hoặc tổng nhập khẩu.",
+      "videoStatus": "Chiều 18/11 chưa xác minh video mới sau mốc 28/10 của 水果猎人-----金童, ID shuiguoliere41. Chưa xác minh tài khoản chính chủ 小宝哥/刘宝峰. Không gán dữ liệu cho 阿龙 hoặc tài khoản liên quan.",
+      "limits": "Ấn bản ngày 18/11 ghi thu thập lúc 01:17 giờ Trung Quốc; số quan sát cửa khẩu ngày 16/11, giá chợ ngày 17/11. Chưa có đối chiếu hải quan, kiểm dịch hoặc số hàng mới/cũ trong ngày tại Giang Nam và Cao Bi Điếm.",
+      "sources": [
+        {
+          "label": "Mẫu cửa khẩu và giá chợ",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-18.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-18-morning",
       "date": "2026-11-18",
