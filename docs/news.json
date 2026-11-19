@@ -1,7 +1,58 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T14:04:18+07:00",
+  "updatedAt": "2026-11-19T20:05:07+07:00",
   "stories": [
+    {
+      "id": "2026-11-19-evening",
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T20:05:07+07:00",
+      "label": "Tối",
+      "tag": "LUỒNG HÀNG · 18/11",
+      "headline": "Mẫu sầu riêng đường bộ tăng lên 153 container",
+      "summary": "Báo cáo ngành phát hành ngày 19/11 ghi mẫu sầu riêng Thái và Việt được phía Trung Quốc cho qua đường bộ ngày 18/11 đạt 153 container. Con số tăng 12 container so với 17/11, tương đương khoảng 8,5%.",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "19/11/2026",
+          "volume": "Chưa có số hàng mới/cũ bổ sung.",
+          "price": "—",
+          "sales": "Chưa xác minh giá thực bán hoặc tỷ lệ bán bổ sung."
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "19/11/2026",
+          "volume": "Chưa có số hàng mới/cũ bổ sung.",
+          "price": "—",
+          "sales": "Chưa xác minh tỷ lệ bán bổ sung."
+        }
+      ],
+      "takeaway": "Lượng đường bộ hồi lên có thể gia tăng áp lực cung nếu hàng tới chợ nhanh hơn tốc độ bán. Giá thu mua Việt Nam sẽ có cơ sở giữ tốt hơn khi giá thực bán cùng hạng ổn định và hàng cũ vơi qua vài phiên.",
+      "editorNote": "Số 153 container thuộc mẫu đường bộ, chưa có đối chiếu hải quan hoặc lượng đã tới chợ.",
+      "videoStatus": "Tối 19/11 trang Douyin được công cụ thu thập nhưng không có danh sách đọc được. Hồ sơ chỉ mục khớp 水果猎人-----金童, shuiguoliere41, chưa xác minh video sau mốc 28/10. Chưa xác minh tài khoản chính chủ 小宝哥/刘宝峰; không dùng 阿龙.",
+      "limits": "Chỉ xác minh trích đoạn báo cáo ghi phát hành 19/11, quan sát đến 18/11; trang đầy đủ truy cập lỗi nên chưa đối chiếu phân theo xuất xứ. Không coi thay đổi nhãn ngày ở trang tổng hợp là ngày quan sát mới.",
+      "sources": [
+        {
+          "label": "Báo cáo ngành, trích đoạn mẫu đường bộ 18/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-19&view=all"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-19-afternoon",
       "date": "2026-11-19",
