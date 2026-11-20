@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T20:05:07+07:00",
+  "updatedAt": "2026-11-20T08:03:49+07:00",
   "stories": [
+    {
+      "id": "2026-11-20-morning",
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-20T08:03:49+07:00",
+      "label": "Sáng",
+      "tag": "CHỢ ĐẦU MỐI · 19/11",
+      "headline": "Giá tham khảo sầu riêng tiếp tục hạ tại Giang Nam",
+      "summary": "Ngày 19/11, mẫu giá bán buôn sầu riêng nhập khẩu tại Giang Nam giảm 0,55 NDT/kg xuống 37,78 NDT/kg. Mẫu gộp hàng Việt Nam và Thái Lan, chưa rõ giống và phân hạng.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "19/11/2026",
+          "volume": "Chưa có số hàng mới/cũ bổ sung.",
+          "price": "37,78 NDT/kg tham khảo, giảm từ 38,33 NDT/kg ngày 18/11.",
+          "sales": "Chưa có giá chào, thực bán hoặc tỷ lệ tiêu thụ bổ sung."
+        }
+      ],
+      "takeaway": "Mẫu bán buôn hạ trong khi giá mua miền Tây tăng khiến biên xuất khẩu cần được theo dõi. Nếu giá thực bán cùng hạng giảm và hàng cũ tiêu chậm, kho có thể mua thận trọng hơn; giá giao dịch ổn định cùng hàng cũ vơi sẽ hỗ trợ khả năng giữ giá.",
+      "editorNote": "Chỉ số là giá mẫu tính toán, chưa đủ để suy ra giá giao dịch của từng lô.",
+      "videoStatus": "Sáng 20/11 hồ sơ chỉ mục khớp 水果猎人-----金童, ID shuiguoliere41, nhưng chỉ mục ba tuần trước. Chưa xác minh video mới sau mốc 28/10 hoặc tài khoản chính chủ 小宝哥/刘宝峰. Không dùng 阿龙.",
+      "limits": "Ấn bản 20/11 ghi thu thập 01:17 giờ Trung Quốc; giá quan sát ngày 19/11. Chưa có số bổ sung về kiểm dịch, thời gian thông quan, chất lượng từng lô và hàng tại Cao Bi Điếm.",
+      "sources": [
+        {
+          "label": "Mẫu giá Giang Nam ngày 19/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-20.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-19-evening",
       "date": "2026-11-19",
