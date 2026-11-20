@@ -1,7 +1,62 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T08:03:49+07:00",
+  "updatedAt": "2026-11-20T13:56:43+07:00",
   "stories": [
+    {
+      "id": "2026-11-20-afternoon",
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-20T13:56:43+07:00",
+      "label": "Chiều",
+      "tag": "THỊ TRƯỜNG · 20/11",
+      "headline": "Giá thực bán tại đầu mối còn thiếu đối chứng mới",
+      "summary": "Đến chiều 20/11, chưa có số bổ sung đủ rõ về giá thực bán, hàng mới và hàng cũ tại các đầu mối theo dõi. Mẫu tham khảo gần nhất vẫn mang ngày 19/11, nên chưa đủ để xác nhận nhịp hồi trong ngày.",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "20/11/2026",
+          "volume": "Chưa có số mới/cũ bổ sung.",
+          "price": "Chưa có giá thực bán bổ sung.",
+          "sales": "Chưa rõ tỷ lệ tiêu thụ."
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "20/11/2026",
+          "volume": "Chưa có số mới/cũ bổ sung.",
+          "price": "Chưa có giá thực bán bổ sung.",
+          "sales": "Chưa rõ tỷ lệ tiêu thụ."
+        }
+      ],
+      "takeaway": "Giá thu mua Việt Nam tăng cần được đối chiếu với giá bán cùng giống, cùng hạng và quy cách tại Trung Quốc. Nếu hàng cũ vơi và giá giao dịch giữ qua vài phiên, khả năng giữ giá sẽ tốt hơn; hàng bán chậm có thể khiến kho giảm nhịp mua.",
+      "editorNote": "Một số báo giá ngày 18/11 thiếu quy cách đồng nhất, chưa đủ để xác nhận giá thành giao.",
+      "videoStatus": "Chiều 20/11 chưa xác minh video mới sau mốc 28/10 của 水果猎人-----金童, ID shuiguoliere41. Hồ sơ chỉ mục khớp tên và ID nhưng cũ ba tuần. Chưa xác minh tài khoản chính chủ 小宝哥/刘宝峰; không dùng 阿龙.",
+      "limits": "Không đổi ngày quan sát cũ. Trang báo cáo đề ngày 19/11 chỉ rõ báo giá thương hiệu là nghiệp vụ 18/11, câu 330–340 NDT/kiện có khác biệt quy cách cần đối chiếu. Chưa có số bổ sung về kiểm dịch, thông quan và chất lượng lô.",
+      "sources": [
+        {
+          "label": "Giới hạn quy cách báo giá 18/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-19&view=all"
+        },
+        {
+          "label": "Mẫu giá gần nhất ngày 19/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-20.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-20-morning",
       "date": "2026-11-20",
