@@ -1,7 +1,56 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T19:56:17+07:00",
+  "updatedAt": "2026-11-21T08:04:19+07:00",
   "stories": [
+    {
+      "id": "2026-11-21-morning",
+      "date": "2026-11-21",
+      "publishedAt": "2026-11-21T08:04:19+07:00",
+      "label": "Sáng",
+      "tag": "CHỢ ĐẦU MỐI · 20/11",
+      "headline": "Giá tham khảo sầu riêng Giang Nam giảm phiên thứ ba",
+      "summary": "Ngày 20/11, mẫu giá bán buôn sầu riêng nhập khẩu tại Giang Nam xuống 37,22 NDT/kg, giảm 0,56 NDT/kg so với 19/11. Đây là phiên giảm thứ ba liên tiếp trong chuỗi mẫu, trong khi khảo sát thu mua miền Tây ngày 21/11 ghi nhận tăng.",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "20/11/2026",
+          "volume": "Chưa có số hàng mới/cũ bổ sung.",
+          "price": "37,22 NDT/kg tham khảo, mẫu gộp hàng Việt và Thái, chưa rõ giống/hạng.",
+          "sales": "Chưa có giá chào, thực bán hoặc tỷ lệ tiêu thụ."
+        }
+      ],
+      "priceHeading": "Giá tham khảo",
+      "takeaway": "Giá mua trong nước và mẫu bán buôn diễn biến khác chiều khiến biên xuất khẩu cần được theo dõi. Nếu giá thực bán cùng hạng yếu và hàng cũ tiêu chậm, kho có thể giảm nhịp mua; hàng cũ vơi và giá giao dịch giữ sẽ hỗ trợ ổn định.",
+      "editorNote": "Chuỗi giá mẫu chưa cho biết mức giảm của từng giao dịch cùng phẩm cấp.",
+      "videoStatus": "Sáng 21/11 chưa xác minh video mới sau 28/10 của 水果猎人-----金童, ID shuiguoliere41. Feigua khớp tên/ID nhưng chỉ mục ba tuần trước. Chưa xác minh tài khoản chính chủ 小宝哥/刘宝峰; không dùng 阿龙.",
+      "limits": "Giá chợ quan sát 20/11, ấn bản công bố 21/11 ghi thu thập 02:17 giờ Trung Quốc. Bài kho miền Tây đăng 07:30 ngày 21/11 mới xác minh trích đoạn tăng 1.000–3.000 đồng/kg; không suy ra bảng giá từng loại.",
+      "sources": [
+        {
+          "label": "Chuỗi giá Giang Nam đến 20/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-21.html"
+        },
+        {
+          "label": "Khảo sát kho miền Tây 21/11",
+          "url": "https://doanhnghiephoinhap.vn/gia-sau-rieng-hom-nay-2111-sau-rieng-mien-tay-tang-gia-deu-154779.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-20-evening",
       "date": "2026-11-20",
