@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T20:00:45+07:00",
+  "updatedAt": "2026-11-22T08:03:06+07:00",
   "stories": [
+    {
+      "id": "2026-11-22-morning",
+      "date": "2026-11-22",
+      "publishedAt": "2026-11-22T08:03:06+07:00",
+      "label": "Sáng",
+      "tag": "THU MUA · 22/11",
+      "headline": "Ri6 miền Tây tăng nhẹ giá thu mua",
+      "summary": "Ngày 22/11, giá thu mua tham khảo Ri6 tại kho miền Tây tăng nhẹ 1.000–2.000 đồng/kg theo khảo sát, loại A ở 60.000–70.000 đồng/kg. Monthong Việt loại A được ghi nhận 100.000–110.000 đồng/kg.",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "22/11/2026",
+          "volume": "Chưa có số hàng mới/cũ bổ sung.",
+          "price": "Chưa có giá thực bán bổ sung.",
+          "sales": "Chưa rõ tỷ lệ tiêu thụ."
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "22/11/2026",
+          "volume": "Chưa có số hàng mới/cũ bổ sung.",
+          "price": "Chưa có giá thực bán bổ sung.",
+          "sales": "Chưa rõ tỷ lệ tiêu thụ."
+        }
+      ],
+      "takeaway": "Giá thu mua tăng sẽ có cơ sở duy trì nếu giá thực bán cùng giống và hạng tại Trung Quốc giữ tốt, hàng cũ vơi qua vài phiên. Nếu tiêu thụ chậm hoặc giá bán yếu, kho có thể giảm nhịp mua để giữ biên.",
+      "videoStatus": "Sáng 22/11 chưa xác minh video mới sau 28/10 của 水果猎人-----金童, ID shuiguoliere41. Feigua khớp tên và ID nhưng chỉ mục ba tuần trước. Chưa xác minh tài khoản chính chủ 小宝哥/刘宝峰; không dùng 阿龙.",
+      "limits": "Bài khảo sát đăng 07:30 ngày 22/11, công cụ thu thập cùng ngày. Giá tham khảo tại kho, chưa có chứng từ giao dịch hoặc số bổ sung về thông quan, kiểm dịch và chất lượng lô.",
+      "sources": [
+        {
+          "label": "Khảo sát kho ngày 22/11",
+          "url": "https://doanhnghiephoinhap.vn/gia-sau-rieng-hom-nay-2211-sau-rieng-ri6-mien-tay-tang-gia-tro-lai-154842.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-21-evening",
       "date": "2026-11-21",
