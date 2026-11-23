@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T08:03:38+07:00",
+  "updatedAt": "2026-11-23T13:55:53+07:00",
   "stories": [
+    {
+      "id": "2026-11-23-afternoon",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T13:55:53+07:00",
+      "label": "Chiều",
+      "tag": "THỊ TRƯỜNG · 23/11",
+      "headline": "Sức bán sầu riêng tại đầu mối còn thiếu số cập nhật",
+      "summary": "Đến chiều 23/11, chưa có số bổ sung đủ rõ về hàng mới, hàng cũ và giá thực bán tại Giang Nam hoặc Cao Bi Điếm. Mẫu giá gần nhất còn mang ngày 22/11, nên chưa đủ để xác nhận nhịp hồi trong ngày.",
+      "rows": [
+        {
+          "market": "Giang Nam",
+          "asOf": "23/11/2026",
+          "volume": "Chưa có số mới/cũ bổ sung.",
+          "price": "Chưa có giá thực bán bổ sung.",
+          "sales": "Chưa rõ tỷ lệ tiêu thụ."
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "23/11/2026",
+          "volume": "Chưa có số mới/cũ bổ sung.",
+          "price": "Chưa có giá thực bán bổ sung.",
+          "sales": "Chưa rõ tỷ lệ tiêu thụ."
+        }
+      ],
+      "takeaway": "Giá thu mua Việt Nam sẽ có cơ sở giữ tốt hơn nếu giá giao dịch cùng giống, hạng và quy cách tại Trung Quốc ổn định, hàng cũ vơi qua vài phiên. Nếu tiêu thụ chậm, kho có thể giảm nhịp mua để giữ biên.",
+      "videoStatus": "Chiều 23/11 trang Douyin không có danh sách đọc được. Hồ sơ chỉ mục khớp 水果猎人-----金童 và shuiguoliere41 nhưng cũ ba tuần. Chưa xác minh video sau 28/10 hoặc tài khoản chính chủ 小宝哥/刘宝峰. Không dùng 阿龙.",
+      "limits": "Không đổi ngày giá quan sát 22/11 trong ấn bản 23/11. Thiếu số kiểm dịch, thời gian thông quan và chất lượng từng lô; chưa đối chiếu phát biểu video mới được.",
+      "sources": [
+        {
+          "label": "Ấn bản mới nhất, giữ ngày quan sát 22/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-23.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-23-morning",
       "date": "2026-11-23",
