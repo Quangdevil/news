@@ -1,7 +1,63 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T17:37:00+07:00",
+  "updatedAt": "2026-11-23T20:00:00+07:00",
   "stories": [
+    {
+      "id": "2026-11-23-evening",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T20:00:00+07:00",
+      "label": "Tối",
+      "tag": "THỊ TRƯỜNG · 23/11",
+      "headline": "Giá tham khảo Monthong Việt bật lên tại Gia Hưng",
+      "summary": "Ngày 23/11, giá bán buôn tham khảo Monthong Việt tại Gia Hưng lên 47,80 NDT/kg, tăng 6,60 NDT/kg so với mẫu ngày trước. Monthong Thái cũng tăng, lên 68,35 NDT/kg.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "23/11/2026",
+          "volume": "Chưa rõ hàng mới và hàng cũ.",
+          "price": "Monthong Việt 47,80 và Thái 68,35 NDT/kg, đều là mẫu hàng đóng thùng, chưa rõ hạng.",
+          "sales": "Chưa có giá chào, giá thực bán hoặc tỷ lệ tiêu thụ."
+        },
+        {
+          "market": "Giang Nam và Cao Bi Điếm",
+          "asOf": "23/11/2026",
+          "volume": "Chưa có số hàng mới/cũ bổ sung.",
+          "price": "Chưa có giá chào hoặc thực bán mới.",
+          "sales": "Chưa rõ sức bán."
+        }
+      ],
+      "takeaway": "Giá thu mua ở Việt Nam có thể được hỗ trợ nếu giá thực bán cùng hạng giữ qua vài phiên và hàng cũ vơi. Nếu sức bán chậm, kho có thể giảm nhịp mua.",
+      "editorNote": "Mẫu giá Gia Hưng chưa có phân hạng và chưa đủ để xác nhận sức bán đã hồi.",
+      "videoStatus": "Kiểm tra tối 23/11. Hồ sơ chỉ mục khớp 水果猎人-----金童 và shuiguoliere41; bản thu thập khoảng ba tuần trước. Trang gốc không trả danh sách đọc được. Chưa xác minh video mới sau mốc 28/10 hoặc quyền sở hữu tài khoản 小宝哥/刘宝峰; không dùng 阿龙.",
+      "limits": "Mẫu Gia Hưng ghi ngày 23/11, truy xuất 23/11. Thiếu dữ liệu hàng về, tồn kho, chất lượng từng lô, kiểm dịch và thời gian thông quan.",
+      "sources": [
+        {
+          "label": "Chuỗi mẫu bán buôn Gia Hưng",
+          "url": "https://www.xiaoju365.net/topics/durian.html"
+        },
+        {
+          "label": "Nghị định thư kiểm dịch Thái Lan–Trung Quốc",
+          "url": "https://thailand.prd.go.th/en/content/category/detail/id/48/iid/560228"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-23-afternoon-coffee",
       "date": "2026-11-23",
