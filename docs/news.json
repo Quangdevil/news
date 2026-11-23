@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T13:55:53+07:00",
+  "updatedAt": "2026-11-23T17:37:00+07:00",
   "stories": [
+    {
+      "id": "2026-11-23-afternoon-coffee",
+      "date": "2026-11-23",
+      "publishedAt": "2026-11-23T17:37:00+07:00",
+      "label": "Chiều",
+      "tag": "CÀ PHÊ · 23/11",
+      "headline": "Giá cà phê nhân xô Tây Nguyên quanh 71.000–72.000 đồng/kg",
+      "summary": "Chiều 23/11, giá thu mua tham khảo Robusta nhân xô tại Tây Nguyên ở 71.000–71.800 đồng/kg. Bảng giá kỳ hạn cập nhật sáng cùng ngày ghi Robusta London tháng 01/2027 ở 2.881 USD/tấn và Arabica New York tháng 03/2027 ở 268,50 cent Mỹ/lb.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "London",
+          "asOf": "23/11/2026 · 08:25",
+          "volume": "—",
+          "price": "Robusta tháng 01/2027: 2.881 USD/tấn.",
+          "sales": "Giá kỳ hạn ghi nhận trong bản cập nhật sáng."
+        },
+        {
+          "market": "New York",
+          "asOf": "23/11/2026 · 08:25",
+          "volume": "—",
+          "price": "Arabica tháng 03/2027: 268,50 cent Mỹ/lb.",
+          "sales": "Giá kỳ hạn ghi nhận trong bản cập nhật sáng."
+        },
+        {
+          "market": "Tây Nguyên",
+          "asOf": "23/11/2026 · 15:29",
+          "volume": "—",
+          "price": "Robusta nhân xô: Lâm Đồng 71.000, Đắk Lắk và Gia Lai 71.600, Đắk Nông 71.800 đồng/kg.",
+          "sales": "Giá thu mua tham khảo."
+        }
+      ],
+      "takeaway": "Theo dõi cùng kỳ hạn London qua các phiên tiếp theo để đánh giá áp lực lên giá nhân xô trong nước.",
+      "videoStatus": "Bản tin cà phê độc lập.",
+      "limits": "Giá kỳ hạn theo bản cập nhật sáng, chưa xác nhận giá chốt phiên 23/11. Giá Arabica thu mua tại Việt Nam chưa có số đối chiếu.",
+      "sources": [
+        {
+          "label": "Bảng giá kỳ hạn 23/11",
+          "url": "https://banggianongsan.com/bang-gia-ca-phe/"
+        },
+        {
+          "label": "Giá thu mua 23/11 lúc 15:29",
+          "url": "https://bcce.vn/posts/gia-ca-phe-hom-nay-23-11-tiep-tuc-neo-thap-sau-tuan-lao-doc"
+        }
+      ]
+    },
     {
       "id": "2026-11-23-afternoon",
       "date": "2026-11-23",
