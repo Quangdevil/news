@@ -1,7 +1,71 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T20:00:00+07:00",
+  "updatedAt": "2026-11-24T08:03:16+07:00",
   "stories": [
+    {
+      "id": "2026-11-24-morning",
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T08:03:16+07:00",
+      "label": "Sáng",
+      "tag": "THỊ TRƯỜNG · 24/11",
+      "headline": "Giá thu mua Monthong loại A tại kho miền Tây giữ mức cao",
+      "summary": "Sáng 24/11, giá thu mua tham khảo tại kho Đồng bằng sông Cửu Long ở mức 115.000–120.000 đồng/kg với Monthong loại A và 70.000–75.000 đồng/kg với Ri6 loại A. Các đầu mối Trung Quốc chưa có số mới đủ rõ để đánh giá sức bán.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Kho ĐBSCL",
+          "asOf": "24/11/2026 · bản giá 06:28",
+          "volume": "—",
+          "price": "Monthong Việt loại B 95.000–100.000 đồng/kg; Ri6 Việt loại B 55.000–60.000 đồng/kg.",
+          "sales": "Giá thu mua tham khảo tại kho."
+        },
+        {
+          "market": "Giang Nam, Gia Hưng và Cao Bi Điếm",
+          "asOf": "Sáng 24/11/2026",
+          "volume": "Chưa rõ hàng mới và hàng cũ.",
+          "price": "Chưa có giá chào hoặc thực bán mới được xác nhận.",
+          "sales": "Chưa rõ nhịp tiêu thụ."
+        }
+      ],
+      "takeaway": "Giá hàng tuyển có thể giữ nếu các kho duy trì nhịp mua và hàng cũ tại đầu mối vơi; sức bán chậm sẽ làm tăng áp lực lên giá thu mua.",
+      "editorNote": "Giá kho hàng phân loại và giá chốt xô tại vườn khác khâu và quy cách.",
+      "videoStatus": "Sáng 24/11, chỉ mục thu thập hôm nay khớp 水果猎人-----金童 / shuiguoliere41; hồ sơ gốc không có danh sách đọc được. Chưa xác minh video mới sau mốc 28/10, chưa xác minh chính chủ 小宝哥/刘宝峰.",
+      "limits": "Ấn bản Trung Quốc 24/11 giữ số Gia Hưng ngày 23/11. Chưa có số mới về thời gian thông quan, tỷ lệ lô đạt kiểm dịch hoặc cước.",
+      "sources": [
+        {
+          "label": "Giá kho ĐBSCL 24/11",
+          "url": "https://hangthat.thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-24-11-duy-tri-muc-cao-a295582.html"
+        },
+        {
+          "label": "Bảng chốt xô tại vườn",
+          "url": "https://kinhtevn.com.vn/gia-sau-rieng-hom-nay"
+        },
+        {
+          "label": "Ấn bản Trung Quốc ngày 24/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-24.html"
+        },
+        {
+          "label": "Chuỗi mẫu bán buôn Gia Hưng",
+          "url": "https://www.xiaoju365.net/topics/durian.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-23-evening",
       "date": "2026-11-23",
