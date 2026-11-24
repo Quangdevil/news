@@ -1,7 +1,71 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T08:03:16+07:00",
+  "updatedAt": "2026-11-24T14:03:46+07:00",
   "stories": [
+    {
+      "id": "2026-11-24-afternoon",
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T14:03:46+07:00",
+      "label": "Chiều",
+      "tag": "THỊ TRƯỜNG · 24/11",
+      "headline": "Số container sầu riêng qua cửa khẩu giảm trong mẫu ngày 22/11",
+      "summary": "Mẫu theo dõi đường bộ ngày 22/11 ghi nhận 135 container sầu riêng Việt Nam được thông qua, giảm 24 container so với ngày 21/11. Bảng giá tại vựa miền Tây ngày 24/11 ghi nhận Musang King loại A ở mức tham khảo 130.000–135.000 đồng/kg.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Vựa ĐBSCL",
+          "asOf": "24/11/2026",
+          "volume": "—",
+          "price": "Musang King loại A 130.000–135.000 đồng/kg; Black Thorn loại A 130.000 đồng/kg.",
+          "sales": "Giá thu mua tham khảo."
+        },
+        {
+          "market": "Giang Nam và Cao Bi Điếm",
+          "asOf": "Chiều 24/11/2026",
+          "volume": "Chưa có số hàng mới và hàng cũ.",
+          "price": "Chưa có giá chào hoặc giá thực bán mới.",
+          "sales": "Chưa xác định nhịp hồi."
+        }
+      ],
+      "takeaway": "Giá thu mua có thể giữ nếu hàng cũ tại chợ vơi và giá thực bán cùng hạng ổn định; nếu sức mua chậm, lượng xe qua biên giới giảm vẫn chưa đủ để đỡ giá.",
+      "editorNote": "Số container chỉ phản ánh phạm vi theo dõi tại cửa khẩu.",
+      "videoStatus": "Chiều 24/11 chỉ mục khớp 水果猎人-----金童 / shuiguoliere41, hồ sơ gốc không có danh sách đọc được; chưa xác minh video sau 28/10 hoặc chính chủ 小宝哥/刘宝峰.",
+      "limits": "Bản tổng hợp ngày 23/11, nhắc lại trong ấn bản 24/11, số quan sát 22/11, thu thập 24/11. Thiếu thời gian thông quan, cước và tỷ lệ đạt kiểm dịch.",
+      "sources": [
+        {
+          "label": "Mẫu thông quan ngày 22/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-23"
+        },
+        {
+          "label": "Giá tại vựa 24/11",
+          "url": "https://doanhnghiepkinhtexanh.vn/gia-sau-rieng-hom-nay-2411-musang-king-cham-135000-dongkg-a56404.html"
+        },
+        {
+          "label": "Ấn bản Trung Quốc ngày 24/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-24.html"
+        },
+        {
+          "label": "Chuỗi mẫu bán buôn Gia Hưng",
+          "url": "https://www.xiaoju365.net/topics/durian.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-24-morning",
       "date": "2026-11-24",
