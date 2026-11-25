@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T13:56:05+07:00",
+  "updatedAt": "2026-11-25T20:04:25+07:00",
   "stories": [
+    {
+      "id": "2026-11-25-evening",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T20:04:25+07:00",
+      "label": "Tối",
+      "tag": "CHỢ ĐẦU MỐI · 25/11",
+      "headline": "Giá tham khảo Monthong Việt và Thái cùng đi ngang tại Gia Hưng",
+      "summary": "Ngày 25/11, mẫu bán buôn Monthong Việt tại Gia Hưng giữ ở 47,80 NDT/kg, còn Monthong Thái giữ 70,00 NDT/kg. Chưa có số hàng mới, hàng cũ và tốc độ tiêu thụ để xác định sức mua.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "25/11/2026",
+          "volume": "Chưa rõ lượng hàng mới và hàng cũ.",
+          "price": "Monthong Việt 47,80 và Monthong Thái 70,00 NDT/kg, hàng đóng thùng chưa rõ hạng.",
+          "sales": "Chưa có giá thực bán cùng quy cách."
+        },
+        {
+          "market": "Giang Nam và Cao Bi Điếm",
+          "asOf": "Tối 25/11/2026",
+          "volume": "Chưa xác nhận lượng hàng mới và hàng cũ.",
+          "price": "Chưa có giá thực bán mới được xác nhận.",
+          "sales": "Chưa đủ số liệu để đánh giá nhịp hồi."
+        }
+      ],
+      "takeaway": "Nếu giá thực bán cùng hạng giữ và hàng cũ vơi, giá thu mua trong nước có thể ổn định. Nếu hàng nằm chợ lâu, kho có thể giảm nhịp mua.",
+      "videoStatus": "Tối 25/11 chỉ mục khớp 水果猎人-----金童 / shuiguoliere41, hồ sơ Douyin không có danh sách đọc được; chưa xác minh video sau 28/10. Thương hộ 小宝哥 tại Cao Bi Điếm có liên hệ với 刘宝峰, chưa xác minh tài khoản Douyin chính chủ.",
+      "limits": "Trang tổng hợp ghi ngày mẫu 25/11, thu thập 25/11; trang chuyên đề còn dừng 24/11 trong bản truy xuất. Thiếu dữ liệu mới về kiểm dịch, thời gian thông quan và chất lượng.",
+      "sources": [
+        {
+          "label": "Mẫu Gia Hưng ngày 25/11",
+          "url": "https://www.xiaoju365.net/"
+        },
+        {
+          "label": "Trang chuyên đề đối chiếu",
+          "url": "https://www.xiaoju365.net/topics/durian.html"
+        },
+        {
+          "label": "Mẫu thông quan 23/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-24"
+        },
+        {
+          "label": "Ấn bản ngày 25/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-25.html"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://www.sunhola.cn/newsd-108971.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-25-afternoon",
       "date": "2026-11-25",
