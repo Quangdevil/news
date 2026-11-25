@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T08:03:34+07:00",
+  "updatedAt": "2026-11-25T13:56:05+07:00",
   "stories": [
+    {
+      "id": "2026-11-25-afternoon",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T13:56:05+07:00",
+      "label": "Chiều",
+      "tag": "THỊ TRƯỜNG · 25/11",
+      "headline": "Lượng sầu riêng qua cửa khẩu tăng 34 container trong mẫu ngày 23/11",
+      "summary": "Ngày 23/11, mẫu thông quan đường bộ vào Trung Quốc ghi nhận 165 container sầu riêng Việt Nam và 4 container Thái Lan. Tổng lượng trong mẫu tăng từ 135 lên 169 container so với 22/11.",
+      "rows": [
+        {
+          "market": "Giang Nam, Gia Hưng và Cao Bi Điếm",
+          "asOf": "Chiều 25/11/2026",
+          "volume": "Chưa xác nhận lượng hàng mới và hàng cũ.",
+          "price": "Chưa có giá chào hoặc giá thực bán mới đủ căn cứ.",
+          "sales": "Chưa xác định sức bán và nhịp hồi."
+        }
+      ],
+      "takeaway": "Nếu hàng về chợ tăng nhanh hơn sức bán và tồn dồn, kho Việt Nam có thể giảm nhịp thu mua. Nếu lượng hàng mới được hấp thụ đều và giá thực bán cùng hạng giữ, giá thu mua có thể ổn định.",
+      "editorNote": "Số container phản ánh mẫu tại cửa khẩu, chưa cho biết lượng hàng về từng chợ.",
+      "videoStatus": "Ngày 25/11 chỉ mục khớp 水果猎人-----金童 / shuiguoliere41; trang gốc không trả danh sách đọc được, chưa xác minh clip sau 28/10. Đã đối chiếu Liu Baofeng là người phụ trách thương hộ 小宝哥 tại Cao Bi Điếm, chưa xác minh quyền sở hữu tài khoản Douyin qua clip gốc.",
+      "limits": "Quan sát 23/11, báo cáo 24/11, ấn bản và thu thập 25/11; thiếu thời gian chờ, cước, tỷ lệ kiểm dịch và chất lượng lô.",
+      "sources": [
+        {
+          "label": "Mẫu thông quan 23/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-24"
+        },
+        {
+          "label": "Ấn bản ngày 25/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-25.html"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://www.sunhola.cn/newsd-108971.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-25-morning",
       "date": "2026-11-25",
