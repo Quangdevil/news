@@ -1,7 +1,66 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T20:03:39+07:00",
+  "updatedAt": "2026-11-25T08:03:34+07:00",
   "stories": [
+    {
+      "id": "2026-11-25-morning",
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T08:03:34+07:00",
+      "label": "Sáng",
+      "tag": "THỊ TRƯỜNG · 25/11",
+      "headline": "Giá thu mua Monthong loại A hạ tại miền Tây",
+      "summary": "Mẫu thu mua sáng 25/11 tại Đồng bằng sông Cửu Long ghi nhận Monthong Việt loại A ở 116.000 đồng/kg, giảm 4.000 đồng/kg so với mốc ngày trước trong cùng bảng giá. Ri6 loại A ở 74.000 đồng/kg.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Điểm thu mua ĐBSCL",
+          "asOf": "25/11/2026",
+          "volume": "—",
+          "price": "Monthong Việt loại B 96.000 đồng/kg; Ri6 Việt loại B 59.000 đồng/kg.",
+          "sales": "Giá thu mua tham khảo."
+        },
+        {
+          "market": "Giang Nam, Gia Hưng và Cao Bi Điếm",
+          "asOf": "Sáng 25/11/2026",
+          "volume": "Chưa có số mới về hàng mới và hàng cũ.",
+          "price": "Chưa xác nhận giá chào hoặc giá thực bán mới.",
+          "sales": "Chưa đủ dữ liệu xác định nhịp hồi."
+        }
+      ],
+      "takeaway": "Nếu giá thực bán cùng hạng tại chợ Trung Quốc giữ và hàng cũ vơi, giá thu mua có thể ổn định. Nếu tồn kéo dài, kho có thể mua chậm hơn.",
+      "videoStatus": "Sáng 25/11, chỉ mục khớp 水果猎人-----金童 và shuiguoliere41; hồ sơ Douyin không có danh sách đọc được. Chưa xác minh video sau mốc 28/10 hay chủ tài khoản 小宝哥/刘宝峰.",
+      "limits": "Mẫu Gia Hưng vẫn ghi ngày 24/11. Thiếu dữ liệu mới về chất lượng lô, thời gian thông quan, tỷ lệ đạt kiểm dịch và cước.",
+      "sources": [
+        {
+          "label": "Giá thu mua 25/11 lúc 06:15",
+          "url": "https://thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-25-11-sau-thai-o-dong-bang-song-cuu-long-giam-a343136.html"
+        },
+        {
+          "label": "Ấn bản Trung Quốc ngày 24/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-24.html"
+        },
+        {
+          "label": "Chuỗi mẫu bán buôn Gia Hưng",
+          "url": "https://www.xiaoju365.net/topics/durian.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Thông tin doanh nghiệp Cao Bi Điếm",
+          "url": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260620_4708125.html"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-24-evening",
       "date": "2026-11-24",
