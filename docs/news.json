@@ -1,7 +1,71 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T13:58:35+07:00",
+  "updatedAt": "2026-11-26T20:04:20+07:00",
   "stories": [
+    {
+      "id": "2026-11-26-evening",
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T20:04:20+07:00",
+      "label": "Tối",
+      "tag": "THỊ TRƯỜNG · 26/11",
+      "headline": "Monthong đi ngang tại Gia Hưng, một lô Thái bị báo vượt ngưỡng cadmium",
+      "summary": "Giá bán buôn tham khảo Monthong tại Gia Hưng ngày 26/11 giữ ở 47,80 NDT/kg với hàng Việt và 70,00 NDT/kg với hàng Thái. Theo ghi nhận tại Hữu Nghị Quan ngày 25/11, một lô sầu riêng Thái bị báo không đạt do cadmium vượt ngưỡng.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "26/11/2026",
+          "volume": "Chưa xác nhận hàng mới và hàng cũ.",
+          "price": "Hai mẫu Monthong đóng thùng chưa rõ phân hạng.",
+          "sales": "Chưa có giá chào, giá thực bán hoặc tỷ lệ tiêu thụ."
+        },
+        {
+          "market": "Giang Nam và Cao Bi Điếm",
+          "asOf": "Tối 26/11/2026",
+          "volume": "Chưa có số hàng mới và hàng cũ.",
+          "price": "Chưa xác nhận giá thực bán mới.",
+          "sales": "Chưa rõ sức bán và nhịp hồi."
+        }
+      ],
+      "takeaway": "Giá thu mua có thể giữ nếu giá thực bán cùng hạng ổn định và tồn giảm; nếu sức bán chậm, kho có thể giảm nhịp mua.",
+      "editorNote": "Ghi nhận kiểm tra một lô chưa cho biết tỷ lệ không đạt của hàng Thái.",
+      "videoStatus": "Tối 26/11 chỉ mục khớp 水果猎人-----金童 / shuiguoliere41; hồ sơ gốc không trả danh sách đọc được. Chưa xác minh clip sau 28/10 hoặc tài khoản Douyin chính chủ 小宝哥/刘宝峰.",
+      "limits": "Giá quan sát 26/11; sự kiện cửa khẩu 25/11, báo cáo và thu thập 26/11. Chưa đối chiếu được thông báo chính thức về lô không đạt.",
+      "sources": [
+        {
+          "label": "Mẫu Gia Hưng ngày 26/11",
+          "url": "https://www.xiaoju365.net/"
+        },
+        {
+          "label": "Ghi nhận cửa khẩu ngày 25/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-26"
+        },
+        {
+          "label": "Chuỗi giá bán buôn Giang Nam",
+          "url": "https://www.xiaoju365.net/topics/durian.html"
+        },
+        {
+          "label": "Ấn bản 26/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-26.html"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://www.sunhola.cn/newsd-108971.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-26-afternoon",
       "date": "2026-11-26",
