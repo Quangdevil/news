@@ -1,7 +1,67 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T20:04:25+07:00",
+  "updatedAt": "2026-11-26T07:55:37+07:00",
   "stories": [
+    {
+      "id": "2026-11-26-morning",
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T07:55:37+07:00",
+      "label": "Sáng",
+      "tag": "THỊ TRƯỜNG · 26/11",
+      "headline": "Black Thorn loại A tăng giá thu mua tại miền Tây",
+      "summary": "Sáng 26/11, giá thu mua tham khảo Black Thorn Việt loại A tại Đồng bằng sông Cửu Long lên 160.000 đồng/kg, tăng 30.000 đồng/kg so với ngày trước trong cùng bảng giá. Mẫu thông quan đường bộ ngày 24/11 ghi nhận 151 container Việt Nam và 9 container Thái Lan, tổng cộng giảm 9 container so với ngày 23/11.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Điểm thu mua ĐBSCL",
+          "asOf": "26/11/2026",
+          "volume": "—",
+          "price": "Black Thorn Việt loại B 130.000 đồng/kg.",
+          "sales": "Giá thu mua tham khảo."
+        },
+        {
+          "market": "Giang Nam và Cao Bi Điếm",
+          "asOf": "Sáng 26/11/2026",
+          "volume": "Chưa rõ hàng mới và hàng cũ.",
+          "price": "Chưa xác nhận giá chào hoặc thực bán mới.",
+          "sales": "Chưa xác định nhịp hồi."
+        }
+      ],
+      "takeaway": "Nếu hàng cũ vơi và giá thực bán cùng hạng giữ, giá thu mua hàng tuyển có thể ổn định; tồn kéo dài có thể làm kho mua chậm hơn.",
+      "editorNote": "Số container tại cửa khẩu chưa cho biết lượng hàng về từng chợ.",
+      "videoStatus": "Chỉ mục ngày 26/11 khớp 水果猎人-----金童 / shuiguoliere41, số tác phẩm tăng từ 3608 lên 3612 nhưng chưa đọc được danh sách video gốc. Chưa xác minh clip sau 28/10 hoặc tài khoản chính chủ 小宝哥/刘宝峰.",
+      "limits": "Quan sát thông quan ngày 24/11, báo cáo ngày 25/11, thu thập 26/11. Mẫu phụ ghi 147 container Việt, không cộng với mẫu chính.",
+      "sources": [
+        {
+          "label": "Giá thu mua 26/11",
+          "url": "https://thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-26-11-black-thorn-tang-manh-a343274.html"
+        },
+        {
+          "label": "Mẫu đường bộ 24/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-25&view=all"
+        },
+        {
+          "label": "Ấn bản 26/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-26.html"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://www.sunhola.cn/newsd-108971.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-25-evening",
       "date": "2026-11-25",
