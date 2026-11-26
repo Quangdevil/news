@@ -1,7 +1,62 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T07:55:37+07:00",
+  "updatedAt": "2026-11-26T13:58:35+07:00",
   "stories": [
+    {
+      "id": "2026-11-26-afternoon",
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T13:58:35+07:00",
+      "label": "Chiều",
+      "tag": "CHỢ ĐẦU MỐI · 26/11",
+      "headline": "Giá tham khảo sầu riêng nhích lên tại Giang Nam",
+      "summary": "Mẫu giá bán buôn sầu riêng nhập khẩu tại Giang Nam ngày 25/11 tăng 0,28 NDT/kg lên 37,22 NDT/kg. Mẫu gộp hàng Việt Nam và Thái Lan, chưa tách giống hoặc phân hạng.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Giang Nam, Quảng Châu",
+          "asOf": "25/11/2026",
+          "volume": "Chưa xác nhận lượng hàng mới và hàng cũ.",
+          "price": "37,22 NDT/kg tham khảo, hàng nhập đóng thùng.",
+          "sales": "Chưa có giá chào, giá thực bán và tỷ lệ tiêu thụ."
+        },
+        {
+          "market": "Cao Bi Điếm",
+          "asOf": "Chiều 26/11/2026",
+          "volume": "Chưa có số hàng mới và hàng cũ.",
+          "price": "Chưa xác nhận giá thực bán mới.",
+          "sales": "Chưa rõ nhịp hồi."
+        }
+      ],
+      "takeaway": "Giá thu mua Việt Nam có thể ổn định nếu giá thực bán cùng hạng giữ và tồn cuối phiên giảm; nếu sức bán chậm, kho có thể giảm nhịp mua.",
+      "videoStatus": "Chiều 26/11 chỉ mục xác nhận 水果猎人-----金童 / shuiguoliere41; trang gốc không trả danh sách đọc được, chưa xác minh clip sau 28/10. Chưa xác minh tài khoản Douyin chính chủ 小宝哥/刘宝峰.",
+      "limits": "Ngày quan sát 25/11, ấn bản và công cụ thu thập 26/11. Chưa có số mới về thời gian thông quan, kiểm dịch, chất lượng lô và cước.",
+      "sources": [
+        {
+          "label": "Chuỗi giá bán buôn Giang Nam",
+          "url": "https://www.xiaoju365.net/topics/durian.html"
+        },
+        {
+          "label": "Ấn bản 26/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-26.html"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://www.sunhola.cn/newsd-108971.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-26-morning",
       "date": "2026-11-26",
