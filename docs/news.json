@@ -8,28 +8,28 @@
       "publishedAt": "2026-11-27T08:02:44+07:00",
       "label": "Sáng",
       "tag": "THỊ TRƯỜNG · 27/11",
-      "headline": "Monthong loại A tại kho miền Tây ở mức 113.000–118.000 đồng/kg",
-      "summary": "Sáng 27/11, giá thu mua tham khảo Monthong Việt loại A tại kho Đồng bằng sông Cửu Long ở 113.000–118.000 đồng/kg. Mẫu thông quan đường bộ ngày 25/11 ghi nhận 155 container Việt Nam và 4 container Thái Lan, tổng giảm một container so với ngày trước.",
-      "priceHeading": "Giá tham khảo",
+      "headline": "Quảng Châu bán khá hơn, giá sầu riêng giữ ổn định",
+      "summary": "Ngày 27/11, Quảng Châu ghi nhận 64 container sầu riêng, gồm 60 của Việt Nam và 4 của Thái Lan. Sức bán khá hơn hôm trước, đạt khoảng 30–40% tại thời điểm ghi nhận và dự kiến đạt 50% trong ngày.",
+      "priceHeading": "Giá chào và giá thực bán",
       "rows": [
+        {
+          "market": "Quảng Châu",
+          "asOf": "27/11/2026",
+          "volume": "Ri6 Việt có 17 container mới; 4 container Thái đều là hàng cũ.",
+          "price": "Monthong Việt A3/10 kg: mức phổ biến 350–360 NDT/thùng, chưa rõ là giá chào hay bán; hàng trung khá thực bán 360–380. Ri6 Việt A3/8,5 kg: chào khoảng 230, bán 210–220; một số chào 250, bán 230–240. Ri6 B3 chào 180–200 NDT/thùng.",
+          "sales": "Đã bán khoảng 30–40%; dự kiến 50% trong ngày."
+        },
         {
           "market": "Kho ĐBSCL",
           "asOf": "27/11/2026",
           "volume": "—",
-          "price": "Monthong Việt B: 95.000–105.000; Ri6 Việt A: 71.000–75.000, B: 57.000–60.000 đồng/kg.",
+          "price": "Giá thu mua tham khảo Monthong Việt A 113.000–118.000, Monthong Việt B: 95.000–105.000; Ri6 Việt A: 71.000–75.000, B: 57.000–60.000 đồng/kg.",
           "sales": "Giá thu mua tham khảo."
-        },
-        {
-          "market": "Giang Nam và Cao Bi Điếm",
-          "asOf": "Sáng 27/11/2026",
-          "volume": "Chưa rõ lượng hàng mới và hàng cũ.",
-          "price": "Chưa có giá chào hoặc thực bán mới được xác nhận.",
-          "sales": "Chưa rõ sức bán."
         }
       ],
-      "takeaway": "Nếu giá thực bán cùng hạng giữ và hàng cũ vơi, kho Việt Nam có thể duy trì nhịp mua; nếu tồn tăng, giá thu mua có thể chịu áp lực.",
+      "takeaway": "Theo dõi tỷ lệ bán cuối ngày và lượng hàng cũ chuyển sang phiên sau để đánh giá sức mua.",
       "videoStatus": "Chỉ mục ngày 27/11 khớp 水果猎人-----金童 / shuiguoliere41; trang Douyin gốc không có danh sách đọc được. Chưa xác minh video sau 28/10 hoặc tài khoản chính chủ 小宝哥/刘宝峰.",
-      "limits": "Thông quan quan sát 25/11, báo cáo 26/11, thu thập 27/11. Mẫu phụ ghi 159 container Việt Nam, giữ riêng. Biên giá kho qua hai ngày chưa đủ để xác nhận biến động theo cùng điểm mua.",
+      "limits": "Thông quan quan sát 25/11, báo cáo 26/11, thu thập 27/11. Mẫu phụ ghi 159 container Việt Nam, giữ riêng. Biên giá kho qua hai ngày chưa đủ để xác nhận biến động theo cùng điểm mua. Ghi nhận Quảng Châu do người dùng cung cấp, chưa đối chiếu độc lập; không có URL nguồn cho ghi nhận này.",
       "sources": [
         {
           "label": "Giá thu mua tại kho 27/11",
