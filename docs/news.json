@@ -1,7 +1,73 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T08:02:44+07:00",
+  "updatedAt": "2026-11-27T14:03:49+07:00",
   "stories": [
+    {
+      "id": "2026-11-27-afternoon",
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T14:03:49+07:00",
+      "label": "Chiều",
+      "tag": "CHỢ ĐẦU MỐI · 27/11",
+      "headline": "Giá tham khảo sầu riêng đi ngang tại Giang Nam, nhích lên ở Vô Tích",
+      "summary": "Tại Quảng Châu, sức bán ngày 27/11 khá hơn hôm trước, đạt khoảng 30–40% lúc ghi nhận và dự kiến đạt 50% trong ngày. Mẫu giá bán buôn Giang Nam ngày 26/11 đi ngang, trong khi mẫu Vô Tích ngày 27/11 tăng 1,55 NDT/kg.",
+      "priceHeading": "Giá bán và giá tham khảo",
+      "rows": [
+        {
+          "market": "Quảng Châu",
+          "asOf": "27/11/2026",
+          "volume": "64 container: Việt Nam 60, Thái Lan 4 đều là hàng cũ; Ri6 Việt có 17 container mới.",
+          "price": "Thực bán: Monthong Việt A3/10 kg trung khá 360–380; Ri6 Việt A3/8,5 kg phần lớn 210–220 NDT/thùng, chào khoảng 230.",
+          "sales": "Đã bán 30–40%, dự kiến 50%."
+        },
+        {
+          "market": "Giang Nam",
+          "asOf": "26/11/2026",
+          "volume": "—",
+          "price": "37,22 NDT/kg tham khảo, gộp hàng Việt và Thái đóng thùng, chưa rõ giống/hạng.",
+          "sales": "—"
+        },
+        {
+          "market": "Vô Tích",
+          "asOf": "27/11/2026",
+          "volume": "—",
+          "price": "28,66 NDT/kg tham khảo, chưa rõ xuất xứ, giống và hạng.",
+          "sales": "—"
+        }
+      ],
+      "takeaway": "Theo dõi giá thực bán cùng hạng và hàng cũ cuối phiên.",
+      "videoStatus": "Chỉ mục ngày 27/11 khớp 水果猎人-----金童 / shuiguoliere41; trang gốc không trả danh sách đọc được. Chưa xác minh video mới sau 28/10 hoặc tài khoản chính chủ 小宝哥/刘宝峰.",
+      "limits": "Số Quảng Châu ngày 27/11 do người dùng cung cấp, chưa đối chiếu độc lập. Mẫu Giang Nam ngày 26/11 và Vô Tích ngày 27/11, cùng thu thập ngày 27/11.",
+      "sources": [
+        {
+          "label": "Chuỗi mẫu bán buôn theo ngày quan sát",
+          "url": "https://www.xiaoju365.net/topics/durian.html"
+        },
+        {
+          "label": "Ấn bản 27/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-27.html"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://hebei.ifeng.com/c/81cqEuPGcO8"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://www.sunhola.cn/newsd-108971.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-27-morning",
       "date": "2026-11-27",
