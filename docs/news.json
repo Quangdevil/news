@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T20:04:20+07:00",
+  "updatedAt": "2026-11-27T08:02:44+07:00",
   "stories": [
+    {
+      "id": "2026-11-27-morning",
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T08:02:44+07:00",
+      "label": "Sáng",
+      "tag": "THỊ TRƯỜNG · 27/11",
+      "headline": "Monthong loại A tại kho miền Tây ở mức 113.000–118.000 đồng/kg",
+      "summary": "Sáng 27/11, giá thu mua tham khảo Monthong Việt loại A tại kho Đồng bằng sông Cửu Long ở 113.000–118.000 đồng/kg. Mẫu thông quan đường bộ ngày 25/11 ghi nhận 155 container Việt Nam và 4 container Thái Lan, tổng giảm một container so với ngày trước.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Kho ĐBSCL",
+          "asOf": "27/11/2026",
+          "volume": "—",
+          "price": "Monthong Việt B: 95.000–105.000; Ri6 Việt A: 71.000–75.000, B: 57.000–60.000 đồng/kg.",
+          "sales": "Giá thu mua tham khảo."
+        },
+        {
+          "market": "Giang Nam và Cao Bi Điếm",
+          "asOf": "Sáng 27/11/2026",
+          "volume": "Chưa rõ lượng hàng mới và hàng cũ.",
+          "price": "Chưa có giá chào hoặc thực bán mới được xác nhận.",
+          "sales": "Chưa rõ sức bán."
+        }
+      ],
+      "takeaway": "Nếu giá thực bán cùng hạng giữ và hàng cũ vơi, kho Việt Nam có thể duy trì nhịp mua; nếu tồn tăng, giá thu mua có thể chịu áp lực.",
+      "videoStatus": "Chỉ mục ngày 27/11 khớp 水果猎人-----金童 / shuiguoliere41; trang Douyin gốc không có danh sách đọc được. Chưa xác minh video sau 28/10 hoặc tài khoản chính chủ 小宝哥/刘宝峰.",
+      "limits": "Thông quan quan sát 25/11, báo cáo 26/11, thu thập 27/11. Mẫu phụ ghi 159 container Việt Nam, giữ riêng. Biên giá kho qua hai ngày chưa đủ để xác nhận biến động theo cùng điểm mua.",
+      "sources": [
+        {
+          "label": "Giá thu mua tại kho 27/11",
+          "url": "https://thuonghieucongluan.com.vn/gia-sau-rieng-hom-nay-27-11-sau-thai-o-khu-vuc-dong-bang-song-cuu-long-giu-muc-cao-a343402.html"
+        },
+        {
+          "label": "Mẫu thông quan ngày 25/11",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-26"
+        },
+        {
+          "label": "Ấn bản 27/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-27.html"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://hebei.ifeng.com/c/81cqEuPGcO8"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://www.sunhola.cn/newsd-108971.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-26-evening",
       "date": "2026-11-26",
