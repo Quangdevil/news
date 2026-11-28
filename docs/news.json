@@ -1,7 +1,71 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T13:56:54+07:00",
+  "updatedAt": "2026-11-28T19:56:32+07:00",
   "stories": [
+    {
+      "id": "2026-11-28-evening",
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-28T19:56:32+07:00",
+      "label": "Tối",
+      "tag": "CHỢ ĐẦU MỐI · 28/11",
+      "headline": "Monthong Việt và Thái cùng tăng giá tham khảo tại Gia Hưng",
+      "summary": "Ngày 28/11, mẫu giá bán buôn Monthong Việt tại Gia Hưng tăng 2,20 NDT/kg lên 50,00 NDT/kg. Monthong Thái tăng 3,90 NDT/kg lên 77,80 NDT/kg.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Gia Hưng",
+          "asOf": "28/11/2026",
+          "volume": "Chưa rõ lượng hàng mới và hàng cũ.",
+          "price": "Monthong Việt 50,00 NDT/kg; Monthong Thái 77,80 NDT/kg, chưa rõ hạng.",
+          "sales": "Chưa có giá thực bán cùng hạng và tỷ lệ tiêu thụ."
+        },
+        {
+          "market": "Giang Nam và Cao Bi Điếm",
+          "asOf": "Tối 28/11/2026",
+          "volume": "Chưa xác nhận lượng hàng mới và hàng cũ.",
+          "price": "Chưa xác nhận giá thực bán mới.",
+          "sales": "Chưa đủ số liệu đánh giá nhịp hồi."
+        }
+      ],
+      "takeaway": "Giá thu mua có thể được hỗ trợ nếu giá thực bán cùng hạng tăng và hàng cũ vơi. Nếu sức bán chậm và tồn tăng, các kho có thể giảm nhịp mua.",
+      "editorNote": "Hai mẫu giá chưa rõ phân hạng nên chưa thể so chênh lệch cùng phẩm cấp.",
+      "videoStatus": "Chỉ mục 28/11 khớp 水果猎人-----金童 / shuiguoliere41; hồ sơ gốc không trả danh sách đọc được, chưa xác minh clip mới hoặc tài khoản Douyin chính chủ 小宝哥/刘宝峰.",
+      "limits": "Giá quan sát 28/11, thu thập 28/11. Ấn bản ngày 28/11 giữ mẫu giá 27/11. Thiếu số mới về kiểm dịch, thời gian thông quan và cước.",
+      "sources": [
+        {
+          "label": "Mẫu Gia Hưng 28/11",
+          "url": "https://www.xiaoju365.net/"
+        },
+        {
+          "label": "Ấn bản 28/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-28.html"
+        },
+        {
+          "label": "Báo cáo giá vùng trồng và thông quan",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-27"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://hebei.ifeng.com/c/81cqEuPGcO8"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://www.sunhola.cn/newsd-108971.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-28-afternoon",
       "date": "2026-11-28",
