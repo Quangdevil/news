@@ -1,7 +1,67 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T08:04:07+07:00",
+  "updatedAt": "2026-11-28T13:56:54+07:00",
   "stories": [
+    {
+      "id": "2026-11-28-afternoon",
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-28T13:56:54+07:00",
+      "label": "Chiều",
+      "tag": "THỊ TRƯỜNG · 28/11",
+      "headline": "Sầu riêng Việt qua cửa khẩu giảm 14 container trong mẫu ngày 26/11",
+      "summary": "Mẫu thông quan đường bộ ngày 26/11 ghi 141 container sầu riêng Việt Nam, giảm 14 so với ngày trước, trong khi hàng Thái tăng 7 lên 11 container. Tổng hai xuất xứ giảm từ 159 xuống 152 container trong cùng mẫu.",
+      "priceHeading": "Giá tham khảo",
+      "rows": [
+        {
+          "market": "Giang Nam và Cao Bi Điếm",
+          "asOf": "Chiều 28/11/2026",
+          "volume": "Chưa có số mới về hàng mới và hàng cũ.",
+          "price": "Chưa xác nhận giá thực bán mới.",
+          "sales": "Chưa rõ sức bán cuối phiên."
+        },
+        {
+          "market": "Điểm thu mua miền Tây",
+          "asOf": "27/11/2026",
+          "volume": "—",
+          "price": "Chào thu mua theo cặp A/B: Monthong Việt 108.000–124.000 / 88.000–104.000; Ri6 Việt 67.000–75.000 / 50.000–59.000 đồng/kg.",
+          "sales": "Chưa có giá thành giao từng lô."
+        }
+      ],
+      "takeaway": "Giá thu mua có thể giữ nếu hàng cũ tại chợ vơi và giá thực bán cùng hạng ổn định. Nếu sức bán chậm, kho có thể giảm nhịp mua.",
+      "editorNote": "Số container qua cửa khẩu chưa cho biết lượng hàng về từng chợ.",
+      "videoStatus": "Chỉ mục ngày 28/11 khớp 水果猎人-----金童 / shuiguoliere41. Hồ sơ gốc chưa có danh sách đọc được; chưa xác minh video mới hoặc tài khoản Douyin chính chủ 小宝哥/刘宝峰.",
+      "limits": "Mẫu đường bộ quan sát ngày 26/11, báo cáo ngày 27/11, thu thập ngày 28/11. Mẫu phụ ghi 150 container Việt, giữ riêng; thiếu tỷ lệ đạt kiểm dịch, thời gian chờ và cước.",
+      "sources": [
+        {
+          "label": "Báo cáo giá vùng trồng và thông quan",
+          "url": "https://www.xiaoju365.net/durian-daily.php?date=2026-11-27"
+        },
+        {
+          "label": "Ấn bản 28/11",
+          "url": "https://www.xiaoju365.net/daily/editions/2026-11-28.html"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://hebei.ifeng.com/c/81cqEuPGcO8"
+        },
+        {
+          "label": "Đối chiếu thương hộ Cao Bi Điếm",
+          "url": "https://www.sunhola.cn/newsd-108971.html"
+        },
+        {
+          "label": "Hồ sơ Douyin",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAAjRARMQkH8l3pvr6FZeQdvFEfa4zmcWF5qNf6BJHMwwxMolm4krtI-RvJlP0OomX"
+        },
+        {
+          "label": "Đối chiếu ID và tên",
+          "url": "https://dy3.feigua.cn/bloggeropen/EEFF1BEB4D0D42E58014B6016690BAA1"
+        },
+        {
+          "label": "Kết quả Douyin nhắc tên ứng viên Cao Bi Điếm",
+          "url": "https://www.douyin.com/video/7687227809186413481"
+        }
+      ]
+    },
     {
       "id": "2026-11-28-morning",
       "date": "2026-11-28",
